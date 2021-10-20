@@ -1,0 +1,11 @@
+SELECT NNN FROM Phl1.DBF O_VYD
+ WHERE
+(O_VYD.GRPVOZ IN (6, 7))
+ AND
+(O_VYD.TLU IN ('À4', 'À5', 'Â4', 'Â5', 'Ñ4', 'Ñ5', 'Ä4', 'Ä5'))
+ AND
+ (O_VYD.KATZAS=204100)
+ AND
+ (O_VYD.HOZKAT=0)
+ AND
+ (O_VYD.OZU=0)

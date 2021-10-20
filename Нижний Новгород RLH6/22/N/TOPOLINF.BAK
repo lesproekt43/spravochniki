@@ -1,0 +1,87 @@
+{$EXPR Площадь в ГИС }
+@AREA:C:6:1
+
+{$EXPR NNN calculation }
+'8' 
++ STRDELETE('0000',1,STRLENGTH(STRTRIM(@NOMKVR))) + STRTRIM(@NOMKVR) 
++ STRDELETE('000',1,STRLENGTH(STRTRIM(@NOMVYD))) + STRTRIM(@NOMVYD)
+ 
+
+{$EXPR Площадь такс. }
+(@M1.PLSVYD):C:4:1
+
+{$EXPR № выдела }
+@NOMKVR
+
+{$EXPR >Выражение 26< }
+
+{$EXPR Я здесь! }
+'Я здесь!'
+
+{$EXPR Площадь с проверкой }
+STRDELETE((@PLSVYD:C:3:1), 1, TRUNC((7.9 + 0.1)/@PLSVYD)*3) 
+{  PLSVYD <- поле площади после увязки  }
+{  TRUNC((0.9 <- пороговая величина площади  }
+
+{$EXPR Код символа для Плана  }
+CALCVALUE('plan.tps') 
+
+{$EXPR Числитель формулы }
+CALCVALUE('PL_Chisl.tps') 
+
+{$EXPR Знаменатель формулы }
+CALCVALUE('PL_Znam.tps') 
+{$EXPR Тип леса }
+@1.TIPLES
+{$EXPR >Выражение 1< }
+@KV
+
+{$EXPR >Выражение 2< }
+@LX
+{$EXPR >Выражение 3< }
+@NNN
+
+{$EXPR >Выражение 4< }
+@NOMVYD
+{$EXPR >Выражение 5< }
+@NOMVYD
+{$EXPR >Выражение 6< }
+@NOMVYD
+{$EXPR >Выражение 7< }
+@NOMVYD
+{$EXPR >Выражение 8< }
+@NOMVYD
+{$EXPR >Выражение 9< }
+@NOMVYD
+{$EXPR >Выражение 10< }
+@NOMVYD
+{$EXPR >Выражение 11< }
+@NOMVYD
+{$EXPR >Выражение 12< }
+@NOMVYD
+{$EXPR >Выражение 13< }
+@NOMVYD
+{$EXPR >Выражение 14< }
+@NOMVYD
+{$EXPR >Выражение 15< }
+@NOMVYD
+{$EXPR >Выражение 16< }
+@NOMVYD
+{$EXPR >Выражение 17< }
+@NOMVYD
+{$EXPR >Выражение 18< }
+@NOMVYD
+{$EXPR >Выражение 19< }
+@NOMVYD
+{$EXPR >Выражение 20< }
+@NOMVYD
+{$EXPR >Выражение 21< }
+@NOMVYD
+{$EXPR >Выражение 22< }
+@NOMVYD
+{$EXPR >Выражение 23< }
+@NOMVYD
+{$EXPR >Выражение 24< }
+@NOMVYD
+{$EXPR >Выражение 25< }
+@NOMVYD

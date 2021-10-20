@@ -1,0 +1,3128 @@
+
+******************* Slucovani linii *******************
+.................. Vytvareni seznamu ..................
+
+
+************* Srovnani retezu ***************
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17875TRUE,    14TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 18472TRUE,    35TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 18414TRUE,    59TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 18277TRUE,    69TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 19208TRUE,   106TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 19583TRUE,   132TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   148TRUE,   149TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   151TRUE,   150TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   203FALSE,   162TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 19674TRUE,   176TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   185TRUE,   243TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 20691TRUE,   194TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 20154TRUE,   197TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 16922TRUE,   238TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 20020TRUE,   240TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 20259TRUE,   263TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   274FALSE,   269TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21864TRUE,   275TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17030TRUE,   297TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21359TRUE,   355TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17191TRUE,   362TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 22450TRUE,   392TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17277TRUE,   394TRUE, 
+    1: Dr:1006, FALSE,TRUE;13477,   -2 Kr:FALSE; L:   411TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17255TRUE,   414TRUE,   420TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17281TRUE,   415TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 22926TRUE,   416TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17282TRUE,   421TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 22887TRUE,   425TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 23041TRUE,   427TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17271TRUE,   430TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 23122TRUE,   431TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17355TRUE,   434TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   436TRUE, 22957FALSE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 26250TRUE,   437TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 25863TRUE,   439TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 23264TRUE,   451TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   740FALSE,   494TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   743FALSE,   501TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17457TRUE,   507TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17459TRUE,   508TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 23787TRUE,   509TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17470TRUE,   550TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 24077TRUE,   551TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   561TRUE,   556TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   601TRUE,   598TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17679TRUE,   632TRUE, 
+    1: Dr:1006, FALSE,TRUE;12928,   -2 Kr:FALSE; L:   666TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   677TRUE, 17601FALSE, 
+    1: Dr:1006, FALSE,TRUE;13163,   -2 Kr:FALSE; L:   686TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 23243TRUE,   736TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 23719TRUE,   744TRUE, 
+    1: Dr:1006, FALSE,TRUE;15545,   -2 Kr:FALSE; L:   802TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  1374TRUE,  1356TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  2989TRUE,  2988TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  3524TRUE,  3200TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  3356TRUE,  3355TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  3562TRUE,  3543TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  3667TRUE,  3660TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  3725TRUE,  3712TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  4129TRUE,  4097TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 20152TRUE,  4531TRUE, 
+    1: Dr:1002, TRUE,FALSE;   -2,20300 Kr:FALSE; L:  4768TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  6396TRUE,  5444TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 20942TRUE,  5568TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21010TRUE,  5626TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21356TRUE,  6141TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21629TRUE,  6608TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21764TRUE,  6763TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21825TRUE,  6944TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  6989TRUE,  6972TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21860TRUE,  6977TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 21973TRUE,  7058TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 25502TRUE,  7411TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 22443TRUE,  7789TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  8616TRUE,  8603TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 23269TRUE,  9163TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  9912TRUE,  9910TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  9993TRUE,  9952TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 10197TRUE, 10186TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 10291TRUE, 10247TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 16688TRUE, 10289TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 10298TRUE, 10294TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 24171TRUE, 10366TRUE, 
+    1: Dr:1002, TRUE,FALSE;   -2,10840 Kr:FALSE; L: 10847TRUE, 10835TRUE, 10836TRUE, 10837TRUE, 10838TRUE, 10848TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 11104TRUE, 11103TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 11117TRUE, 11107TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 11223TRUE, 11212TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 11219TRUE, 11217TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 11309FALSE, 11290TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 12697FALSE, 12695TRUE, 
+    1: Dr:1002, FALSE,TRUE;25394,   -2 Kr:FALSE; L: 12922TRUE, 
+    1: Dr:1002, TRUE,FALSE;   -2,  666 Kr:FALSE; L: 12928TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 25451TRUE, 12993TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 25454TRUE, 12995TRUE, 
+    1: Dr:1002, FALSE,TRUE;22181,   -2 Kr:FALSE; L: 13150TRUE, 
+    1: Dr:1002, TRUE,FALSE;   -2,  686 Kr:FALSE; L: 13163TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 13443TRUE, 13442TRUE, 
+    1: Dr:1002, FALSE,TRUE;  411,   -2 Kr:FALSE; L: 13477TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 14196TRUE, 14134TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 25970TRUE, 14514TRUE, 
+    1: Dr:1002, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 15099TRUE, 15098TRUE, 
+    1: Dr:1002, TRUE,FALSE;   -2,  802 Kr:FALSE; L: 15545TRUE, 
+    1: Dr:1002, FALSE,TRUE;26230,   -2 Kr:FALSE; L: 16423TRUE, 
+    1: Dr:1006, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 17666TRUE, 23706FALSE, 
+    1: Dr:1006, TRUE,FALSE;   -2, 4768 Kr:FALSE; L: 20300TRUE, 
+    1: Dr:1006, TRUE,FALSE;   -2,13150 Kr:FALSE; L: 22181TRUE, 
+    1: Dr:1006, TRUE,FALSE;   -2,12922 Kr:FALSE; L: 25394TRUE, 
+    1: Dr:1006, TRUE,FALSE;   -2,16423 Kr:FALSE; L: 26230TRUE, 
+************* Konec srovnani retezu ***************
+
+
+********** Seznam nehotovych retezcu **********
+    1: Dr:1006, FALSE,TRUE;13477,   -2 Kr:FALSE; L:   411TRUE, 
+    2: Dr:1006, FALSE,TRUE;12928,   -2 Kr:FALSE; L:   666TRUE, 
+    3: Dr:1006, FALSE,TRUE;13163,   -2 Kr:FALSE; L:   686TRUE, 
+    4: Dr:1006, FALSE,TRUE;15545,   -2 Kr:FALSE; L:   802TRUE, 
+    5: Dr:1002, TRUE,FALSE;   -2,20300 Kr:FALSE; L:  4768TRUE, 
+    6: Dr:1002, FALSE,TRUE;25394,   -2 Kr:FALSE; L: 12922TRUE, 
+    7: Dr:1002, TRUE,FALSE;   -2,  666 Kr:FALSE; L: 12928TRUE, 
+    8: Dr:1002, FALSE,TRUE;22181,   -2 Kr:FALSE; L: 13150TRUE, 
+    9: Dr:1002, TRUE,FALSE;   -2,  686 Kr:FALSE; L: 13163TRUE, 
+   10: Dr:1002, FALSE,TRUE;  411,   -2 Kr:FALSE; L: 13477TRUE, 
+   11: Dr:1002, TRUE,FALSE;   -2,  802 Kr:FALSE; L: 15545TRUE, 
+   12: Dr:1002, FALSE,TRUE;26230,   -2 Kr:FALSE; L: 16423TRUE, 
+   13: Dr:1006, TRUE,FALSE;   -2, 4768 Kr:FALSE; L: 20300TRUE, 
+   14: Dr:1006, TRUE,FALSE;   -2,13150 Kr:FALSE; L: 22181TRUE, 
+   15: Dr:1006, TRUE,FALSE;   -2,12922 Kr:FALSE; L: 25394TRUE, 
+   16: Dr:1006, TRUE,FALSE;   -2,16423 Kr:FALSE; L: 26230TRUE, 
+********** konec seznamu nehotovych retezcu ***********
+Polyline: 17801 - Setting of old polyline topology 
+Hand  L: 999:FALSE P: 1129:TRUE
+Foot  L: 17875:TRUE P: 1131:FALSE
+
+Polyline: 1125 - Setting of old polyline topology 
+Hand  L: 17875:TRUE P: 1158:FALSE
+Foot  L: 1019:TRUE P: 1021:TRUE
+
+Polyline: 17875 - Setting of new polyline topology 
+Hand  L: 17801:FALSE P: 1125:TRUE
+Foot  L: 14:TRUE P: 14:TRUE
+
+Polyline: 14 - Deleting polyline
+Hand  L: 17875:FALSE P: 17875:FALSE
+Foot  L: 17812:TRUE P: 1019:FALSE
+
+Polyline: 17812 - Setting of old polyline topology 
+Hand  L: 17875:FALSE P: 17810:TRUE
+Foot  L: 17811:TRUE P: 17810:FALSE
+
+Polyline: 1019 - Setting of old polyline topology 
+Hand  L: 1125:FALSE P: 1021:TRUE
+Foot  L: 17875:FALSE P: 17810:TRUE
+
+Polyline: 17875 - Setting of new polyline topology 
+Hand  L: 17801:FALSE P: 1125:TRUE
+Foot  L: 17812:TRUE P: 1019:FALSE
+
+Polyline: 17875 - Setting of first coord., last coord.
+Hand  L: 17801:FALSE P: 1125:TRUE
+Foot  L: 17812:TRUE P: 1019:FALSE
+
+Polyline: 18473 - Setting of old polyline topology 
+Hand  L: 18471:FALSE P: 18472:TRUE
+Foot  L: 18471:TRUE P: 18470:FALSE
+
+Polyline: 2063 - Setting of old polyline topology 
+Hand  L: 2061:TRUE P: 1567:FALSE
+Foot  L: 18471:FALSE P: 18472:TRUE
+
+Polyline: 18472 - Setting of new polyline topology 
+Hand  L: 18473:TRUE P: 2063:FALSE
+Foot  L: 35:TRUE P: 35:TRUE
+
+Polyline: 35 - Deleting polyline
+Hand  L: 18472:FALSE P: 18472:FALSE
+Foot  L: 1588:FALSE P: 18132:TRUE
+
+Polyline: 1588 - Setting of old polyline topology 
+Hand  L: 18130:FALSE P: 2066:TRUE
+Foot  L: 18131:TRUE P: 18472:FALSE
+
+Polyline: 18132 - Setting of old polyline topology 
+Hand  L: 18131:TRUE P: 18472:FALSE
+Foot  L: 18102:FALSE P: 1567:TRUE
+
+Polyline: 18472 - Setting of new polyline topology 
+Hand  L: 18473:TRUE P: 2063:FALSE
+Foot  L: 1588:FALSE P: 18132:TRUE
+
+Polyline: 18472 - Setting of first coord., last coord.
+Hand  L: 18473:TRUE P: 2063:FALSE
+Foot  L: 1588:FALSE P: 18132:TRUE
+
+Polyline: 1989 - Setting of old polyline topology 
+Hand  L: 18483:FALSE P: 1991:TRUE
+Foot  L: 18414:TRUE P: 18413:FALSE
+
+Polyline: 18415 - Setting of old polyline topology 
+Hand  L: 18414:TRUE P: 18413:FALSE
+Foot  L: 18412:FALSE P: 18413:TRUE
+
+Polyline: 18414 - Setting of new polyline topology 
+Hand  L: 1989:FALSE P: 18415:TRUE
+Foot  L: 59:TRUE P: 59:TRUE
+
+Polyline: 59 - Deleting polyline
+Hand  L: 18414:FALSE P: 18414:FALSE
+Foot  L: 18483:TRUE P: 2064:FALSE
+
+Polyline: 18483 - Setting of old polyline topology 
+Hand  L: 18414:FALSE P: 18482:TRUE
+Foot  L: 1989:TRUE P: 18499:FALSE
+
+Polyline: 2064 - Setting of old polyline topology 
+Hand  L: 1988:FALSE P: 2065:TRUE
+Foot  L: 18414:FALSE P: 18482:TRUE
+
+Polyline: 18414 - Setting of new polyline topology 
+Hand  L: 1989:FALSE P: 18415:TRUE
+Foot  L: 18483:TRUE P: 2064:FALSE
+
+Polyline: 18414 - Setting of first coord., last coord.
+Hand  L: 1989:FALSE P: 18415:TRUE
+Foot  L: 18483:TRUE P: 2064:FALSE
+
+Polyline: 18278 - Setting of old polyline topology 
+Hand  L: 18275:FALSE P: 18277:TRUE
+Foot  L: 1824:TRUE P: 18286:FALSE
+
+Polyline: 1816 - Setting of old polyline topology 
+Hand  L: 1814:TRUE P: 1803:FALSE
+Foot  L: 18275:FALSE P: 18277:TRUE
+
+Polyline: 18277 - Setting of new polyline topology 
+Hand  L: 18278:TRUE P: 1816:FALSE
+Foot  L: 69:TRUE P: 69:TRUE
+
+Polyline: 69 - Deleting polyline
+Hand  L: 18277:FALSE P: 18277:FALSE
+Foot  L: 18286:TRUE P: 1825:FALSE
+
+Polyline: 18286 - Setting of old polyline topology 
+Hand  L: 18277:FALSE P: 18284:TRUE
+Foot  L: 18278:FALSE P: 2283:FALSE
+
+Polyline: 1825 - Setting of old polyline topology 
+Hand  L: 18283:FALSE P: 18285:TRUE
+Foot  L: 18277:FALSE P: 18284:TRUE
+
+Polyline: 18277 - Setting of new polyline topology 
+Hand  L: 18278:TRUE P: 1816:FALSE
+Foot  L: 18286:TRUE P: 1825:FALSE
+
+Polyline: 18277 - Setting of first coord., last coord.
+Hand  L: 18278:TRUE P: 1816:FALSE
+Foot  L: 18286:TRUE P: 1825:FALSE
+
+Polyline: 3207 - Setting of old polyline topology 
+Hand  L: 3211:FALSE P: 19200:FALSE
+Foot  L: 19208:TRUE P: 19207:FALSE
+
+Polyline: 19209 - Setting of old polyline topology 
+Hand  L: 19208:TRUE P: 19207:FALSE
+Foot  L: 105:FALSE P: 19207:TRUE
+
+Polyline: 19208 - Setting of new polyline topology 
+Hand  L: 3207:FALSE P: 19209:TRUE
+Foot  L: 106:TRUE P: 106:TRUE
+
+Polyline: 106 - Deleting polyline
+Hand  L: 19208:FALSE P: 19208:FALSE
+Foot  L: 19206:TRUE P: 3206:FALSE
+
+Polyline: 19206 - Setting of old polyline topology 
+Hand  L: 19208:FALSE P: 19205:TRUE
+Foot  L: 3211:TRUE P: 19235:FALSE
+
+Polyline: 3206 - Setting of old polyline topology 
+Hand  L: 3203:TRUE P: 19231:FALSE
+Foot  L: 19208:FALSE P: 19205:TRUE
+
+Polyline: 19208 - Setting of new polyline topology 
+Hand  L: 3207:FALSE P: 19209:TRUE
+Foot  L: 19206:TRUE P: 3206:FALSE
+
+Polyline: 19208 - Setting of first coord., last coord.
+Hand  L: 3207:FALSE P: 19209:TRUE
+Foot  L: 19206:TRUE P: 3206:FALSE
+
+Polyline: 19585 - Setting of old polyline topology 
+Hand  L: 19584:TRUE P: 16840:FALSE
+Foot  L: 19583:TRUE P: 16839:FALSE
+
+Polyline: 19586 - Setting of old polyline topology 
+Hand  L: 19583:TRUE P: 16839:FALSE
+Foot  L: 3743:TRUE P: 3998:TRUE
+
+Polyline: 19583 - Setting of new polyline topology 
+Hand  L: 19585:FALSE P: 19586:TRUE
+Foot  L: 132:TRUE P: 132:TRUE
+
+Polyline: 132 - Deleting polyline
+Hand  L: 19583:FALSE P: 19583:FALSE
+Foot  L: 3726:FALSE P: 19570:TRUE
+
+Polyline: 3726 - Setting of old polyline topology 
+Hand  L: 3725:TRUE P: 19582:FALSE
+Foot  L: 19569:TRUE P: 19583:FALSE
+
+Polyline: 19570 - Setting of old polyline topology 
+Hand  L: 19569:TRUE P: 19583:FALSE
+Foot  L: 19564:FALSE P: 3724:TRUE
+
+Polyline: 19583 - Setting of new polyline topology 
+Hand  L: 19585:FALSE P: 19586:TRUE
+Foot  L: 3726:FALSE P: 19570:TRUE
+
+Polyline: 19583 - Setting of first coord., last coord.
+Hand  L: 19585:FALSE P: 19586:TRUE
+Foot  L: 3726:FALSE P: 19570:TRUE
+
+Polyline: 3813 - Setting of old polyline topology 
+Hand  L: 19621:FALSE P: 3814:TRUE
+Foot  L: 148:TRUE P: 3503:TRUE
+
+Polyline: 19413 - Setting of old polyline topology 
+Hand  L: 19414:TRUE P: 3501:FALSE
+Foot  L: 3484:FALSE P: 148:TRUE
+
+Polyline: 148 - Setting of new polyline topology 
+Hand  L: 3813:FALSE P: 19413:FALSE
+Foot  L: 149:TRUE P: 149:TRUE
+
+Polyline: 149 - Deleting polyline
+Hand  L: 148:FALSE P: 148:FALSE
+Foot  L: 19621:TRUE P: 3815:FALSE
+
+Polyline: 19621 - Setting of old polyline topology 
+Hand  L: 148:FALSE P: 19620:TRUE
+Foot  L: 3813:TRUE P: 3814:TRUE
+
+Polyline: 3815 - Setting of old polyline topology 
+Hand  L: 19424:FALSE P: 3817:TRUE
+Foot  L: 148:FALSE P: 19620:TRUE
+
+Polyline: 148 - Setting of new polyline topology 
+Hand  L: 3813:FALSE P: 19413:FALSE
+Foot  L: 19621:TRUE P: 3815:FALSE
+
+Polyline: 148 - Setting of first coord., last coord.
+Hand  L: 3813:FALSE P: 19413:FALSE
+Foot  L: 19621:TRUE P: 3815:FALSE
+
+Polyline: 3920 - Setting of old polyline topology 
+Hand  L: 189:TRUE P: 151:TRUE
+Foot  L: 3915:FALSE P: 3918:TRUE
+
+Polyline: 19638 - Setting of old polyline topology 
+Hand  L: 19656:FALSE P: 3849:FALSE
+Foot  L: 3917:TRUE P: 151:TRUE
+
+Polyline: 151 - Setting of new polyline topology 
+Hand  L: 3920:TRUE P: 19638:FALSE
+Foot  L: 150:TRUE P: 150:TRUE
+
+Polyline: 150 - Deleting polyline
+Hand  L: 151:FALSE P: 151:FALSE
+Foot  L: 3908:FALSE P: 19707:TRUE
+
+Polyline: 3908 - Setting of old polyline topology 
+Hand  L: 3906:FALSE P: 3918:FALSE
+Foot  L: 19706:TRUE P: 151:FALSE
+
+Polyline: 19707 - Setting of old polyline topology 
+Hand  L: 19706:TRUE P: 151:FALSE
+Foot  L: 3846:FALSE P: 3849:TRUE
+
+Polyline: 151 - Setting of new polyline topology 
+Hand  L: 3920:TRUE P: 19638:FALSE
+Foot  L: 3908:FALSE P: 19707:TRUE
+
+Polyline: 151 - Setting of first coord., last coord.
+Hand  L: 3920:TRUE P: 19638:FALSE
+Foot  L: 3908:FALSE P: 19707:TRUE
+
+Polyline: 19844 - Setting of old polyline topology 
+Hand  L: 203:TRUE P: 19843:TRUE
+Foot  L: 4125:FALSE P: 4648:TRUE
+
+Polyline: 4130 - Setting of old polyline topology 
+Hand  L: 4128:FALSE P: 20224:FALSE
+Foot  L: 203:TRUE P: 19843:TRUE
+
+Polyline: 203 - Setting of new polyline topology 
+Hand  L: 4130:FALSE P: 19844:TRUE
+Foot  L: 19844:TRUE P: 4130:FALSE
+
+Polyline: 162 - Deleting polyline
+Hand  L: 203:TRUE P: 203:TRUE
+Foot  L: 4089:FALSE P: 19804:TRUE
+
+Polyline: 4089 - Setting of old polyline topology 
+Hand  L: 4087:FALSE P: 4126:FALSE
+Foot  L: 19803:TRUE P: 203:FALSE
+
+Polyline: 19804 - Setting of old polyline topology 
+Hand  L: 19803:TRUE P: 203:FALSE
+Foot  L: 4081:FALSE P: 4086:TRUE
+
+Polyline: 203 - Setting of new polyline topology 
+Hand  L: 4130:FALSE P: 19844:TRUE
+Foot  L: 4089:FALSE P: 19804:TRUE
+
+Polyline: 203 - Setting of first coord., last coord.
+Hand  L: 4130:FALSE P: 19844:TRUE
+Foot  L: 4089:FALSE P: 19804:TRUE
+
+Polyline: 19677 - Setting of old polyline topology 
+Hand  L: 16869:FALSE P: 19674:TRUE
+Foot  L: 16873:FALSE P: 19675:TRUE
+
+Polyline: 3881 - Setting of old polyline topology 
+Hand  L: 19671:FALSE P: 4257:TRUE
+Foot  L: 16869:FALSE P: 19674:TRUE
+
+Polyline: 19674 - Setting of new polyline topology 
+Hand  L: 19677:TRUE P: 3881:FALSE
+Foot  L: 176:TRUE P: 176:TRUE
+
+Polyline: 176 - Deleting polyline
+Hand  L: 19674:FALSE P: 19674:FALSE
+Foot  L: 20017:TRUE P: 4329:FALSE
+
+Polyline: 20017 - Setting of old polyline topology 
+Hand  L: 19674:FALSE P: 20016:TRUE
+Foot  L: 4327:TRUE P: 5052:TRUE
+
+Polyline: 4329 - Setting of old polyline topology 
+Hand  L: 4311:FALSE P: 5056:TRUE
+Foot  L: 19674:FALSE P: 20016:TRUE
+
+Polyline: 19674 - Setting of new polyline topology 
+Hand  L: 19677:TRUE P: 3881:FALSE
+Foot  L: 20017:TRUE P: 4329:FALSE
+
+Polyline: 19674 - Setting of first coord., last coord.
+Hand  L: 19677:TRUE P: 3881:FALSE
+Foot  L: 20017:TRUE P: 4329:FALSE
+
+Polyline: 185 - Setting of new polyline topology 
+Hand  L: 185:TRUE P: 185:TRUE
+Foot  L: 243:TRUE P: 243:TRUE
+
+Polyline: 243 - Deleting polyline
+Hand  L: 185:FALSE P: 185:FALSE
+Foot  L: 20061:TRUE P: 4389:FALSE
+
+Polyline: 20061 - Setting of old polyline topology 
+Hand  L: 185:FALSE P: 20059:TRUE
+Foot  L: 20062:TRUE P: 20060:TRUE
+
+Polyline: 4389 - Setting of old polyline topology 
+Hand  L: 4385:TRUE P: 5121:TRUE
+Foot  L: 185:FALSE P: 20059:TRUE
+
+Polyline: 185 - Setting of new polyline topology 
+Hand  L: 185:TRUE P: 185:TRUE
+Foot  L: 20061:TRUE P: 4389:FALSE
+
+Polyline: 185 - Setting of first coord., last coord.
+Hand  L: 185:TRUE P: 185:TRUE
+Foot  L: 20061:TRUE P: 4389:FALSE
+
+Polyline: 20695 - Setting of old polyline topology 
+Hand  L: 20690:FALSE P: 20691:TRUE
+Foot  L: 20690:TRUE P: 20689:FALSE
+
+Polyline: 20694 - Setting of old polyline topology 
+Hand  L: 20684:TRUE P: 194:FALSE
+Foot  L: 20690:FALSE P: 20691:TRUE
+
+Polyline: 20691 - Setting of new polyline topology 
+Hand  L: 20695:TRUE P: 20694:FALSE
+Foot  L: 194:TRUE P: 194:TRUE
+
+Polyline: 194 - Deleting polyline
+Hand  L: 20691:FALSE P: 20691:FALSE
+Foot  L: 20693:FALSE P: 20694:TRUE
+
+Polyline: 20693 - Setting of old polyline topology 
+Hand  L: 16964:FALSE P: 20692:TRUE
+Foot  L: 20684:TRUE P: 20691:FALSE
+
+Polyline: 20694 - Setting of old polyline topology 
+Hand  L: 20684:TRUE P: 20691:FALSE
+Foot  L: 20690:FALSE P: 20691:TRUE
+
+Polyline: 20691 - Setting of new polyline topology 
+Hand  L: 20695:TRUE P: 20694:FALSE
+Foot  L: 20693:FALSE P: 20694:TRUE
+
+Polyline: 20691 - Setting of first coord., last coord.
+Hand  L: 20695:TRUE P: 20694:FALSE
+Foot  L: 20693:FALSE P: 20694:TRUE
+
+Polyline: 20155 - Setting of old polyline topology 
+Hand  L: 16892:FALSE P: 20154:TRUE
+Foot  L: 4549:TRUE P: 4550:TRUE
+
+Polyline: 4539 - Setting of old polyline topology 
+Hand  L: 4029:TRUE P: 209:TRUE
+Foot  L: 16892:FALSE P: 20154:TRUE
+
+Polyline: 20154 - Setting of new polyline topology 
+Hand  L: 20155:TRUE P: 4539:FALSE
+Foot  L: 197:TRUE P: 197:TRUE
+
+Polyline: 197 - Deleting polyline
+Hand  L: 20154:FALSE P: 20154:FALSE
+Foot  L: 4587:FALSE P: 20169:TRUE
+
+Polyline: 4587 - Setting of old polyline topology 
+Hand  L: 4585:TRUE P: 4556:FALSE
+Foot  L: 20169:TRUE P: 20154:FALSE
+
+Polyline: 20169 - Setting of old polyline topology 
+Hand  L: 4587:FALSE P: 20154:FALSE
+Foot  L: 4612:TRUE P: 20193:TRUE
+
+Polyline: 20154 - Setting of new polyline topology 
+Hand  L: 20155:TRUE P: 4539:FALSE
+Foot  L: 4587:FALSE P: 20169:TRUE
+
+Polyline: 20154 - Setting of first coord., last coord.
+Hand  L: 20155:TRUE P: 4539:FALSE
+Foot  L: 4587:FALSE P: 20169:TRUE
+
+Polyline: 20485 - Setting of old polyline topology 
+Hand  L: 20486:TRUE P: 5052:FALSE
+Foot  L: 16922:TRUE P: 20016:FALSE
+
+Polyline: 16929 - Setting of old polyline topology 
+Hand  L: 16922:TRUE P: 20016:FALSE
+Foot  L: 236:TRUE P: 16930:TRUE
+
+Polyline: 16922 - Setting of new polyline topology 
+Hand  L: 20485:FALSE P: 16929:TRUE
+Foot  L: 238:TRUE P: 238:TRUE
+
+Polyline: 238 - Deleting polyline
+Hand  L: 16922:FALSE P: 16922:FALSE
+Foot  L: 16921:TRUE P: 236:FALSE
+
+Polyline: 16921 - Setting of old polyline topology 
+Hand  L: 16922:FALSE P: 236:FALSE
+Foot  L: 20506:TRUE P: 5075:FALSE
+
+Polyline: 236 - Setting of old polyline topology 
+Hand  L: 16929:FALSE P: 16930:TRUE
+Foot  L: 16922:FALSE P: 16921:TRUE
+
+Polyline: 16922 - Setting of new polyline topology 
+Hand  L: 20485:FALSE P: 16929:TRUE
+Foot  L: 16921:TRUE P: 236:FALSE
+
+Polyline: 16922 - Setting of first coord., last coord.
+Hand  L: 20485:FALSE P: 16929:TRUE
+Foot  L: 16921:TRUE P: 236:FALSE
+
+Polyline: 20022 - Setting of old polyline topology 
+Hand  L: 16863:FALSE P: 20020:TRUE
+Foot  L: 20026:FALSE P: 20021:TRUE
+
+Polyline: 4334 - Setting of old polyline topology 
+Hand  L: 4332:FALSE P: 20030:FALSE
+Foot  L: 16863:FALSE P: 20020:TRUE
+
+Polyline: 20020 - Setting of new polyline topology 
+Hand  L: 20022:TRUE P: 4334:FALSE
+Foot  L: 240:TRUE P: 240:TRUE
+
+Polyline: 240 - Deleting polyline
+Hand  L: 20020:FALSE P: 20020:FALSE
+Foot  L: 20021:FALSE P: 16931:TRUE
+
+Polyline: 20021 - Setting of old polyline topology 
+Hand  L: 20023:TRUE P: 20022:FALSE
+Foot  L: 16923:TRUE P: 20020:FALSE
+
+Polyline: 16931 - Setting of old polyline topology 
+Hand  L: 16923:TRUE P: 20020:FALSE
+Foot  L: 4402:TRUE P: 184:TRUE
+
+Polyline: 20020 - Setting of new polyline topology 
+Hand  L: 20022:TRUE P: 4334:FALSE
+Foot  L: 20021:FALSE P: 16931:TRUE
+
+Polyline: 20020 - Setting of first coord., last coord.
+Hand  L: 20022:TRUE P: 4334:FALSE
+Foot  L: 20021:FALSE P: 16931:TRUE
+
+Polyline: 20265 - Setting of old polyline topology 
+Hand  L: 20257:FALSE P: 20258:TRUE
+Foot  L: 20259:TRUE P: 20258:FALSE
+
+Polyline: 20266 - Setting of old polyline topology 
+Hand  L: 20259:TRUE P: 20258:FALSE
+Foot  L: 4703:TRUE P: 4704:FALSE
+
+Polyline: 20259 - Setting of new polyline topology 
+Hand  L: 20265:FALSE P: 20266:TRUE
+Foot  L: 263:TRUE P: 263:TRUE
+
+Polyline: 263 - Deleting polyline
+Hand  L: 20259:FALSE P: 20259:FALSE
+Foot  L: 20280:TRUE P: 20279:FALSE
+
+Polyline: 20280 - Setting of old polyline topology 
+Hand  L: 20259:FALSE P: 20276:TRUE
+Foot  L: 4693:FALSE P: 5359:TRUE
+
+Polyline: 20279 - Setting of old polyline topology 
+Hand  L: 205:TRUE P: 20278:FALSE
+Foot  L: 20259:FALSE P: 20276:TRUE
+
+Polyline: 20259 - Setting of new polyline topology 
+Hand  L: 20265:FALSE P: 20266:TRUE
+Foot  L: 20280:TRUE P: 20279:FALSE
+
+Polyline: 20259 - Setting of first coord., last coord.
+Hand  L: 20265:FALSE P: 20266:TRUE
+Foot  L: 20280:TRUE P: 20279:FALSE
+
+Polyline: 20886 - Setting of old polyline topology 
+Hand  L: 274:TRUE P: 20882:TRUE
+Foot  L: 20883:TRUE P: 16978:FALSE
+
+Polyline: 20885 - Setting of old polyline topology 
+Hand  L: 20878:FALSE P: 20884:TRUE
+Foot  L: 274:TRUE P: 20882:TRUE
+
+Polyline: 274 - Setting of new polyline topology 
+Hand  L: 20885:FALSE P: 20886:TRUE
+Foot  L: 20886:TRUE P: 20885:FALSE
+
+Polyline: 269 - Deleting polyline
+Hand  L: 274:TRUE P: 274:TRUE
+Foot  L: 20879:FALSE P: 5535:TRUE
+
+Polyline: 20879 - Setting of old polyline topology 
+Hand  L: 20881:TRUE P: 20880:FALSE
+Foot  L: 5530:FALSE P: 274:FALSE
+
+Polyline: 5535 - Setting of old polyline topology 
+Hand  L: 16973:TRUE P: 274:FALSE
+Foot  L: 5537:TRUE P: 20889:FALSE
+
+Polyline: 274 - Setting of new polyline topology 
+Hand  L: 20885:FALSE P: 20886:TRUE
+Foot  L: 20879:FALSE P: 5535:TRUE
+
+Polyline: 274 - Setting of first coord., last coord.
+Hand  L: 20885:FALSE P: 20886:TRUE
+Foot  L: 20879:FALSE P: 5535:TRUE
+
+Polyline: 21863 - Setting of old polyline topology 
+Hand  L: 6978:FALSE P: 21862:FALSE
+Foot  L: 21864:TRUE P: 21865:TRUE
+
+Polyline: 21865 - Setting of old polyline topology 
+Hand  L: 21864:TRUE P: 21863:FALSE
+Foot  L: 21848:FALSE P: 21861:TRUE
+
+Polyline: 21864 - Setting of new polyline topology 
+Hand  L: 21863:FALSE P: 21865:TRUE
+Foot  L: 275:TRUE P: 275:TRUE
+
+Polyline: 275 - Deleting polyline
+Hand  L: 21864:FALSE P: 21864:FALSE
+Foot  L: 5640:FALSE P: 21018:TRUE
+
+Polyline: 5640 - Setting of old polyline topology 
+Hand  L: 21016:FALSE P: 6976:TRUE
+Foot  L: 21017:TRUE P: 21864:FALSE
+
+Polyline: 21018 - Setting of old polyline topology 
+Hand  L: 21017:TRUE P: 21864:FALSE
+Foot  L: 21014:FALSE P: 6950:TRUE
+
+Polyline: 21864 - Setting of new polyline topology 
+Hand  L: 21863:FALSE P: 21865:TRUE
+Foot  L: 5640:FALSE P: 21018:TRUE
+
+Polyline: 21864 - Setting of first coord., last coord.
+Hand  L: 21863:FALSE P: 21865:TRUE
+Foot  L: 5640:FALSE P: 21018:TRUE
+
+Polyline: 21260 - Setting of old polyline topology 
+Hand  L: 21263:TRUE P: 21262:FALSE
+Foot  L: 17030:TRUE P: 17031:FALSE
+
+Polyline: 17031 - Setting of old polyline topology 
+Hand  L: 21261:FALSE P: 17032:TRUE
+Foot  L: 21260:FALSE P: 17030:TRUE
+
+Polyline: 17030 - Setting of new polyline topology 
+Hand  L: 21260:FALSE P: 17031:FALSE
+Foot  L: 297:TRUE P: 297:TRUE
+
+Polyline: 297 - Deleting polyline
+Hand  L: 17030:FALSE P: 17030:FALSE
+Foot  L: 21266:TRUE P: 5983:FALSE
+
+Polyline: 21266 - Setting of old polyline topology 
+Hand  L: 17030:FALSE P: 21265:TRUE
+Foot  L: 6037:TRUE P: 21346:FALSE
+
+Polyline: 5983 - Setting of old polyline topology 
+Hand  L: 5981:FALSE P: 21338:FALSE
+Foot  L: 17030:FALSE P: 21265:TRUE
+
+Polyline: 17030 - Setting of new polyline topology 
+Hand  L: 21260:FALSE P: 17031:FALSE
+Foot  L: 21266:TRUE P: 5983:FALSE
+
+Polyline: 17030 - Setting of first coord., last coord.
+Hand  L: 21260:FALSE P: 17031:FALSE
+Foot  L: 21266:TRUE P: 5983:FALSE
+
+Polyline: 21361 - Setting of old polyline topology 
+Hand  L: 17174:FALSE P: 21359:TRUE
+Foot  L: 21360:TRUE P: 22053:FALSE
+
+Polyline: 6143 - Setting of old polyline topology 
+Hand  L: 21348:FALSE P: 7196:TRUE
+Foot  L: 17174:FALSE P: 21359:TRUE
+
+Polyline: 21359 - Setting of new polyline topology 
+Hand  L: 21361:TRUE P: 6143:FALSE
+Foot  L: 355:TRUE P: 355:TRUE
+
+Polyline: 355 - Deleting polyline
+Hand  L: 21359:FALSE P: 21359:FALSE
+Foot  L: 22060:TRUE P: 7200:FALSE
+
+Polyline: 22060 - Setting of old polyline topology 
+Hand  L: 21359:FALSE P: 22057:TRUE
+Foot  L: 22058:TRUE P: 22057:FALSE
+
+Polyline: 7200 - Setting of old polyline topology 
+Hand  L: 7199:FALSE P: 7216:TRUE
+Foot  L: 21359:FALSE P: 22057:TRUE
+
+Polyline: 21359 - Setting of new polyline topology 
+Hand  L: 21361:TRUE P: 6143:FALSE
+Foot  L: 22060:TRUE P: 7200:FALSE
+
+Polyline: 21359 - Setting of first coord., last coord.
+Hand  L: 21361:TRUE P: 6143:FALSE
+Foot  L: 22060:TRUE P: 7200:FALSE
+
+Polyline: 22141 - Setting of old polyline topology 
+Hand  L: 22142:TRUE P: 7309:FALSE
+Foot  L: 17191:TRUE P: 21476:FALSE
+
+Polyline: 17194 - Setting of old polyline topology 
+Hand  L: 17191:TRUE P: 21476:FALSE
+Foot  L: 6335:FALSE P: 21478:TRUE
+
+Polyline: 17191 - Setting of new polyline topology 
+Hand  L: 22141:FALSE P: 17194:TRUE
+Foot  L: 362:TRUE P: 362:TRUE
+
+Polyline: 362 - Deleting polyline
+Hand  L: 17191:FALSE P: 17191:FALSE
+Foot  L: 22197:TRUE P: 7430:FALSE
+
+Polyline: 22197 - Setting of old polyline topology 
+Hand  L: 17191:FALSE P: 22196:TRUE
+Foot  L: 7431:TRUE P: 7433:TRUE
+
+Polyline: 7430 - Setting of old polyline topology 
+Hand  L: 7429:FALSE P: 22202:FALSE
+Foot  L: 17191:FALSE P: 22196:TRUE
+
+Polyline: 17191 - Setting of new polyline topology 
+Hand  L: 22141:FALSE P: 17194:TRUE
+Foot  L: 22197:TRUE P: 7430:FALSE
+
+Polyline: 17191 - Setting of first coord., last coord.
+Hand  L: 22141:FALSE P: 17194:TRUE
+Foot  L: 22197:TRUE P: 7430:FALSE
+
+Polyline: 22456 - Setting of old polyline topology 
+Hand  L: 17237:FALSE P: 22450:TRUE
+Foot  L: 17242:FALSE P: 22451:TRUE
+
+Polyline: 22455 - Setting of old polyline topology 
+Hand  L: 22453:TRUE P: 22452:FALSE
+Foot  L: 17237:FALSE P: 22450:TRUE
+
+Polyline: 22450 - Setting of new polyline topology 
+Hand  L: 22456:TRUE P: 22455:FALSE
+Foot  L: 392:TRUE P: 392:TRUE
+
+Polyline: 392 - Deleting polyline
+Hand  L: 22450:FALSE P: 22450:FALSE
+Foot  L: 22530:TRUE P: 7885:FALSE
+
+Polyline: 22530 - Setting of old polyline topology 
+Hand  L: 22450:FALSE P: 22529:TRUE
+Foot  L: 7886:TRUE P: 7887:TRUE
+
+Polyline: 7885 - Setting of old polyline topology 
+Hand  L: 7884:TRUE P: 7888:FALSE
+Foot  L: 22450:FALSE P: 22529:TRUE
+
+Polyline: 22450 - Setting of new polyline topology 
+Hand  L: 22456:TRUE P: 22455:FALSE
+Foot  L: 22530:TRUE P: 7885:FALSE
+
+Polyline: 22450 - Setting of first coord., last coord.
+Hand  L: 22456:TRUE P: 22455:FALSE
+Foot  L: 22530:TRUE P: 7885:FALSE
+
+Polyline: 17279 - Setting of old polyline topology 
+Hand  L: 22569:FALSE P: 17277:TRUE
+Foot  L: 22568:TRUE P: 7958:FALSE
+
+Polyline: 22562 - Setting of old polyline topology 
+Hand  L: 7953:FALSE P: 22563:TRUE
+Foot  L: 22569:FALSE P: 17277:TRUE
+
+Polyline: 17277 - Setting of new polyline topology 
+Hand  L: 17279:TRUE P: 22562:FALSE
+Foot  L: 394:TRUE P: 394:TRUE
+
+Polyline: 394 - Deleting polyline
+Hand  L: 17277:FALSE P: 17277:FALSE
+Foot  L: 12969:FALSE P: 12956:TRUE
+
+Polyline: 12969 - Setting of old polyline topology 
+Hand  L: 25405:FALSE P: 7958:TRUE
+Foot  L: 17597:FALSE P: 17277:FALSE
+
+Polyline: 12956 - Setting of old polyline topology 
+Hand  L: 17597:FALSE P: 17277:FALSE
+Foot  L: 25406:TRUE P: 22556:FALSE
+
+Polyline: 17277 - Setting of new polyline topology 
+Hand  L: 17279:TRUE P: 22562:FALSE
+Foot  L: 12969:FALSE P: 12956:TRUE
+
+Polyline: 17277 - Setting of first coord., last coord.
+Hand  L: 17279:TRUE P: 22562:FALSE
+Foot  L: 12969:FALSE P: 12956:TRUE
+
+Polyline: 22876 - Setting of old polyline topology 
+Hand  L: 22877:TRUE P: 8589:FALSE
+Foot  L: 17255:TRUE P: 22337:FALSE
+
+Polyline: 17257 - Setting of old polyline topology 
+Hand  L: 17255:TRUE P: 22337:FALSE
+Foot  L: 7668:FALSE P: 22338:TRUE
+
+Polyline: 17255 - Setting of new polyline topology 
+Hand  L: 22876:FALSE P: 17257:TRUE
+Foot  L: 414:TRUE P: 414:TRUE
+
+Polyline: 414 - Deleting polyline
+Hand  L: 17255:FALSE P: 17255:FALSE
+Foot  L: 420:TRUE P: 420:TRUE
+
+Polyline: 420 - Deleting polyline
+Hand  L: 414:FALSE P: 414:FALSE
+Foot  L: 17259:TRUE P: 22885:FALSE
+
+Polyline: 17259 - Setting of old polyline topology 
+Hand  L: 17255:FALSE P: 17260:TRUE
+Foot  L: 22877:FALSE P: 22878:TRUE
+
+Polyline: 22885 - Setting of old polyline topology 
+Hand  L: 8592:FALSE P: 22886:TRUE
+Foot  L: 17255:FALSE P: 17260:TRUE
+
+Polyline: 17255 - Setting of new polyline topology 
+Hand  L: 22876:FALSE P: 17257:TRUE
+Foot  L: 17259:TRUE P: 22885:FALSE
+
+Polyline: 17255 - Setting of first coord., last coord.
+Hand  L: 22876:FALSE P: 17257:TRUE
+Foot  L: 17259:TRUE P: 22885:FALSE
+
+Polyline: 23148 - Setting of old polyline topology 
+Hand  L: 23149:FALSE P: 23150:TRUE
+Foot  L: 17281:TRUE P: 436:TRUE
+
+Polyline: 436 - Setting of old polyline topology 
+Hand  L: 17281:TRUE P: 23148:FALSE
+Foot  L: 22957:FALSE P: 22957:FALSE
+
+Polyline: 17281 - Setting of new polyline topology 
+Hand  L: 23148:FALSE P: 436:TRUE
+Foot  L: 415:TRUE P: 415:TRUE
+
+Polyline: 415 - Deleting polyline
+Hand  L: 17281:FALSE P: 17281:FALSE
+Foot  L: 8682:FALSE P: 22958:TRUE
+
+Polyline: 8682 - Setting of old polyline topology 
+Hand  L: 17287:FALSE P: 9010:TRUE
+Foot  L: 22956:TRUE P: 17281:FALSE
+
+Polyline: 22958 - Setting of old polyline topology 
+Hand  L: 22956:TRUE P: 17281:FALSE
+Foot  L: 17283:FALSE P: 22957:TRUE
+
+Polyline: 17281 - Setting of new polyline topology 
+Hand  L: 23148:FALSE P: 436:TRUE
+Foot  L: 8682:FALSE P: 22958:TRUE
+
+Polyline: 17281 - Setting of first coord., last coord.
+Hand  L: 23148:FALSE P: 436:TRUE
+Foot  L: 8682:FALSE P: 22958:TRUE
+
+Polyline: 22928 - Setting of old polyline topology 
+Hand  L: 22927:TRUE P: 17285:FALSE
+Foot  L: 22926:TRUE P: 17284:FALSE
+
+Polyline: 22929 - Setting of old polyline topology 
+Hand  L: 22926:TRUE P: 17284:FALSE
+Foot  L: 8631:FALSE P: 8632:TRUE
+
+Polyline: 22926 - Setting of new polyline topology 
+Hand  L: 22928:FALSE P: 22929:TRUE
+Foot  L: 416:TRUE P: 416:TRUE
+
+Polyline: 416 - Deleting polyline
+Hand  L: 22926:FALSE P: 22926:FALSE
+Foot  L: 22911:TRUE P: 8633:FALSE
+
+Polyline: 22911 - Setting of old polyline topology 
+Hand  L: 22926:FALSE P: 22913:TRUE
+Foot  L: 22914:TRUE P: 22913:FALSE
+
+Polyline: 8633 - Setting of old polyline topology 
+Hand  L: 8631:TRUE P: 8613:FALSE
+Foot  L: 22926:FALSE P: 22913:TRUE
+
+Polyline: 22926 - Setting of new polyline topology 
+Hand  L: 22928:FALSE P: 22929:TRUE
+Foot  L: 22911:TRUE P: 8633:FALSE
+
+Polyline: 22926 - Setting of first coord., last coord.
+Hand  L: 22928:FALSE P: 22929:TRUE
+Foot  L: 22911:TRUE P: 8633:FALSE
+
+Polyline: 17287 - Setting of old polyline topology 
+Hand  L: 22956:FALSE P: 17282:TRUE
+Foot  L: 8682:TRUE P: 22918:FALSE
+
+Polyline: 17286 - Setting of old polyline topology 
+Hand  L: 17283:TRUE P: 22922:FALSE
+Foot  L: 22956:FALSE P: 17282:TRUE
+
+Polyline: 17282 - Setting of new polyline topology 
+Hand  L: 17287:TRUE P: 17286:FALSE
+Foot  L: 421:TRUE P: 421:TRUE
+
+Polyline: 421 - Deleting polyline
+Hand  L: 17282:FALSE P: 17282:FALSE
+Foot  L: 22918:TRUE P: 8636:FALSE
+
+Polyline: 22918 - Setting of old polyline topology 
+Hand  L: 17282:FALSE P: 22917:TRUE
+Foot  L: 17287:FALSE P: 17261:FALSE
+
+Polyline: 8636 - Setting of old polyline topology 
+Hand  L: 8634:TRUE P: 22961:FALSE
+Foot  L: 17282:FALSE P: 22917:TRUE
+
+Polyline: 17282 - Setting of new polyline topology 
+Hand  L: 17287:TRUE P: 17286:FALSE
+Foot  L: 22918:TRUE P: 8636:FALSE
+
+Polyline: 17282 - Setting of first coord., last coord.
+Hand  L: 17287:TRUE P: 17286:FALSE
+Foot  L: 22918:TRUE P: 8636:FALSE
+
+Polyline: 22888 - Setting of old polyline topology 
+Hand  L: 17260:FALSE P: 22887:TRUE
+Foot  L: 22878:FALSE P: 22965:FALSE
+
+Polyline: 8593 - Setting of old polyline topology 
+Hand  L: 22886:FALSE P: 22947:FALSE
+Foot  L: 17260:FALSE P: 22887:TRUE
+
+Polyline: 22887 - Setting of new polyline topology 
+Hand  L: 22888:TRUE P: 8593:FALSE
+Foot  L: 425:TRUE P: 425:TRUE
+
+Polyline: 425 - Deleting polyline
+Hand  L: 22887:FALSE P: 22887:FALSE
+Foot  L: 22948:FALSE P: 17263:TRUE
+
+Polyline: 22948 - Setting of old polyline topology 
+Hand  L: 22950:FALSE P: 22951:TRUE
+Foot  L: 17265:TRUE P: 22887:FALSE
+
+Polyline: 17263 - Setting of old polyline topology 
+Hand  L: 17265:TRUE P: 22887:FALSE
+Foot  L: 8673:FALSE P: 22947:TRUE
+
+Polyline: 22887 - Setting of new polyline topology 
+Hand  L: 22888:TRUE P: 8593:FALSE
+Foot  L: 22948:FALSE P: 17263:TRUE
+
+Polyline: 22887 - Setting of first coord., last coord.
+Hand  L: 22888:TRUE P: 8593:FALSE
+Foot  L: 22948:FALSE P: 17263:TRUE
+
+Polyline: 8815 - Setting of old polyline topology 
+Hand  L: 8814:FALSE P: 23237:FALSE
+Foot  L: 23041:TRUE P: 17301:FALSE
+
+Polyline: 23042 - Setting of old polyline topology 
+Hand  L: 23041:TRUE P: 17301:FALSE
+Foot  L: 8775:FALSE P: 9083:TRUE
+
+Polyline: 23041 - Setting of new polyline topology 
+Hand  L: 8815:FALSE P: 23042:TRUE
+Foot  L: 427:TRUE P: 427:TRUE
+
+Polyline: 427 - Deleting polyline
+Hand  L: 23041:FALSE P: 23041:FALSE
+Foot  L: 8813:FALSE P: 23040:TRUE
+
+Polyline: 8813 - Setting of old polyline topology 
+Hand  L: 8801:FALSE P: 8814:TRUE
+Foot  L: 23039:TRUE P: 23041:FALSE
+
+Polyline: 23040 - Setting of old polyline topology 
+Hand  L: 23039:TRUE P: 23041:FALSE
+Foot  L: 8773:FALSE P: 8775:TRUE
+
+Polyline: 23041 - Setting of new polyline topology 
+Hand  L: 8815:FALSE P: 23042:TRUE
+Foot  L: 8813:FALSE P: 23040:TRUE
+
+Polyline: 23041 - Setting of first coord., last coord.
+Hand  L: 8815:FALSE P: 23042:TRUE
+Foot  L: 8813:FALSE P: 23040:TRUE
+
+Polyline: 17274 - Setting of old polyline topology 
+Hand  L: 23012:FALSE P: 17271:TRUE
+Foot  L: 23017:FALSE P: 23018:TRUE
+
+Polyline: 23015 - Setting of old polyline topology 
+Hand  L: 23016:TRUE P: 8762:FALSE
+Foot  L: 23012:FALSE P: 17271:TRUE
+
+Polyline: 17271 - Setting of new polyline topology 
+Hand  L: 17274:TRUE P: 23015:FALSE
+Foot  L: 430:TRUE P: 430:TRUE
+
+Polyline: 430 - Deleting polyline
+Hand  L: 17271:FALSE P: 17271:FALSE
+Foot  L: 7954:FALSE P: 22565:TRUE
+
+Polyline: 7954 - Setting of old polyline topology 
+Hand  L: 22564:FALSE P: 8838:TRUE
+Foot  L: 393:TRUE P: 17271:FALSE
+
+Polyline: 22565 - Setting of old polyline topology 
+Hand  L: 393:TRUE P: 17271:FALSE
+Foot  L: 7913:TRUE P: 8837:TRUE
+
+Polyline: 17271 - Setting of new polyline topology 
+Hand  L: 17274:TRUE P: 23015:FALSE
+Foot  L: 7954:FALSE P: 22565:TRUE
+
+Polyline: 17271 - Setting of first coord., last coord.
+Hand  L: 17274:TRUE P: 23015:FALSE
+Foot  L: 7954:FALSE P: 22565:TRUE
+
+Polyline: 8954 - Setting of old polyline topology 
+Hand  L: 23121:FALSE P: 9156:TRUE
+Foot  L: 23122:TRUE P: 453:FALSE
+
+Polyline: 23123 - Setting of old polyline topology 
+Hand  L: 23122:TRUE P: 453:FALSE
+Foot  L: 23115:FALSE P: 9152:TRUE
+
+Polyline: 23122 - Setting of new polyline topology 
+Hand  L: 8954:FALSE P: 23123:TRUE
+Foot  L: 431:TRUE P: 431:TRUE
+
+Polyline: 431 - Deleting polyline
+Hand  L: 23122:FALSE P: 23122:FALSE
+Foot  L: 17312:TRUE P: 23114:FALSE
+
+Polyline: 17312 - Setting of old polyline topology 
+Hand  L: 23122:FALSE P: 17310:TRUE
+Foot  L: 23121:TRUE P: 8952:FALSE
+
+Polyline: 23114 - Setting of old polyline topology 
+Hand  L: 23115:TRUE P: 8949:FALSE
+Foot  L: 23122:FALSE P: 17310:TRUE
+
+Polyline: 23122 - Setting of new polyline topology 
+Hand  L: 8954:FALSE P: 23123:TRUE
+Foot  L: 17312:TRUE P: 23114:FALSE
+
+Polyline: 23122 - Setting of first coord., last coord.
+Hand  L: 8954:FALSE P: 23123:TRUE
+Foot  L: 17312:TRUE P: 23114:FALSE
+
+Polyline: 17357 - Setting of old polyline topology 
+Hand  L: 17349:FALSE P: 17355:TRUE
+Foot  L: 9597:FALSE P: 23616:TRUE
+
+Polyline: 23613 - Setting of old polyline topology 
+Hand  L: 23614:TRUE P: 9596:FALSE
+Foot  L: 17349:FALSE P: 17355:TRUE
+
+Polyline: 17355 - Setting of new polyline topology 
+Hand  L: 17357:TRUE P: 23613:FALSE
+Foot  L: 434:TRUE P: 434:TRUE
+
+Polyline: 434 - Deleting polyline
+Hand  L: 17355:FALSE P: 17355:FALSE
+Foot  L: 9011:FALSE P: 23152:TRUE
+
+Polyline: 9011 - Setting of old polyline topology 
+Hand  L: 9010:FALSE P: 23616:FALSE
+Foot  L: 23151:TRUE P: 17355:FALSE
+
+Polyline: 23152 - Setting of old polyline topology 
+Hand  L: 23151:TRUE P: 17355:FALSE
+Foot  L: 9004:FALSE P: 9596:TRUE
+
+Polyline: 17355 - Setting of new polyline topology 
+Hand  L: 17357:TRUE P: 23613:FALSE
+Foot  L: 9011:FALSE P: 23152:TRUE
+
+Polyline: 17355 - Setting of first coord., last coord.
+Hand  L: 17357:TRUE P: 23613:FALSE
+Foot  L: 9011:FALSE P: 23152:TRUE
+
+Polyline: 17281 - Setting of old polyline topology 
+Hand  L: 23148:FALSE P: 436:TRUE
+Foot  L: 8682:FALSE P: 22958:TRUE
+
+Polyline: 23148 - Setting of old polyline topology 
+Hand  L: 23149:FALSE P: 23150:TRUE
+Foot  L: 17281:TRUE P: 436:TRUE
+
+Polyline: 436 - Setting of new polyline topology 
+Hand  L: 17281:TRUE P: 23148:FALSE
+Foot  L: 22957:FALSE P: 22957:FALSE
+
+Polyline: 22957 - Deleting polyline
+Hand  L: 22959:TRUE P: 22958:FALSE
+Foot  L: 436:FALSE P: 436:FALSE
+
+Polyline: 22959 - Setting of old polyline topology 
+Hand  L: 17283:FALSE P: 436:FALSE
+Foot  L: 8641:TRUE P: 8983:TRUE
+
+Polyline: 22958 - Setting of old polyline topology 
+Hand  L: 22956:TRUE P: 17281:FALSE
+Foot  L: 17283:FALSE P: 436:FALSE
+
+Polyline: 436 - Setting of new polyline topology 
+Hand  L: 17281:TRUE P: 23148:FALSE
+Foot  L: 22958:FALSE P: 22959:TRUE
+
+Polyline: 436 - Setting of first coord., last coord.
+Hand  L: 17281:TRUE P: 23148:FALSE
+Foot  L: 22958:FALSE P: 22959:TRUE
+
+Polyline: 16649 - Setting of old polyline topology 
+Hand  L: 26249:FALSE P: 26250:TRUE
+Foot  L: 8989:FALSE P: 16646:TRUE
+
+Polyline: 16647 - Setting of old polyline topology 
+Hand  L: 26249:TRUE P: 17356:FALSE
+Foot  L: 26249:FALSE P: 26250:TRUE
+
+Polyline: 26250 - Setting of new polyline topology 
+Hand  L: 16649:TRUE P: 16647:FALSE
+Foot  L: 437:TRUE P: 437:TRUE
+
+Polyline: 437 - Deleting polyline
+Hand  L: 26250:FALSE P: 26250:FALSE
+Foot  L: 16646:FALSE P: 26248:TRUE
+
+Polyline: 16646 - Setting of old polyline topology 
+Hand  L: 8989:FALSE P: 16649:FALSE
+Foot  L: 26248:TRUE P: 26250:FALSE
+
+Polyline: 26248 - Setting of old polyline topology 
+Hand  L: 16646:FALSE P: 26250:FALSE
+Foot  L: 8986:FALSE P: 23142:TRUE
+
+Polyline: 26250 - Setting of new polyline topology 
+Hand  L: 16649:TRUE P: 16647:FALSE
+Foot  L: 16646:FALSE P: 26248:TRUE
+
+Polyline: 26250 - Setting of first coord., last coord.
+Hand  L: 16649:TRUE P: 16647:FALSE
+Foot  L: 16646:FALSE P: 26248:TRUE
+
+Polyline: 14353 - Setting of old polyline topology 
+Hand  L: 9090:FALSE P: 25870:FALSE
+Foot  L: 25863:TRUE P: 17663:FALSE
+
+Polyline: 25864 - Setting of old polyline topology 
+Hand  L: 25863:TRUE P: 17663:FALSE
+Foot  L: 14366:TRUE P: 14367:TRUE
+
+Polyline: 25863 - Setting of new polyline topology 
+Hand  L: 14353:FALSE P: 25864:TRUE
+Foot  L: 439:TRUE P: 439:TRUE
+
+Polyline: 439 - Deleting polyline
+Hand  L: 25863:FALSE P: 25863:FALSE
+Foot  L: 9088:FALSE P: 23222:TRUE
+
+Polyline: 9088 - Setting of old polyline topology 
+Hand  L: 9086:FALSE P: 9090:TRUE
+Foot  L: 23221:TRUE P: 25863:FALSE
+
+Polyline: 23222 - Setting of old polyline topology 
+Hand  L: 23221:TRUE P: 25863:FALSE
+Foot  L: 9089:TRUE P: 9121:FALSE
+
+Polyline: 25863 - Setting of new polyline topology 
+Hand  L: 14353:FALSE P: 25864:TRUE
+Foot  L: 9088:FALSE P: 23222:TRUE
+
+Polyline: 25863 - Setting of first coord., last coord.
+Hand  L: 14353:FALSE P: 25864:TRUE
+Foot  L: 9088:FALSE P: 23222:TRUE
+
+Polyline: 9161 - Setting of old polyline topology 
+Hand  L: 9158:FALSE P: 9831:TRUE
+Foot  L: 23264:TRUE P: 17401:FALSE
+
+Polyline: 23265 - Setting of old polyline topology 
+Hand  L: 23264:TRUE P: 17401:FALSE
+Foot  L: 9176:TRUE P: 9829:TRUE
+
+Polyline: 23264 - Setting of new polyline topology 
+Hand  L: 9161:FALSE P: 23265:TRUE
+Foot  L: 451:TRUE P: 451:TRUE
+
+Polyline: 451 - Deleting polyline
+Hand  L: 23264:FALSE P: 23264:FALSE
+Foot  L: 23263:TRUE P: 23261:TRUE
+
+Polyline: 23263 - Setting of old polyline topology 
+Hand  L: 23264:FALSE P: 23261:TRUE
+Foot  L: 9158:TRUE P: 9159:FALSE
+
+Polyline: 23261 - Setting of old polyline topology 
+Hand  L: 23263:TRUE P: 23264:FALSE
+Foot  L: 9157:FALSE P: 23262:TRUE
+
+Polyline: 23264 - Setting of new polyline topology 
+Hand  L: 9161:FALSE P: 23265:TRUE
+Foot  L: 23263:TRUE P: 23261:TRUE
+
+Polyline: 23264 - Setting of first coord., last coord.
+Hand  L: 9161:FALSE P: 23265:TRUE
+Foot  L: 23263:TRUE P: 23261:TRUE
+
+Polyline: 25908 - Setting of old polyline topology 
+Hand  L: 740:TRUE P: 14419:FALSE
+Foot  L: 14391:FALSE P: 14417:TRUE
+
+Polyline: 14419 - Setting of old polyline topology 
+Hand  L: 14418:TRUE P: 14409:FALSE
+Foot  L: 740:TRUE P: 25908:TRUE
+
+Polyline: 740 - Setting of new polyline topology 
+Hand  L: 14419:FALSE P: 25908:TRUE
+Foot  L: 25908:TRUE P: 14419:FALSE
+
+Polyline: 494 - Deleting polyline
+Hand  L: 740:TRUE P: 740:TRUE
+Foot  L: 9727:FALSE P: 23736:TRUE
+
+Polyline: 9727 - Setting of old polyline topology 
+Hand  L: 9725:TRUE P: 25903:FALSE
+Foot  L: 23735:TRUE P: 740:FALSE
+
+Polyline: 23736 - Setting of old polyline topology 
+Hand  L: 23735:TRUE P: 740:FALSE
+Foot  L: 23734:FALSE P: 9705:TRUE
+
+Polyline: 740 - Setting of new polyline topology 
+Hand  L: 14419:FALSE P: 25908:TRUE
+Foot  L: 9727:FALSE P: 23736:TRUE
+
+Polyline: 740 - Setting of first coord., last coord.
+Hand  L: 14419:FALSE P: 25908:TRUE
+Foot  L: 9727:FALSE P: 23736:TRUE
+
+Polyline: 23722 - Setting of old polyline topology 
+Hand  L: 743:TRUE P: 23718:TRUE
+Foot  L: 17365:FALSE P: 23719:TRUE
+
+Polyline: 23721 - Setting of old polyline topology 
+Hand  L: 23707:FALSE P: 23720:TRUE
+Foot  L: 743:TRUE P: 23718:TRUE
+
+Polyline: 743 - Setting of new polyline topology 
+Hand  L: 23721:FALSE P: 23722:TRUE
+Foot  L: 23722:TRUE P: 23721:FALSE
+
+Polyline: 501 - Deleting polyline
+Hand  L: 743:TRUE P: 743:TRUE
+Foot  L: 17367:FALSE P: 17365:TRUE
+
+Polyline: 17367 - Setting of old polyline topology 
+Hand  L: 500:FALSE P: 502:TRUE
+Foot  L: 17365:TRUE P: 743:FALSE
+
+Polyline: 17365 - Setting of old polyline topology 
+Hand  L: 17367:FALSE P: 743:FALSE
+Foot  L: 23723:TRUE P: 23722:FALSE
+
+Polyline: 743 - Setting of new polyline topology 
+Hand  L: 23721:FALSE P: 23722:TRUE
+Foot  L: 17367:FALSE P: 17365:TRUE
+
+Polyline: 743 - Setting of first coord., last coord.
+Hand  L: 23721:FALSE P: 23722:TRUE
+Foot  L: 17367:FALSE P: 17365:TRUE
+
+Polyline: 23793 - Setting of old polyline topology 
+Hand  L: 9822:FALSE P: 23794:TRUE
+Foot  L: 17457:TRUE P: 23795:FALSE
+
+Polyline: 17466 - Setting of old polyline topology 
+Hand  L: 17457:TRUE P: 23795:FALSE
+Foot  L: 23798:TRUE P: 23797:FALSE
+
+Polyline: 17457 - Setting of new polyline topology 
+Hand  L: 23793:FALSE P: 17466:TRUE
+Foot  L: 507:TRUE P: 507:TRUE
+
+Polyline: 507 - Deleting polyline
+Hand  L: 17457:FALSE P: 17457:FALSE
+Foot  L: 23792:TRUE P: 9821:FALSE
+
+Polyline: 23792 - Setting of old polyline topology 
+Hand  L: 17457:FALSE P: 23791:TRUE
+Foot  L: 9822:TRUE P: 9823:FALSE
+
+Polyline: 9821 - Setting of old polyline topology 
+Hand  L: 9820:FALSE P: 9824:TRUE
+Foot  L: 17457:FALSE P: 23791:TRUE
+
+Polyline: 17457 - Setting of new polyline topology 
+Hand  L: 23793:FALSE P: 17466:TRUE
+Foot  L: 23792:TRUE P: 9821:FALSE
+
+Polyline: 17457 - Setting of first coord., last coord.
+Hand  L: 23793:FALSE P: 17466:TRUE
+Foot  L: 23792:TRUE P: 9821:FALSE
+
+Polyline: 24050 - Setting of old polyline topology 
+Hand  L: 24053:TRUE P: 24052:FALSE
+Foot  L: 17459:TRUE P: 26263:FALSE
+
+Polyline: 17468 - Setting of old polyline topology 
+Hand  L: 17459:TRUE P: 26263:FALSE
+Foot  L: 16684:FALSE P: 26272:TRUE
+
+Polyline: 17459 - Setting of new polyline topology 
+Hand  L: 24050:FALSE P: 17468:TRUE
+Foot  L: 508:TRUE P: 508:TRUE
+
+Polyline: 508 - Deleting polyline
+Hand  L: 17459:FALSE P: 17459:FALSE
+Foot  L: 9814:FALSE P: 23786:TRUE
+
+Polyline: 9814 - Setting of old polyline topology 
+Hand  L: 9811:FALSE P: 24053:FALSE
+Foot  L: 23785:TRUE P: 17459:FALSE
+
+Polyline: 23786 - Setting of old polyline topology 
+Hand  L: 23785:TRUE P: 17459:FALSE
+Foot  L: 9806:FALSE P: 16684:TRUE
+
+Polyline: 17459 - Setting of new polyline topology 
+Hand  L: 24050:FALSE P: 17468:TRUE
+Foot  L: 9814:FALSE P: 23786:TRUE
+
+Polyline: 17459 - Setting of first coord., last coord.
+Hand  L: 24050:FALSE P: 17468:TRUE
+Foot  L: 9814:FALSE P: 23786:TRUE
+
+Polyline: 9817 - Setting of old polyline topology 
+Hand  L: 9815:FALSE P: 10119:TRUE
+Foot  L: 23787:TRUE P: 17458:FALSE
+
+Polyline: 23788 - Setting of old polyline topology 
+Hand  L: 23787:TRUE P: 17458:FALSE
+Foot  L: 9811:FALSE P: 24053:FALSE
+
+Polyline: 23787 - Setting of new polyline topology 
+Hand  L: 9817:FALSE P: 23788:TRUE
+Foot  L: 509:TRUE P: 509:TRUE
+
+Polyline: 509 - Deleting polyline
+Hand  L: 23787:FALSE P: 23787:FALSE
+Foot  L: 9813:FALSE P: 23784:TRUE
+
+Polyline: 9813 - Setting of old polyline topology 
+Hand  L: 9788:FALSE P: 9815:TRUE
+Foot  L: 23783:TRUE P: 23787:FALSE
+
+Polyline: 23784 - Setting of old polyline topology 
+Hand  L: 23783:TRUE P: 23787:FALSE
+Foot  L: 9807:TRUE P: 9809:TRUE
+
+Polyline: 23787 - Setting of new polyline topology 
+Hand  L: 9817:FALSE P: 23788:TRUE
+Foot  L: 9813:FALSE P: 23784:TRUE
+
+Polyline: 23787 - Setting of first coord., last coord.
+Hand  L: 9817:FALSE P: 23788:TRUE
+Foot  L: 9813:FALSE P: 23784:TRUE
+
+Polyline: 17472 - Setting of old polyline topology 
+Hand  L: 24101:FALSE P: 17470:TRUE
+Foot  L: 24102:FALSE P: 17672:TRUE
+
+Polyline: 24105 - Setting of old polyline topology 
+Hand  L: 10188:FALSE P: 24106:TRUE
+Foot  L: 24101:FALSE P: 17470:TRUE
+
+Polyline: 17470 - Setting of new polyline topology 
+Hand  L: 17472:TRUE P: 24105:FALSE
+Foot  L: 550:TRUE P: 550:TRUE
+
+Polyline: 550 - Deleting polyline
+Hand  L: 17470:FALSE P: 17470:FALSE
+Foot  L: 10181:FALSE P: 24100:TRUE
+
+Polyline: 10181 - Setting of old polyline topology 
+Hand  L: 10179:FALSE P: 10182:FALSE
+Foot  L: 24099:TRUE P: 17470:FALSE
+
+Polyline: 24100 - Setting of old polyline topology 
+Hand  L: 24099:TRUE P: 17470:FALSE
+Foot  L: 10185:TRUE P: 10186:FALSE
+
+Polyline: 17470 - Setting of new polyline topology 
+Hand  L: 17472:TRUE P: 24105:FALSE
+Foot  L: 10181:FALSE P: 24100:TRUE
+
+Polyline: 17470 - Setting of first coord., last coord.
+Hand  L: 17472:TRUE P: 24105:FALSE
+Foot  L: 10181:FALSE P: 24100:TRUE
+
+Polyline: 24078 - Setting of old polyline topology 
+Hand  L: 17461:FALSE P: 24077:TRUE
+Foot  L: 547:TRUE P: 24114:FALSE
+
+Polyline: 10138 - Setting of old polyline topology 
+Hand  L: 10134:TRUE P: 10175:FALSE
+Foot  L: 17461:FALSE P: 24077:TRUE
+
+Polyline: 24077 - Setting of new polyline topology 
+Hand  L: 24078:TRUE P: 10138:FALSE
+Foot  L: 551:TRUE P: 551:TRUE
+
+Polyline: 551 - Deleting polyline
+Hand  L: 24077:FALSE P: 24077:FALSE
+Foot  L: 24114:TRUE P: 24113:FALSE
+
+Polyline: 24114 - Setting of old polyline topology 
+Hand  L: 24077:FALSE P: 24113:FALSE
+Foot  L: 24078:FALSE P: 546:TRUE
+
+Polyline: 24113 - Setting of old polyline topology 
+Hand  L: 24111:FALSE P: 10195:FALSE
+Foot  L: 24077:FALSE P: 24114:TRUE
+
+Polyline: 24077 - Setting of new polyline topology 
+Hand  L: 24078:TRUE P: 10138:FALSE
+Foot  L: 24114:TRUE P: 24113:FALSE
+
+Polyline: 24077 - Setting of first coord., last coord.
+Hand  L: 24078:TRUE P: 10138:FALSE
+Foot  L: 24114:TRUE P: 24113:FALSE
+
+Polyline: 561 - Setting of new polyline topology 
+Hand  L: 561:TRUE P: 561:TRUE
+Foot  L: 556:TRUE P: 556:TRUE
+
+Polyline: 556 - Deleting polyline
+Hand  L: 561:FALSE P: 561:FALSE
+Foot  L: 24130:FALSE P: 17478:TRUE
+
+Polyline: 24130 - Setting of old polyline topology 
+Hand  L: 10244:FALSE P: 10289:FALSE
+Foot  L: 17476:TRUE P: 561:FALSE
+
+Polyline: 17478 - Setting of old polyline topology 
+Hand  L: 17476:TRUE P: 561:FALSE
+Foot  L: 17475:TRUE P: 555:FALSE
+
+Polyline: 561 - Setting of new polyline topology 
+Hand  L: 561:TRUE P: 561:TRUE
+Foot  L: 24130:FALSE P: 17478:TRUE
+
+Polyline: 561 - Setting of first coord., last coord.
+Hand  L: 561:TRUE P: 561:TRUE
+Foot  L: 24130:FALSE P: 17478:TRUE
+
+Polyline: 24617 - Setting of old polyline topology 
+Hand  L: 11080:FALSE P: 24618:TRUE
+Foot  L: 601:TRUE P: 11198:FALSE
+
+Polyline: 11202 - Setting of old polyline topology 
+Hand  L: 601:TRUE P: 603:TRUE
+Foot  L: 11203:TRUE P: 11247:FALSE
+
+Polyline: 601 - Setting of new polyline topology 
+Hand  L: 24617:FALSE P: 11202:TRUE
+Foot  L: 598:TRUE P: 598:TRUE
+
+Polyline: 598 - Deleting polyline
+Hand  L: 601:FALSE P: 601:FALSE
+Foot  L: 24702:TRUE P: 11192:FALSE
+
+Polyline: 24702 - Setting of old polyline topology 
+Hand  L: 601:FALSE P: 24701:TRUE
+Foot  L: 11193:TRUE P: 11196:FALSE
+
+Polyline: 11192 - Setting of old polyline topology 
+Hand  L: 11203:FALSE P: 11197:TRUE
+Foot  L: 601:FALSE P: 24701:TRUE
+
+Polyline: 601 - Setting of new polyline topology 
+Hand  L: 24617:FALSE P: 11202:TRUE
+Foot  L: 24702:TRUE P: 11192:FALSE
+
+Polyline: 601 - Setting of first coord., last coord.
+Hand  L: 24617:FALSE P: 11202:TRUE
+Foot  L: 24702:TRUE P: 11192:FALSE
+
+Polyline: 17683 - Setting of old polyline topology 
+Hand  L: 25946:FALSE P: 17679:TRUE
+Foot  L: 14501:TRUE P: 12136:FALSE
+
+Polyline: 25028 - Setting of old polyline topology 
+Hand  L: 17682:FALSE P: 25029:FALSE
+Foot  L: 25946:FALSE P: 17679:TRUE
+
+Polyline: 17679 - Setting of new polyline topology 
+Hand  L: 17683:TRUE P: 25028:FALSE
+Foot  L: 632:TRUE P: 632:TRUE
+
+Polyline: 632 - Deleting polyline
+Hand  L: 17679:FALSE P: 17679:FALSE
+Foot  L: 25027:TRUE P: 25029:TRUE
+
+Polyline: 25027 - Setting of old polyline topology 
+Hand  L: 17679:FALSE P: 25029:TRUE
+Foot  L: 25060:FALSE P: 17551:TRUE
+
+Polyline: 25029 - Setting of old polyline topology 
+Hand  L: 25027:TRUE P: 17679:FALSE
+Foot  L: 17682:FALSE P: 25028:TRUE
+
+Polyline: 17679 - Setting of new polyline topology 
+Hand  L: 17683:TRUE P: 25028:FALSE
+Foot  L: 25027:TRUE P: 25029:TRUE
+
+Polyline: 17679 - Setting of first coord., last coord.
+Hand  L: 17683:TRUE P: 25028:FALSE
+Foot  L: 25027:TRUE P: 25029:TRUE
+
+Polyline: 25495 - Setting of old polyline topology 
+Hand  L: 676:FALSE P: 13128:FALSE
+Foot  L: 677:TRUE P: 25496:TRUE
+
+Polyline: 25496 - Setting of old polyline topology 
+Hand  L: 677:TRUE P: 25495:FALSE
+Foot  L: 13000:TRUE P: 13001:TRUE
+
+Polyline: 677 - Setting of new polyline topology 
+Hand  L: 25495:FALSE P: 25496:TRUE
+Foot  L: 17601:FALSE P: 17601:FALSE
+
+Polyline: 17601 - Deleting polyline
+Hand  L: 25456:FALSE P: 17605:TRUE
+Foot  L: 677:FALSE P: 677:FALSE
+
+Polyline: 25456 - Setting of old polyline topology 
+Hand  L: 13000:FALSE P: 25457:TRUE
+Foot  L: 677:FALSE P: 25441:FALSE
+
+Polyline: 17605 - Setting of old polyline topology 
+Hand  L: 677:FALSE P: 25441:FALSE
+Foot  L: 25443:TRUE P: 25442:FALSE
+
+Polyline: 677 - Setting of new polyline topology 
+Hand  L: 25495:FALSE P: 25496:TRUE
+Foot  L: 17605:TRUE P: 25456:FALSE
+
+Polyline: 677 - Setting of first coord., last coord.
+Hand  L: 25495:FALSE P: 25496:TRUE
+Foot  L: 17605:TRUE P: 25456:FALSE
+
+Polyline: 23244 - Setting of old polyline topology 
+Hand  L: 23240:FALSE P: 23243:TRUE
+Foot  L: 14383:TRUE P: 25892:FALSE
+
+Polyline: 9126 - Setting of old polyline topology 
+Hand  L: 9125:TRUE P: 25888:FALSE
+Foot  L: 23240:FALSE P: 23243:TRUE
+
+Polyline: 23243 - Setting of new polyline topology 
+Hand  L: 23244:TRUE P: 9126:FALSE
+Foot  L: 736:TRUE P: 736:TRUE
+
+Polyline: 736 - Deleting polyline
+Hand  L: 23243:FALSE P: 23243:FALSE
+Foot  L: 17660:TRUE P: 25887:FALSE
+
+Polyline: 17660 - Setting of old polyline topology 
+Hand  L: 23243:FALSE P: 17661:TRUE
+Foot  L: 25892:TRUE P: 25891:FALSE
+
+Polyline: 25887 - Setting of old polyline topology 
+Hand  L: 25888:TRUE P: 14384:FALSE
+Foot  L: 23243:FALSE P: 17661:TRUE
+
+Polyline: 23243 - Setting of new polyline topology 
+Hand  L: 23244:TRUE P: 9126:FALSE
+Foot  L: 17660:TRUE P: 25887:FALSE
+
+Polyline: 23243 - Setting of first coord., last coord.
+Hand  L: 23244:TRUE P: 9126:FALSE
+Foot  L: 17660:TRUE P: 25887:FALSE
+
+Polyline: 23723 - Setting of old polyline topology 
+Hand  L: 17365:FALSE P: 23719:TRUE
+Foot  L: 9695:TRUE P: 14425:TRUE
+
+Polyline: 23722 - Setting of old polyline topology 
+Hand  L: 743:TRUE P: 23718:TRUE
+Foot  L: 17365:FALSE P: 23719:TRUE
+
+Polyline: 23719 - Setting of new polyline topology 
+Hand  L: 23723:TRUE P: 23722:FALSE
+Foot  L: 744:TRUE P: 744:TRUE
+
+Polyline: 744 - Deleting polyline
+Hand  L: 23719:FALSE P: 23719:FALSE
+Foot  L: 17671:TRUE P: 17670:FALSE
+
+Polyline: 17671 - Setting of old polyline topology 
+Hand  L: 23719:FALSE P: 17668:TRUE
+Foot  L: 14425:FALSE P: 25914:TRUE
+
+Polyline: 17670 - Setting of old polyline topology 
+Hand  L: 23718:FALSE P: 17667:TRUE
+Foot  L: 23719:FALSE P: 17668:TRUE
+
+Polyline: 23719 - Setting of new polyline topology 
+Hand  L: 23723:TRUE P: 23722:FALSE
+Foot  L: 17671:TRUE P: 17670:FALSE
+
+Polyline: 23719 - Setting of first coord., last coord.
+Hand  L: 23723:TRUE P: 23722:FALSE
+Foot  L: 17671:TRUE P: 17670:FALSE
+
+Polyline: 18300 - Setting of old polyline topology 
+Hand  L: 18293:TRUE P: 18287:FALSE
+Foot  L: 1374:TRUE P: 1375:TRUE
+
+Polyline: 1375 - Setting of old polyline topology 
+Hand  L: 1374:TRUE P: 18300:FALSE
+Foot  L: 1826:TRUE P: 1828:TRUE
+
+Polyline: 1374 - Setting of new polyline topology 
+Hand  L: 18300:FALSE P: 1375:TRUE
+Foot  L: 1356:TRUE P: 1356:TRUE
+
+Polyline: 1356 - Deleting polyline
+Hand  L: 1374:FALSE P: 1374:FALSE
+Foot  L: 1350:FALSE P: 1355:TRUE
+
+Polyline: 1350 - Setting of old polyline topology 
+Hand  L: 1349:TRUE P: 1352:FALSE
+Foot  L: 1355:TRUE P: 1374:FALSE
+
+Polyline: 1355 - Setting of old polyline topology 
+Hand  L: 1350:FALSE P: 1374:FALSE
+Foot  L: 17982:FALSE P: 1348:TRUE
+
+Polyline: 1374 - Setting of new polyline topology 
+Hand  L: 18300:FALSE P: 1375:TRUE
+Foot  L: 1350:FALSE P: 1355:TRUE
+
+Polyline: 1374 - Setting of first coord., last coord.
+Hand  L: 18300:FALSE P: 1375:TRUE
+Foot  L: 1350:FALSE P: 1355:TRUE
+
+Polyline: 2987 - Setting of old polyline topology 
+Hand  L: 2985:FALSE P: 2989:TRUE
+Foot  L: 2981:FALSE P: 2984:TRUE
+
+Polyline: 2985 - Setting of old polyline topology 
+Hand  L: 2983:TRUE P: 2963:FALSE
+Foot  L: 2987:TRUE P: 2989:TRUE
+
+Polyline: 2989 - Setting of new polyline topology 
+Hand  L: 2987:TRUE P: 2985:FALSE
+Foot  L: 2988:TRUE P: 2988:TRUE
+
+Polyline: 2988 - Deleting polyline
+Hand  L: 2989:FALSE P: 2989:FALSE
+Foot  L: 19024:TRUE P: 19050:FALSE
+
+Polyline: 19024 - Setting of old polyline topology 
+Hand  L: 2989:FALSE P: 19050:FALSE
+Foot  L: 19020:FALSE P: 2986:TRUE
+
+Polyline: 19050 - Setting of old polyline topology 
+Hand  L: 19051:FALSE P: 19052:TRUE
+Foot  L: 2989:FALSE P: 19024:TRUE
+
+Polyline: 2989 - Setting of new polyline topology 
+Hand  L: 2987:TRUE P: 2985:FALSE
+Foot  L: 19024:TRUE P: 19050:FALSE
+
+Polyline: 2989 - Setting of first coord., last coord.
+Hand  L: 2987:TRUE P: 2985:FALSE
+Foot  L: 19024:TRUE P: 19050:FALSE
+
+Polyline: 3527 - Setting of old polyline topology 
+Hand  L: 3523:FALSE P: 3524:TRUE
+Foot  L: 3523:TRUE P: 19437:FALSE
+
+Polyline: 3526 - Setting of old polyline topology 
+Hand  L: 3519:TRUE P: 19202:FALSE
+Foot  L: 3523:FALSE P: 3524:TRUE
+
+Polyline: 3524 - Setting of new polyline topology 
+Hand  L: 3527:TRUE P: 3526:FALSE
+Foot  L: 3200:TRUE P: 3200:TRUE
+
+Polyline: 3200 - Deleting polyline
+Hand  L: 3524:FALSE P: 3524:FALSE
+Foot  L: 19203:TRUE P: 19201:FALSE
+
+Polyline: 19203 - Setting of old polyline topology 
+Hand  L: 3524:FALSE P: 19204:TRUE
+Foot  L: 19437:TRUE P: 19436:FALSE
+
+Polyline: 19201 - Setting of old polyline topology 
+Hand  L: 19202:TRUE P: 3198:FALSE
+Foot  L: 3524:FALSE P: 19204:TRUE
+
+Polyline: 3524 - Setting of new polyline topology 
+Hand  L: 3527:TRUE P: 3526:FALSE
+Foot  L: 19203:TRUE P: 19201:FALSE
+
+Polyline: 3524 - Setting of first coord., last coord.
+Hand  L: 3527:TRUE P: 3526:FALSE
+Foot  L: 19203:TRUE P: 19201:FALSE
+
+Polyline: 3354 - Setting of old polyline topology 
+Hand  L: 3348:FALSE P: 3354:FALSE
+Foot  L: 3356:TRUE P: 3354:TRUE
+
+Polyline: 3348 - Setting of old polyline topology 
+Hand  L: 3345:FALSE P: 3349:FALSE
+Foot  L: 3354:TRUE P: 3356:TRUE
+
+Polyline: 3356 - Setting of new polyline topology 
+Hand  L: 3354:FALSE P: 3348:FALSE
+Foot  L: 3355:TRUE P: 3355:TRUE
+
+Polyline: 3355 - Deleting polyline
+Hand  L: 3356:FALSE P: 3356:FALSE
+Foot  L: 3358:TRUE P: 3361:FALSE
+
+Polyline: 3358 - Setting of old polyline topology 
+Hand  L: 3356:FALSE P: 3361:FALSE
+Foot  L: 3351:TRUE P: 3352:TRUE
+
+Polyline: 3361 - Setting of old polyline topology 
+Hand  L: 3367:FALSE P: 3362:TRUE
+Foot  L: 3356:FALSE P: 3358:TRUE
+
+Polyline: 3356 - Setting of new polyline topology 
+Hand  L: 3354:FALSE P: 3348:FALSE
+Foot  L: 3358:TRUE P: 3361:FALSE
+
+Polyline: 3356 - Setting of first coord., last coord.
+Hand  L: 3354:FALSE P: 3348:FALSE
+Foot  L: 3358:TRUE P: 3361:FALSE
+
+Polyline: 3604 - Setting of old polyline topology 
+Hand  L: 3603:FALSE P: 3623:FALSE
+Foot  L: 3562:TRUE P: 3567:TRUE
+
+Polyline: 3567 - Setting of old polyline topology 
+Hand  L: 3562:TRUE P: 3604:FALSE
+Foot  L: 19479:FALSE P: 3623:TRUE
+
+Polyline: 3562 - Setting of new polyline topology 
+Hand  L: 3604:FALSE P: 3567:TRUE
+Foot  L: 3543:TRUE P: 3543:TRUE
+
+Polyline: 3543 - Deleting polyline
+Hand  L: 3562:FALSE P: 3562:FALSE
+Foot  L: 3609:FALSE P: 3610:TRUE
+
+Polyline: 3609 - Setting of old polyline topology 
+Hand  L: 3561:FALSE P: 3602:TRUE
+Foot  L: 3601:TRUE P: 3562:FALSE
+
+Polyline: 3610 - Setting of old polyline topology 
+Hand  L: 3601:TRUE P: 3562:FALSE
+Foot  L: 3587:FALSE P: 3605:TRUE
+
+Polyline: 3562 - Setting of new polyline topology 
+Hand  L: 3604:FALSE P: 3567:TRUE
+Foot  L: 3609:FALSE P: 3610:TRUE
+
+Polyline: 3562 - Setting of first coord., last coord.
+Hand  L: 3604:FALSE P: 3567:TRUE
+Foot  L: 3609:FALSE P: 3610:TRUE
+
+Polyline: 3666 - Setting of old polyline topology 
+Hand  L: 3663:FALSE P: 3669:TRUE
+Foot  L: 3667:TRUE P: 3691:FALSE
+
+Polyline: 3691 - Setting of old polyline topology 
+Hand  L: 3706:FALSE P: 3693:TRUE
+Foot  L: 3666:FALSE P: 3667:TRUE
+
+Polyline: 3667 - Setting of new polyline topology 
+Hand  L: 3666:FALSE P: 3691:FALSE
+Foot  L: 3660:TRUE P: 3660:TRUE
+
+Polyline: 3660 - Deleting polyline
+Hand  L: 3667:FALSE P: 3667:FALSE
+Foot  L: 19519:FALSE P: 3659:TRUE
+
+Polyline: 19519 - Setting of old polyline topology 
+Hand  L: 19305:FALSE P: 19518:TRUE
+Foot  L: 3659:TRUE P: 3667:FALSE
+
+Polyline: 3659 - Setting of old polyline topology 
+Hand  L: 19519:FALSE P: 3667:FALSE
+Foot  L: 19522:TRUE P: 133:FALSE
+
+Polyline: 3667 - Setting of new polyline topology 
+Hand  L: 3666:FALSE P: 3691:FALSE
+Foot  L: 19519:FALSE P: 3659:TRUE
+
+Polyline: 3667 - Setting of first coord., last coord.
+Hand  L: 3666:FALSE P: 3691:FALSE
+Foot  L: 19519:FALSE P: 3659:TRUE
+
+Polyline: 19582 - Setting of old polyline topology 
+Hand  L: 19581:TRUE P: 19584:FALSE
+Foot  L: 3725:TRUE P: 3726:TRUE
+
+Polyline: 3726 - Setting of old polyline topology 
+Hand  L: 3725:TRUE P: 19582:FALSE
+Foot  L: 19569:TRUE P: 19583:FALSE
+
+Polyline: 3725 - Setting of new polyline topology 
+Hand  L: 19582:FALSE P: 3726:TRUE
+Foot  L: 3712:TRUE P: 3712:TRUE
+
+Polyline: 3712 - Deleting polyline
+Hand  L: 3725:FALSE P: 3725:FALSE
+Foot  L: 3693:FALSE P: 3710:TRUE
+
+Polyline: 3693 - Setting of old polyline topology 
+Hand  L: 3691:TRUE P: 3706:FALSE
+Foot  L: 3710:TRUE P: 3725:FALSE
+
+Polyline: 3710 - Setting of old polyline topology 
+Hand  L: 3693:FALSE P: 3725:FALSE
+Foot  L: 19565:TRUE P: 19569:FALSE
+
+Polyline: 3725 - Setting of new polyline topology 
+Hand  L: 19582:FALSE P: 3726:TRUE
+Foot  L: 3693:FALSE P: 3710:TRUE
+
+Polyline: 3725 - Setting of first coord., last coord.
+Hand  L: 19582:FALSE P: 3726:TRUE
+Foot  L: 3693:FALSE P: 3710:TRUE
+
+Polyline: 19817 - Setting of old polyline topology 
+Hand  L: 19815:TRUE P: 19845:FALSE
+Foot  L: 4129:TRUE P: 4131:TRUE
+
+Polyline: 4131 - Setting of old polyline topology 
+Hand  L: 4129:TRUE P: 19817:FALSE
+Foot  L: 20231:FALSE P: 19845:TRUE
+
+Polyline: 4129 - Setting of new polyline topology 
+Hand  L: 19817:FALSE P: 4131:TRUE
+Foot  L: 4097:TRUE P: 4097:TRUE
+
+Polyline: 4097 - Deleting polyline
+Hand  L: 4129:FALSE P: 4129:FALSE
+Foot  L: 19806:FALSE P: 4095:TRUE
+
+Polyline: 19806 - Setting of old polyline topology 
+Hand  L: 163:FALSE P: 19805:TRUE
+Foot  L: 4095:TRUE P: 4129:FALSE
+
+Polyline: 4095 - Setting of old polyline topology 
+Hand  L: 19806:FALSE P: 4129:FALSE
+Foot  L: 4126:TRUE P: 4128:TRUE
+
+Polyline: 4129 - Setting of new polyline topology 
+Hand  L: 19817:FALSE P: 4131:TRUE
+Foot  L: 19806:FALSE P: 4095:TRUE
+
+Polyline: 4129 - Setting of first coord., last coord.
+Hand  L: 19817:FALSE P: 4131:TRUE
+Foot  L: 19806:FALSE P: 4095:TRUE
+
+Polyline: 20149 - Setting of old polyline topology 
+Hand  L: 4533:FALSE P: 20151:TRUE
+Foot  L: 20152:TRUE P: 20151:FALSE
+
+Polyline: 20150 - Setting of old polyline topology 
+Hand  L: 20152:TRUE P: 20151:FALSE
+Foot  L: 4534:TRUE P: 20153:TRUE
+
+Polyline: 20152 - Setting of new polyline topology 
+Hand  L: 20149:FALSE P: 20150:TRUE
+Foot  L: 4531:TRUE P: 4531:TRUE
+
+Polyline: 4531 - Deleting polyline
+Hand  L: 20152:FALSE P: 20152:FALSE
+Foot  L: 4533:TRUE P: 4529:TRUE
+
+Polyline: 4533 - Setting of old polyline topology 
+Hand  L: 20152:FALSE P: 4524:TRUE
+Foot  L: 20149:TRUE P: 19764:FALSE
+
+Polyline: 4529 - Setting of old polyline topology 
+Hand  L: 4524:TRUE P: 20152:FALSE
+Foot  L: 4521:FALSE P: 4526:TRUE
+
+Polyline: 20152 - Setting of new polyline topology 
+Hand  L: 20149:FALSE P: 20150:TRUE
+Foot  L: 4533:TRUE P: 4529:TRUE
+
+Polyline: 20152 - Setting of first coord., last coord.
+Hand  L: 20149:FALSE P: 20150:TRUE
+Foot  L: 4533:TRUE P: 4529:TRUE
+
+Polyline: 6402 - Setting of old polyline topology 
+Hand  L: 20844:FALSE P: 6396:TRUE
+Foot  L: 6395:TRUE P: 5447:FALSE
+
+Polyline: 6401 - Setting of old polyline topology 
+Hand  L: 6398:TRUE P: 6393:FALSE
+Foot  L: 20844:FALSE P: 6396:TRUE
+
+Polyline: 6396 - Setting of new polyline topology 
+Hand  L: 6402:TRUE P: 6401:FALSE
+Foot  L: 5444:TRUE P: 5444:TRUE
+
+Polyline: 5444 - Deleting polyline
+Hand  L: 6396:FALSE P: 6396:FALSE
+Foot  L: 5441:FALSE P: 5443:TRUE
+
+Polyline: 5441 - Setting of old polyline topology 
+Hand  L: 5439:TRUE P: 5442:FALSE
+Foot  L: 5443:TRUE P: 6396:FALSE
+
+Polyline: 5443 - Setting of old polyline topology 
+Hand  L: 5441:FALSE P: 6396:FALSE
+Foot  L: 5438:FALSE P: 5440:TRUE
+
+Polyline: 6396 - Setting of new polyline topology 
+Hand  L: 6402:TRUE P: 6401:FALSE
+Foot  L: 5441:FALSE P: 5443:TRUE
+
+Polyline: 6396 - Setting of first coord., last coord.
+Hand  L: 6402:TRUE P: 6401:FALSE
+Foot  L: 5441:FALSE P: 5443:TRUE
+
+Polyline: 20931 - Setting of old polyline topology 
+Hand  L: 5586:FALSE P: 5569:TRUE
+Foot  L: 20942:TRUE P: 5574:FALSE
+
+Polyline: 20941 - Setting of old polyline topology 
+Hand  L: 20942:TRUE P: 5574:FALSE
+Foot  L: 5576:FALSE P: 5577:TRUE
+
+Polyline: 20942 - Setting of new polyline topology 
+Hand  L: 20931:FALSE P: 20941:TRUE
+Foot  L: 5568:TRUE P: 5568:TRUE
+
+Polyline: 5568 - Deleting polyline
+Hand  L: 20942:FALSE P: 20942:FALSE
+Foot  L: 5586:TRUE P: 5588:TRUE
+
+Polyline: 5586 - Setting of old polyline topology 
+Hand  L: 20942:FALSE P: 5588:TRUE
+Foot  L: 20931:TRUE P: 20960:FALSE
+
+Polyline: 5588 - Setting of old polyline topology 
+Hand  L: 5586:TRUE P: 20942:FALSE
+Foot  L: 20960:TRUE P: 5584:FALSE
+
+Polyline: 20942 - Setting of new polyline topology 
+Hand  L: 20931:FALSE P: 20941:TRUE
+Foot  L: 5586:TRUE P: 5588:TRUE
+
+Polyline: 20942 - Setting of first coord., last coord.
+Hand  L: 20931:FALSE P: 20941:TRUE
+Foot  L: 5586:TRUE P: 5588:TRUE
+
+Polyline: 20998 - Setting of old polyline topology 
+Hand  L: 20997:FALSE P: 21010:TRUE
+Foot  L: 21007:TRUE P: 20999:TRUE
+
+Polyline: 20997 - Setting of old polyline topology 
+Hand  L: 20996:FALSE P: 21009:FALSE
+Foot  L: 20998:TRUE P: 21010:TRUE
+
+Polyline: 21010 - Setting of new polyline topology 
+Hand  L: 20998:TRUE P: 20997:FALSE
+Foot  L: 5626:TRUE P: 5626:TRUE
+
+Polyline: 5626 - Deleting polyline
+Hand  L: 21010:FALSE P: 21010:FALSE
+Foot  L: 5627:TRUE P: 5625:TRUE
+
+Polyline: 5627 - Setting of old polyline topology 
+Hand  L: 21010:FALSE P: 5579:FALSE
+Foot  L: 21004:FALSE P: 20988:TRUE
+
+Polyline: 5625 - Setting of old polyline topology 
+Hand  L: 5579:FALSE P: 21010:FALSE
+Foot  L: 5623:TRUE P: 5624:TRUE
+
+Polyline: 21010 - Setting of new polyline topology 
+Hand  L: 20998:TRUE P: 20997:FALSE
+Foot  L: 5627:TRUE P: 5625:TRUE
+
+Polyline: 21010 - Setting of first coord., last coord.
+Hand  L: 20998:TRUE P: 20997:FALSE
+Foot  L: 5627:TRUE P: 5625:TRUE
+
+Polyline: 21352 - Setting of old polyline topology 
+Hand  L: 21351:FALSE P: 21356:TRUE
+Foot  L: 17049:TRUE P: 21344:FALSE
+
+Polyline: 21355 - Setting of old polyline topology 
+Hand  L: 21351:TRUE P: 21350:FALSE
+Foot  L: 21351:FALSE P: 21356:TRUE
+
+Polyline: 21356 - Setting of new polyline topology 
+Hand  L: 21352:TRUE P: 21355:FALSE
+Foot  L: 6141:TRUE P: 6141:TRUE
+
+Polyline: 6141 - Deleting polyline
+Hand  L: 21356:FALSE P: 21356:FALSE
+Foot  L: 21342:FALSE P: 21349:TRUE
+
+Polyline: 21342 - Setting of old polyline topology 
+Hand  L: 21343:TRUE P: 6137:FALSE
+Foot  L: 21353:TRUE P: 21356:FALSE
+
+Polyline: 21349 - Setting of old polyline topology 
+Hand  L: 21353:TRUE P: 21356:FALSE
+Foot  L: 21353:FALSE P: 21350:TRUE
+
+Polyline: 21356 - Setting of new polyline topology 
+Hand  L: 21352:TRUE P: 21355:FALSE
+Foot  L: 21342:FALSE P: 21349:TRUE
+
+Polyline: 21356 - Setting of first coord., last coord.
+Hand  L: 21352:TRUE P: 21355:FALSE
+Foot  L: 21342:FALSE P: 21349:TRUE
+
+Polyline: 21627 - Setting of old polyline topology 
+Hand  L: 21628:FALSE P: 21629:TRUE
+Foot  L: 17106:TRUE P: 21618:FALSE
+
+Polyline: 21626 - Setting of old polyline topology 
+Hand  L: 21628:TRUE P: 6608:FALSE
+Foot  L: 21628:FALSE P: 21629:TRUE
+
+Polyline: 21629 - Setting of new polyline topology 
+Hand  L: 21627:TRUE P: 21626:FALSE
+Foot  L: 6608:TRUE P: 6608:TRUE
+
+Polyline: 6608 - Deleting polyline
+Hand  L: 21629:FALSE P: 21629:FALSE
+Foot  L: 313:FALSE P: 21626:TRUE
+
+Polyline: 313 - Setting of old polyline topology 
+Hand  L: 6620:FALSE P: 21634:TRUE
+Foot  L: 21628:TRUE P: 21629:FALSE
+
+Polyline: 21626 - Setting of old polyline topology 
+Hand  L: 21628:TRUE P: 21629:FALSE
+Foot  L: 21628:FALSE P: 21629:TRUE
+
+Polyline: 21629 - Setting of new polyline topology 
+Hand  L: 21627:TRUE P: 21626:FALSE
+Foot  L: 313:FALSE P: 21626:TRUE
+
+Polyline: 21629 - Setting of first coord., last coord.
+Hand  L: 21627:TRUE P: 21626:FALSE
+Foot  L: 313:FALSE P: 21626:TRUE
+
+Polyline: 21762 - Setting of old polyline topology 
+Hand  L: 21763:FALSE P: 21764:TRUE
+Foot  L: 6760:FALSE P: 21760:TRUE
+
+Polyline: 21761 - Setting of old polyline topology 
+Hand  L: 21763:TRUE P: 6763:FALSE
+Foot  L: 21763:FALSE P: 21764:TRUE
+
+Polyline: 21764 - Setting of new polyline topology 
+Hand  L: 21762:TRUE P: 21761:FALSE
+Foot  L: 6763:TRUE P: 6763:TRUE
+
+Polyline: 6763 - Deleting polyline
+Hand  L: 21764:FALSE P: 21764:FALSE
+Foot  L: 21779:FALSE P: 21761:TRUE
+
+Polyline: 21779 - Setting of old polyline topology 
+Hand  L: 6804:FALSE P: 21780:TRUE
+Foot  L: 21763:TRUE P: 21764:FALSE
+
+Polyline: 21761 - Setting of old polyline topology 
+Hand  L: 21763:TRUE P: 21764:FALSE
+Foot  L: 21763:FALSE P: 21764:TRUE
+
+Polyline: 21764 - Setting of new polyline topology 
+Hand  L: 21762:TRUE P: 21761:FALSE
+Foot  L: 21779:FALSE P: 21761:TRUE
+
+Polyline: 21764 - Setting of first coord., last coord.
+Hand  L: 21762:TRUE P: 21761:FALSE
+Foot  L: 21779:FALSE P: 21761:TRUE
+
+Polyline: 321 - Setting of old polyline topology 
+Hand  L: 21824:FALSE P: 21825:TRUE
+Foot  L: 21824:TRUE P: 6945:FALSE
+
+Polyline: 21824 - Setting of old polyline topology 
+Hand  L: 321:FALSE P: 6945:FALSE
+Foot  L: 321:TRUE P: 21825:TRUE
+
+Polyline: 21825 - Setting of new polyline topology 
+Hand  L: 321:TRUE P: 21824:FALSE
+Foot  L: 6944:TRUE P: 6944:TRUE
+
+Polyline: 6944 - Deleting polyline
+Hand  L: 21825:FALSE P: 21825:FALSE
+Foot  L: 6943:FALSE P: 6941:TRUE
+
+Polyline: 6943 - Setting of old polyline topology 
+Hand  L: 6942:FALSE P: 6945:TRUE
+Foot  L: 6941:TRUE P: 21825:FALSE
+
+Polyline: 6941 - Setting of old polyline topology 
+Hand  L: 6943:FALSE P: 21825:FALSE
+Foot  L: 6940:FALSE P: 6924:TRUE
+
+Polyline: 21825 - Setting of new polyline topology 
+Hand  L: 321:TRUE P: 21824:FALSE
+Foot  L: 6943:FALSE P: 6941:TRUE
+
+Polyline: 21825 - Setting of first coord., last coord.
+Hand  L: 321:TRUE P: 21824:FALSE
+Foot  L: 6943:FALSE P: 6941:TRUE
+
+Polyline: 6993 - Setting of old polyline topology 
+Hand  L: 6992:FALSE P: 7002:FALSE
+Foot  L: 6989:TRUE P: 6991:TRUE
+
+Polyline: 6991 - Setting of old polyline topology 
+Hand  L: 6989:TRUE P: 6993:FALSE
+Foot  L: 21873:FALSE P: 21874:TRUE
+
+Polyline: 6989 - Setting of new polyline topology 
+Hand  L: 6993:FALSE P: 6991:TRUE
+Foot  L: 6972:TRUE P: 6972:TRUE
+
+Polyline: 6972 - Deleting polyline
+Hand  L: 6989:FALSE P: 6989:FALSE
+Foot  L: 6986:TRUE P: 6988:TRUE
+
+Polyline: 6986 - Setting of old polyline topology 
+Hand  L: 6989:FALSE P: 6988:TRUE
+Foot  L: 21867:TRUE P: 333:FALSE
+
+Polyline: 6988 - Setting of old polyline topology 
+Hand  L: 6986:TRUE P: 6989:FALSE
+Foot  L: 6987:TRUE P: 21871:FALSE
+
+Polyline: 6989 - Setting of new polyline topology 
+Hand  L: 6993:FALSE P: 6991:TRUE
+Foot  L: 6986:TRUE P: 6988:TRUE
+
+Polyline: 6989 - Setting of first coord., last coord.
+Hand  L: 6993:FALSE P: 6991:TRUE
+Foot  L: 6986:TRUE P: 6988:TRUE
+
+Polyline: 21867 - Setting of old polyline topology 
+Hand  L: 6986:FALSE P: 21868:TRUE
+Foot  L: 21860:TRUE P: 21851:TRUE
+
+Polyline: 21851 - Setting of old polyline topology 
+Hand  L: 21860:TRUE P: 21867:FALSE
+Foot  L: 21852:TRUE P: 21859:FALSE
+
+Polyline: 21860 - Setting of new polyline topology 
+Hand  L: 21867:FALSE P: 21851:TRUE
+Foot  L: 6977:TRUE P: 6977:TRUE
+
+Polyline: 6977 - Deleting polyline
+Hand  L: 21860:FALSE P: 21860:FALSE
+Foot  L: 21856:TRUE P: 21855:FALSE
+
+Polyline: 21856 - Setting of old polyline topology 
+Hand  L: 21860:FALSE P: 21857:TRUE
+Foot  L: 21829:TRUE P: 21843:FALSE
+
+Polyline: 21855 - Setting of old polyline topology 
+Hand  L: 21854:FALSE P: 21857:FALSE
+Foot  L: 21860:FALSE P: 21857:TRUE
+
+Polyline: 21860 - Setting of new polyline topology 
+Hand  L: 21867:FALSE P: 21851:TRUE
+Foot  L: 21856:TRUE P: 21855:FALSE
+
+Polyline: 21860 - Setting of first coord., last coord.
+Hand  L: 21867:FALSE P: 21851:TRUE
+Foot  L: 21856:TRUE P: 21855:FALSE
+
+Polyline: 21968 - Setting of old polyline topology 
+Hand  L: 21972:FALSE P: 21973:TRUE
+Foot  L: 17157:TRUE P: 21939:FALSE
+
+Polyline: 349 - Setting of old polyline topology 
+Hand  L: 17158:TRUE P: 348:FALSE
+Foot  L: 21972:FALSE P: 21973:TRUE
+
+Polyline: 21973 - Setting of new polyline topology 
+Hand  L: 21968:TRUE P: 349:FALSE
+Foot  L: 7058:TRUE P: 7058:TRUE
+
+Polyline: 7058 - Deleting polyline
+Hand  L: 21973:FALSE P: 21973:FALSE
+Foot  L: 21940:FALSE P: 7057:TRUE
+
+Polyline: 21940 - Setting of old polyline topology 
+Hand  L: 344:FALSE P: 21939:TRUE
+Foot  L: 7057:TRUE P: 21973:FALSE
+
+Polyline: 7057 - Setting of old polyline topology 
+Hand  L: 21940:FALSE P: 21973:FALSE
+Foot  L: 21916:FALSE P: 7029:TRUE
+
+Polyline: 21973 - Setting of new polyline topology 
+Hand  L: 21968:TRUE P: 349:FALSE
+Foot  L: 21940:FALSE P: 7057:TRUE
+
+Polyline: 21973 - Setting of first coord., last coord.
+Hand  L: 21968:TRUE P: 349:FALSE
+Foot  L: 21940:FALSE P: 7057:TRUE
+
+Polyline: 25501 - Setting of old polyline topology 
+Hand  L: 13140:FALSE P: 25502:TRUE
+Foot  L: 13138:TRUE P: 25500:TRUE
+
+Polyline: 685 - Setting of old polyline topology 
+Hand  L: 13142:TRUE P: 13141:TRUE
+Foot  L: 13140:FALSE P: 25502:TRUE
+
+Polyline: 25502 - Setting of new polyline topology 
+Hand  L: 25501:TRUE P: 685:FALSE
+Foot  L: 7411:TRUE P: 7411:TRUE
+
+Polyline: 7411 - Deleting polyline
+Hand  L: 25502:FALSE P: 25502:FALSE
+Foot  L: 7398:FALSE P: 7409:TRUE
+
+Polyline: 7398 - Setting of old polyline topology 
+Hand  L: 7389:TRUE P: 7410:FALSE
+Foot  L: 7409:TRUE P: 25502:FALSE
+
+Polyline: 7409 - Setting of old polyline topology 
+Hand  L: 7398:FALSE P: 25502:FALSE
+Foot  L: 22095:FALSE P: 22179:TRUE
+
+Polyline: 25502 - Setting of new polyline topology 
+Hand  L: 25501:TRUE P: 685:FALSE
+Foot  L: 7398:FALSE P: 7409:TRUE
+
+Polyline: 25502 - Setting of first coord., last coord.
+Hand  L: 25501:TRUE P: 685:FALSE
+Foot  L: 7398:FALSE P: 7409:TRUE
+
+Polyline: 22440 - Setting of old polyline topology 
+Hand  L: 7789:FALSE P: 22442:TRUE
+Foot  L: 22443:TRUE P: 22442:FALSE
+
+Polyline: 22441 - Setting of old polyline topology 
+Hand  L: 22443:TRUE P: 22442:FALSE
+Foot  L: 17242:TRUE P: 22453:FALSE
+
+Polyline: 22443 - Setting of new polyline topology 
+Hand  L: 22440:FALSE P: 22441:TRUE
+Foot  L: 7789:TRUE P: 7789:TRUE
+
+Polyline: 7789 - Deleting polyline
+Hand  L: 22443:FALSE P: 22443:FALSE
+Foot  L: 22440:TRUE P: 22429:FALSE
+
+Polyline: 22440 - Setting of old polyline topology 
+Hand  L: 22443:FALSE P: 22442:TRUE
+Foot  L: 22443:TRUE P: 22442:FALSE
+
+Polyline: 22429 - Setting of old polyline topology 
+Hand  L: 22431:TRUE P: 22430:FALSE
+Foot  L: 22443:FALSE P: 22442:TRUE
+
+Polyline: 22443 - Setting of new polyline topology 
+Hand  L: 22440:FALSE P: 22441:TRUE
+Foot  L: 22440:TRUE P: 22429:FALSE
+
+Polyline: 22443 - Setting of first coord., last coord.
+Hand  L: 22440:FALSE P: 22441:TRUE
+Foot  L: 22440:TRUE P: 22429:FALSE
+
+Polyline: 22906 - Setting of old polyline topology 
+Hand  L: 22899:FALSE P: 22905:TRUE
+Foot  L: 8616:TRUE P: 8620:TRUE
+
+Polyline: 8620 - Setting of old polyline topology 
+Hand  L: 8616:TRUE P: 22906:FALSE
+Foot  L: 8623:TRUE P: 8626:FALSE
+
+Polyline: 8616 - Setting of new polyline topology 
+Hand  L: 22906:FALSE P: 8620:TRUE
+Foot  L: 8603:TRUE P: 8603:TRUE
+
+Polyline: 8603 - Deleting polyline
+Hand  L: 8616:FALSE P: 8616:FALSE
+Foot  L: 8615:TRUE P: 22904:FALSE
+
+Polyline: 8615 - Setting of old polyline topology 
+Hand  L: 8616:FALSE P: 22904:FALSE
+Foot  L: 22899:TRUE P: 22903:FALSE
+
+Polyline: 22904 - Setting of old polyline topology 
+Hand  L: 22901:FALSE P: 22903:TRUE
+Foot  L: 8616:FALSE P: 8615:TRUE
+
+Polyline: 8616 - Setting of new polyline topology 
+Hand  L: 22906:FALSE P: 8620:TRUE
+Foot  L: 8615:TRUE P: 22904:FALSE
+
+Polyline: 8616 - Setting of first coord., last coord.
+Hand  L: 22906:FALSE P: 8620:TRUE
+Foot  L: 8615:TRUE P: 22904:FALSE
+
+Polyline: 23267 - Setting of old polyline topology 
+Hand  L: 23268:FALSE P: 23269:TRUE
+Foot  L: 23283:TRUE P: 9182:FALSE
+
+Polyline: 23266 - Setting of old polyline topology 
+Hand  L: 23268:TRUE P: 9163:FALSE
+Foot  L: 23268:FALSE P: 23269:TRUE
+
+Polyline: 23269 - Setting of new polyline topology 
+Hand  L: 23267:TRUE P: 23266:FALSE
+Foot  L: 9163:TRUE P: 9163:TRUE
+
+Polyline: 9163 - Deleting polyline
+Hand  L: 23269:FALSE P: 23269:FALSE
+Foot  L: 454:FALSE P: 23266:TRUE
+
+Polyline: 454 - Setting of old polyline topology 
+Hand  L: 17313:FALSE P: 13878:FALSE
+Foot  L: 23268:TRUE P: 23269:FALSE
+
+Polyline: 23266 - Setting of old polyline topology 
+Hand  L: 23268:TRUE P: 23269:FALSE
+Foot  L: 23268:FALSE P: 23269:TRUE
+
+Polyline: 23269 - Setting of new polyline topology 
+Hand  L: 23267:TRUE P: 23266:FALSE
+Foot  L: 454:FALSE P: 23266:TRUE
+
+Polyline: 23269 - Setting of first coord., last coord.
+Hand  L: 23267:TRUE P: 23266:FALSE
+Foot  L: 454:FALSE P: 23266:TRUE
+
+Polyline: 23877 - Setting of old polyline topology 
+Hand  L: 23876:TRUE P: 17416:FALSE
+Foot  L: 9912:TRUE P: 9909:TRUE
+
+Polyline: 9908 - Setting of old polyline topology 
+Hand  L: 23850:FALSE P: 9910:FALSE
+Foot  L: 9909:TRUE P: 9912:TRUE
+
+Polyline: 9912 - Setting of new polyline topology 
+Hand  L: 23877:FALSE P: 9908:FALSE
+Foot  L: 9910:TRUE P: 9910:TRUE
+
+Polyline: 9910 - Deleting polyline
+Hand  L: 9912:FALSE P: 9912:FALSE
+Foot  L: 23850:FALSE P: 9908:TRUE
+
+Polyline: 23850 - Setting of old polyline topology 
+Hand  L: 23849:TRUE P: 23876:FALSE
+Foot  L: 9908:TRUE P: 9912:FALSE
+
+Polyline: 9908 - Setting of old polyline topology 
+Hand  L: 23850:FALSE P: 9912:FALSE
+Foot  L: 9909:TRUE P: 9912:TRUE
+
+Polyline: 9912 - Setting of new polyline topology 
+Hand  L: 23877:FALSE P: 9908:FALSE
+Foot  L: 23850:FALSE P: 9908:TRUE
+
+Polyline: 9912 - Setting of first coord., last coord.
+Hand  L: 23877:FALSE P: 9908:FALSE
+Foot  L: 23850:FALSE P: 9908:TRUE
+
+Polyline: 10017 - Setting of old polyline topology 
+Hand  L: 9958:FALSE P: 10019:TRUE
+Foot  L: 9993:TRUE P: 9995:TRUE
+
+Polyline: 9995 - Setting of old polyline topology 
+Hand  L: 9993:TRUE P: 10017:FALSE
+Foot  L: 23925:TRUE P: 23950:FALSE
+
+Polyline: 9993 - Setting of new polyline topology 
+Hand  L: 10017:FALSE P: 9995:TRUE
+Foot  L: 9952:TRUE P: 9952:TRUE
+
+Polyline: 9952 - Deleting polyline
+Hand  L: 9993:FALSE P: 9993:FALSE
+Foot  L: 9990:TRUE P: 9992:TRUE
+
+Polyline: 9990 - Setting of old polyline topology 
+Hand  L: 9993:FALSE P: 9992:TRUE
+Foot  L: 9974:TRUE P: 9976:TRUE
+
+Polyline: 9992 - Setting of old polyline topology 
+Hand  L: 9990:TRUE P: 9993:FALSE
+Foot  L: 23908:FALSE P: 23921:TRUE
+
+Polyline: 9993 - Setting of new polyline topology 
+Hand  L: 10017:FALSE P: 9995:TRUE
+Foot  L: 9990:TRUE P: 9992:TRUE
+
+Polyline: 9993 - Setting of first coord., last coord.
+Hand  L: 10017:FALSE P: 9995:TRUE
+Foot  L: 9990:TRUE P: 9992:TRUE
+
+Polyline: 10190 - Setting of old polyline topology 
+Hand  L: 24106:FALSE P: 10229:FALSE
+Foot  L: 10197:TRUE P: 10199:TRUE
+
+Polyline: 10199 - Setting of old polyline topology 
+Hand  L: 10197:TRUE P: 10190:FALSE
+Foot  L: 549:TRUE P: 24115:TRUE
+
+Polyline: 10197 - Setting of new polyline topology 
+Hand  L: 10190:FALSE P: 10199:TRUE
+Foot  L: 10186:TRUE P: 10186:TRUE
+
+Polyline: 10186 - Deleting polyline
+Hand  L: 10197:FALSE P: 10197:FALSE
+Foot  L: 24100:FALSE P: 10185:TRUE
+
+Polyline: 24100 - Setting of old polyline topology 
+Hand  L: 24099:TRUE P: 17470:FALSE
+Foot  L: 10185:TRUE P: 10197:FALSE
+
+Polyline: 10185 - Setting of old polyline topology 
+Hand  L: 24100:FALSE P: 10197:FALSE
+Foot  L: 10194:TRUE P: 10196:TRUE
+
+Polyline: 10197 - Setting of new polyline topology 
+Hand  L: 10190:FALSE P: 10199:TRUE
+Foot  L: 24100:FALSE P: 10185:TRUE
+
+Polyline: 10197 - Setting of first coord., last coord.
+Hand  L: 10190:FALSE P: 10199:TRUE
+Foot  L: 24100:FALSE P: 10185:TRUE
+
+Polyline: 24131 - Setting of old polyline topology 
+Hand  L: 10245:TRUE P: 10295:TRUE
+Foot  L: 10291:TRUE P: 10294:FALSE
+
+Polyline: 10294 - Setting of old polyline topology 
+Hand  L: 10298:FALSE P: 10298:FALSE
+Foot  L: 24131:FALSE P: 10291:TRUE
+
+Polyline: 10291 - Setting of new polyline topology 
+Hand  L: 24131:FALSE P: 10294:FALSE
+Foot  L: 10247:TRUE P: 10247:TRUE
+
+Polyline: 10247 - Deleting polyline
+Hand  L: 10291:FALSE P: 10291:FALSE
+Foot  L: 10245:FALSE P: 10246:TRUE
+
+Polyline: 10245 - Setting of old polyline topology 
+Hand  L: 17479:FALSE P: 24131:TRUE
+Foot  L: 10246:TRUE P: 10291:FALSE
+
+Polyline: 10246 - Setting of old polyline topology 
+Hand  L: 10245:FALSE P: 10291:FALSE
+Foot  L: 17474:FALSE P: 24132:TRUE
+
+Polyline: 10291 - Setting of new polyline topology 
+Hand  L: 24131:FALSE P: 10294:FALSE
+Foot  L: 10245:FALSE P: 10246:TRUE
+
+Polyline: 10291 - Setting of first coord., last coord.
+Hand  L: 24131:FALSE P: 10294:FALSE
+Foot  L: 10245:FALSE P: 10246:TRUE
+
+Polyline: 26276 - Setting of old polyline topology 
+Hand  L: 24153:FALSE P: 16688:TRUE
+Foot  L: 10244:FALSE P: 10289:FALSE
+
+Polyline: 24153 - Setting of old polyline topology 
+Hand  L: 17477:FALSE P: 10292:FALSE
+Foot  L: 26276:TRUE P: 16688:TRUE
+
+Polyline: 16688 - Setting of new polyline topology 
+Hand  L: 26276:TRUE P: 24153:FALSE
+Foot  L: 10289:TRUE P: 10289:TRUE
+
+Polyline: 10289 - Deleting polyline
+Hand  L: 16688:FALSE P: 16688:FALSE
+Foot  L: 26276:FALSE P: 24130:TRUE
+
+Polyline: 26276 - Setting of old polyline topology 
+Hand  L: 24153:FALSE P: 16688:TRUE
+Foot  L: 10244:FALSE P: 16688:FALSE
+
+Polyline: 24130 - Setting of old polyline topology 
+Hand  L: 10244:FALSE P: 16688:FALSE
+Foot  L: 17476:TRUE P: 561:FALSE
+
+Polyline: 16688 - Setting of new polyline topology 
+Hand  L: 26276:TRUE P: 24153:FALSE
+Foot  L: 26276:FALSE P: 24130:TRUE
+
+Polyline: 16688 - Setting of first coord., last coord.
+Hand  L: 26276:TRUE P: 24153:FALSE
+Foot  L: 26276:FALSE P: 24130:TRUE
+
+Polyline: 10296 - Setting of old polyline topology 
+Hand  L: 10293:TRUE P: 10297:FALSE
+Foot  L: 10298:TRUE P: 10303:FALSE
+
+Polyline: 10303 - Setting of old polyline topology 
+Hand  L: 10302:FALSE P: 10307:FALSE
+Foot  L: 10296:FALSE P: 10298:TRUE
+
+Polyline: 10298 - Setting of new polyline topology 
+Hand  L: 10296:FALSE P: 10303:FALSE
+Foot  L: 10294:TRUE P: 10294:TRUE
+
+Polyline: 10294 - Deleting polyline
+Hand  L: 10298:FALSE P: 10298:FALSE
+Foot  L: 24131:FALSE P: 10291:TRUE
+
+Polyline: 24131 - Setting of old polyline topology 
+Hand  L: 10245:TRUE P: 10295:TRUE
+Foot  L: 10291:TRUE P: 10298:FALSE
+
+Polyline: 10291 - Setting of old polyline topology 
+Hand  L: 24131:FALSE P: 10298:FALSE
+Foot  L: 10245:FALSE P: 10246:TRUE
+
+Polyline: 10298 - Setting of new polyline topology 
+Hand  L: 10296:FALSE P: 10303:FALSE
+Foot  L: 24131:FALSE P: 10291:TRUE
+
+Polyline: 10298 - Setting of first coord., last coord.
+Hand  L: 10296:FALSE P: 10303:FALSE
+Foot  L: 24131:FALSE P: 10291:TRUE
+
+Polyline: 24169 - Setting of old polyline topology 
+Hand  L: 24170:FALSE P: 24171:TRUE
+Foot  L: 24182:TRUE P: 10386:FALSE
+
+Polyline: 24168 - Setting of old polyline topology 
+Hand  L: 24170:TRUE P: 10366:FALSE
+Foot  L: 24170:FALSE P: 24171:TRUE
+
+Polyline: 24171 - Setting of new polyline topology 
+Hand  L: 24169:TRUE P: 24168:FALSE
+Foot  L: 10366:TRUE P: 10366:TRUE
+
+Polyline: 10366 - Deleting polyline
+Hand  L: 24171:FALSE P: 24171:FALSE
+Foot  L: 17496:FALSE P: 24168:TRUE
+
+Polyline: 17496 - Setting of old polyline topology 
+Hand  L: 17498:FALSE P: 567:TRUE
+Foot  L: 24170:TRUE P: 24171:FALSE
+
+Polyline: 24168 - Setting of old polyline topology 
+Hand  L: 24170:TRUE P: 24171:FALSE
+Foot  L: 24170:FALSE P: 24171:TRUE
+
+Polyline: 24171 - Setting of new polyline topology 
+Hand  L: 24169:TRUE P: 24168:FALSE
+Foot  L: 17496:FALSE P: 24168:TRUE
+
+Polyline: 24171 - Setting of first coord., last coord.
+Hand  L: 24169:TRUE P: 24168:FALSE
+Foot  L: 17496:FALSE P: 24168:TRUE
+
+Polyline: 10844 - Setting of old polyline topology 
+Hand  L: 11026:FALSE P: 10847:TRUE
+Foot  L: 10845:TRUE P: 10871:FALSE
+
+Polyline: 11026 - Setting of old polyline topology 
+Hand  L: 24579:FALSE P: 11027:TRUE
+Foot  L: 10844:TRUE P: 10847:TRUE
+
+Polyline: 10847 - Setting of new polyline topology 
+Hand  L: 10844:TRUE P: 11026:FALSE
+Foot  L: 10835:TRUE P: 10835:TRUE
+
+Polyline: 10835 - Deleting polyline
+Hand  L: 10847:FALSE P: 10847:FALSE
+Foot  L: 10836:TRUE P: 10836:TRUE
+
+Polyline: 10836 - Deleting polyline
+Hand  L: 10835:FALSE P: 10835:FALSE
+Foot  L: 10837:TRUE P: 10837:TRUE
+
+Polyline: 10837 - Deleting polyline
+Hand  L: 10836:FALSE P: 10836:FALSE
+Foot  L: 10838:TRUE P: 10838:TRUE
+
+Polyline: 10838 - Deleting polyline
+Hand  L: 10837:FALSE P: 10837:FALSE
+Foot  L: 10848:TRUE P: 10848:TRUE
+
+Polyline: 10848 - Deleting polyline
+Hand  L: 10838:FALSE P: 10838:FALSE
+Foot  L: 10840:FALSE P: 10840:FALSE
+
+Polyline: 10840 - Deleting polyline
+Hand  L: 10839:FALSE P: 10839:FALSE
+Foot  L: 10848:FALSE P: 10848:FALSE
+
+Polyline: 10839 - Deleting polyline
+Hand  L: 10849:TRUE P: 10849:TRUE
+Foot  L: 10840:TRUE P: 10840:TRUE
+
+Polyline: 10849 - Deleting polyline
+Hand  L: 10839:TRUE P: 10839:TRUE
+Foot  L: 11025:TRUE P: 11028:FALSE
+
+Polyline: 11025 - Setting of old polyline topology 
+Hand  L: 10847:FALSE P: 11028:FALSE
+Foot  L: 10846:FALSE P: 11029:FALSE
+
+Polyline: 11028 - Setting of old polyline topology 
+Hand  L: 11031:FALSE P: 11029:TRUE
+Foot  L: 10847:FALSE P: 11025:TRUE
+
+Polyline: 10847 - Setting of new polyline topology 
+Hand  L: 10844:TRUE P: 11026:FALSE
+Foot  L: 11025:TRUE P: 11028:FALSE
+
+Polyline: 10847 - Setting of first coord., last coord.
+Hand  L: 10844:TRUE P: 11026:FALSE
+Foot  L: 11025:TRUE P: 11028:FALSE
+
+Polyline: 11106 - Setting of old polyline topology 
+Hand  L: 11168:FALSE P: 11108:TRUE
+Foot  L: 11104:TRUE P: 11102:TRUE
+
+Polyline: 24639 - Setting of old polyline topology 
+Hand  L: 24637:TRUE P: 24636:FALSE
+Foot  L: 11102:TRUE P: 11104:TRUE
+
+Polyline: 11104 - Setting of new polyline topology 
+Hand  L: 11106:FALSE P: 24639:FALSE
+Foot  L: 11103:TRUE P: 11103:TRUE
+
+Polyline: 11103 - Deleting polyline
+Hand  L: 11104:FALSE P: 11104:FALSE
+Foot  L: 11187:TRUE P: 11188:TRUE
+
+Polyline: 11187 - Setting of old polyline topology 
+Hand  L: 11104:FALSE P: 11188:TRUE
+Foot  L: 11185:TRUE P: 11186:TRUE
+
+Polyline: 11188 - Setting of old polyline topology 
+Hand  L: 11187:TRUE P: 11104:FALSE
+Foot  L: 11101:FALSE P: 11100:TRUE
+
+Polyline: 11104 - Setting of new polyline topology 
+Hand  L: 11106:FALSE P: 24639:FALSE
+Foot  L: 11187:TRUE P: 11188:TRUE
+
+Polyline: 11104 - Setting of first coord., last coord.
+Hand  L: 11106:FALSE P: 24639:FALSE
+Foot  L: 11187:TRUE P: 11188:TRUE
+
+Polyline: 11108 - Setting of old polyline topology 
+Hand  L: 11106:TRUE P: 11168:FALSE
+Foot  L: 11117:TRUE P: 11119:TRUE
+
+Polyline: 11119 - Setting of old polyline topology 
+Hand  L: 11117:TRUE P: 11108:FALSE
+Foot  L: 11173:TRUE P: 11175:FALSE
+
+Polyline: 11117 - Setting of new polyline topology 
+Hand  L: 11108:FALSE P: 11119:TRUE
+Foot  L: 11107:TRUE P: 11107:TRUE
+
+Polyline: 11107 - Deleting polyline
+Hand  L: 11117:FALSE P: 11117:FALSE
+Foot  L: 24644:FALSE P: 24642:TRUE
+
+Polyline: 24644 - Setting of old polyline topology 
+Hand  L: 11118:FALSE P: 24643:FALSE
+Foot  L: 24642:TRUE P: 11117:FALSE
+
+Polyline: 24642 - Setting of old polyline topology 
+Hand  L: 24644:FALSE P: 11117:FALSE
+Foot  L: 24651:TRUE P: 11137:FALSE
+
+Polyline: 11117 - Setting of new polyline topology 
+Hand  L: 11108:FALSE P: 11119:TRUE
+Foot  L: 24644:FALSE P: 24642:TRUE
+
+Polyline: 11117 - Setting of first coord., last coord.
+Hand  L: 11108:FALSE P: 11119:TRUE
+Foot  L: 24644:FALSE P: 24642:TRUE
+
+Polyline: 11216 - Setting of old polyline topology 
+Hand  L: 11213:FALSE P: 11224:TRUE
+Foot  L: 11223:TRUE P: 11271:FALSE
+
+Polyline: 11271 - Setting of old polyline topology 
+Hand  L: 24714:FALSE P: 11293:FALSE
+Foot  L: 11216:FALSE P: 11223:TRUE
+
+Polyline: 11223 - Setting of new polyline topology 
+Hand  L: 11216:FALSE P: 11271:FALSE
+Foot  L: 11212:TRUE P: 11212:TRUE
+
+Polyline: 11212 - Deleting polyline
+Hand  L: 11223:FALSE P: 11223:FALSE
+Foot  L: 11292:TRUE P: 11294:FALSE
+
+Polyline: 11292 - Setting of old polyline topology 
+Hand  L: 11223:FALSE P: 11294:FALSE
+Foot  L: 11210:FALSE P: 11211:TRUE
+
+Polyline: 11294 - Setting of old polyline topology 
+Hand  L: 11293:TRUE P: 11295:FALSE
+Foot  L: 11223:FALSE P: 11292:TRUE
+
+Polyline: 11223 - Setting of new polyline topology 
+Hand  L: 11216:FALSE P: 11271:FALSE
+Foot  L: 11292:TRUE P: 11294:FALSE
+
+Polyline: 11223 - Setting of first coord., last coord.
+Hand  L: 11216:FALSE P: 11271:FALSE
+Foot  L: 11292:TRUE P: 11294:FALSE
+
+Polyline: 11213 - Setting of old polyline topology 
+Hand  L: 11210:TRUE P: 11219:TRUE
+Foot  L: 11216:TRUE P: 11221:FALSE
+
+Polyline: 11209 - Setting of old polyline topology 
+Hand  L: 11205:TRUE P: 11215:FALSE
+Foot  L: 11210:TRUE P: 11219:TRUE
+
+Polyline: 11219 - Setting of new polyline topology 
+Hand  L: 11213:TRUE P: 11209:FALSE
+Foot  L: 11217:TRUE P: 11217:TRUE
+
+Polyline: 11217 - Deleting polyline
+Hand  L: 11219:FALSE P: 11219:FALSE
+Foot  L: 24709:FALSE P: 11215:TRUE
+
+Polyline: 24709 - Setting of old polyline topology 
+Hand  L: 24707:FALSE P: 24708:TRUE
+Foot  L: 11215:TRUE P: 11219:FALSE
+
+Polyline: 11215 - Setting of old polyline topology 
+Hand  L: 24709:FALSE P: 11219:FALSE
+Foot  L: 11208:FALSE P: 11209:TRUE
+
+Polyline: 11219 - Setting of new polyline topology 
+Hand  L: 11213:TRUE P: 11209:FALSE
+Foot  L: 24709:FALSE P: 11215:TRUE
+
+Polyline: 11219 - Setting of first coord., last coord.
+Hand  L: 11213:TRUE P: 11209:FALSE
+Foot  L: 24709:FALSE P: 11215:TRUE
+
+Polyline: 11366 - Setting of old polyline topology 
+Hand  L: 11309:TRUE P: 11367:FALSE
+Foot  L: 11349:TRUE P: 11352:TRUE
+
+Polyline: 11367 - Setting of old polyline topology 
+Hand  L: 11312:TRUE P: 24735:FALSE
+Foot  L: 11309:TRUE P: 11366:TRUE
+
+Polyline: 11309 - Setting of new polyline topology 
+Hand  L: 11367:FALSE P: 11366:TRUE
+Foot  L: 11366:TRUE P: 11367:FALSE
+
+Polyline: 11290 - Deleting polyline
+Hand  L: 11309:TRUE P: 11309:TRUE
+Foot  L: 11291:TRUE P: 11289:TRUE
+
+Polyline: 11291 - Setting of old polyline topology 
+Hand  L: 11309:FALSE P: 11285:FALSE
+Foot  L: 11291:FALSE P: 11291:FALSE
+
+Polyline: 11289 - Setting of old polyline topology 
+Hand  L: 11285:FALSE P: 11309:FALSE
+Foot  L: 11281:TRUE P: 11283:TRUE
+
+Polyline: 11309 - Setting of new polyline topology 
+Hand  L: 11367:FALSE P: 11366:TRUE
+Foot  L: 11291:TRUE P: 11289:TRUE
+
+Polyline: 11309 - Setting of first coord., last coord.
+Hand  L: 11367:FALSE P: 11366:TRUE
+Foot  L: 11291:TRUE P: 11289:TRUE
+
+Polyline: 12691 - Setting of old polyline topology 
+Hand  L: 12690:FALSE P: 12692:FALSE
+Foot  L: 12694:TRUE P: 12697:TRUE
+
+Polyline: 25316 - Setting of old polyline topology 
+Hand  L: 17565:TRUE P: 657:FALSE
+Foot  L: 12697:TRUE P: 12694:TRUE
+
+Polyline: 12697 - Setting of new polyline topology 
+Hand  L: 25316:FALSE P: 12691:FALSE
+Foot  L: 12691:FALSE P: 25316:FALSE
+
+Polyline: 12695 - Deleting polyline
+Hand  L: 12697:TRUE P: 12697:TRUE
+Foot  L: 12696:TRUE P: 25318:FALSE
+
+Polyline: 12696 - Setting of old polyline topology 
+Hand  L: 12697:FALSE P: 25318:FALSE
+Foot  L: 12700:TRUE P: 12726:FALSE
+
+Polyline: 25318 - Setting of old polyline topology 
+Hand  L: 25314:FALSE P: 25317:TRUE
+Foot  L: 12697:FALSE P: 12696:TRUE
+
+Polyline: 12697 - Setting of new polyline topology 
+Hand  L: 25316:FALSE P: 12691:FALSE
+Foot  L: 12696:TRUE P: 25318:FALSE
+
+Polyline: 12697 - Setting of first coord., last coord.
+Hand  L: 25316:FALSE P: 12691:FALSE
+Foot  L: 12696:TRUE P: 25318:FALSE
+
+Polyline: 675 - Setting of old polyline topology 
+Hand  L: 25449:FALSE P: 25450:TRUE
+Foot  L: 25451:TRUE P: 25450:FALSE
+
+Polyline: 25450 - Setting of old polyline topology 
+Hand  L: 675:TRUE P: 25449:FALSE
+Foot  L: 675:FALSE P: 25451:TRUE
+
+Polyline: 25451 - Setting of new polyline topology 
+Hand  L: 675:FALSE P: 25450:FALSE
+Foot  L: 12993:TRUE P: 12993:TRUE
+
+Polyline: 12993 - Deleting polyline
+Hand  L: 25451:FALSE P: 25451:FALSE
+Foot  L: 669:TRUE P: 25446:TRUE
+
+Polyline: 669 - Setting of old polyline topology 
+Hand  L: 25451:FALSE P: 25446:TRUE
+Foot  L: 17600:TRUE P: 25438:FALSE
+
+Polyline: 25446 - Setting of old polyline topology 
+Hand  L: 669:TRUE P: 25451:FALSE
+Foot  L: 17598:FALSE P: 25447:TRUE
+
+Polyline: 25451 - Setting of new polyline topology 
+Hand  L: 675:FALSE P: 25450:FALSE
+Foot  L: 669:TRUE P: 25446:TRUE
+
+Polyline: 25451 - Setting of first coord., last coord.
+Hand  L: 675:FALSE P: 25450:FALSE
+Foot  L: 669:TRUE P: 25446:TRUE
+
+Polyline: 673 - Setting of old polyline topology 
+Hand  L: 25453:FALSE P: 25454:TRUE
+Foot  L: 678:TRUE P: 17598:TRUE
+
+Polyline: 25453 - Setting of old polyline topology 
+Hand  L: 672:FALSE P: 12995:FALSE
+Foot  L: 673:TRUE P: 25454:TRUE
+
+Polyline: 25454 - Setting of new polyline topology 
+Hand  L: 673:TRUE P: 25453:FALSE
+Foot  L: 12995:TRUE P: 12995:TRUE
+
+Polyline: 12995 - Deleting polyline
+Hand  L: 25454:FALSE P: 25454:FALSE
+Foot  L: 672:FALSE P: 25453:TRUE
+
+Polyline: 672 - Setting of old polyline topology 
+Hand  L: 12994:FALSE P: 25452:TRUE
+Foot  L: 25453:TRUE P: 25454:FALSE
+
+Polyline: 25453 - Setting of old polyline topology 
+Hand  L: 672:FALSE P: 25454:FALSE
+Foot  L: 673:TRUE P: 25454:TRUE
+
+Polyline: 25454 - Setting of new polyline topology 
+Hand  L: 673:TRUE P: 25453:FALSE
+Foot  L: 672:FALSE P: 25453:TRUE
+
+Polyline: 25454 - Setting of first coord., last coord.
+Hand  L: 673:TRUE P: 25453:FALSE
+Foot  L: 672:FALSE P: 25453:TRUE
+
+Polyline: 13440 - Setting of old polyline topology 
+Hand  L: 13445:FALSE P: 13443:TRUE
+Foot  L: 13441:TRUE P: 13442:FALSE
+
+Polyline: 13445 - Setting of old polyline topology 
+Hand  L: 13441:FALSE P: 13447:FALSE
+Foot  L: 13440:TRUE P: 13443:TRUE
+
+Polyline: 13443 - Setting of new polyline topology 
+Hand  L: 13440:TRUE P: 13445:FALSE
+Foot  L: 13442:TRUE P: 13442:TRUE
+
+Polyline: 13442 - Deleting polyline
+Hand  L: 13443:FALSE P: 13443:FALSE
+Foot  L: 13440:FALSE P: 13448:TRUE
+
+Polyline: 13440 - Setting of old polyline topology 
+Hand  L: 13445:FALSE P: 13443:TRUE
+Foot  L: 13441:TRUE P: 13443:FALSE
+
+Polyline: 13448 - Setting of old polyline topology 
+Hand  L: 13441:TRUE P: 13443:FALSE
+Foot  L: 13444:FALSE P: 13446:TRUE
+
+Polyline: 13443 - Setting of new polyline topology 
+Hand  L: 13440:TRUE P: 13445:FALSE
+Foot  L: 13440:FALSE P: 13448:TRUE
+
+Polyline: 13443 - Setting of first coord., last coord.
+Hand  L: 13440:TRUE P: 13445:FALSE
+Foot  L: 13440:FALSE P: 13448:TRUE
+
+Polyline: 14136 - Setting of old polyline topology 
+Hand  L: 14131:TRUE P: 14195:FALSE
+Foot  L: 14196:TRUE P: 14197:FALSE
+
+Polyline: 14197 - Setting of old polyline topology 
+Hand  L: 14199:FALSE P: 14226:FALSE
+Foot  L: 14136:FALSE P: 14196:TRUE
+
+Polyline: 14196 - Setting of new polyline topology 
+Hand  L: 14136:FALSE P: 14197:FALSE
+Foot  L: 14134:TRUE P: 14134:TRUE
+
+Polyline: 14134 - Deleting polyline
+Hand  L: 14196:FALSE P: 14196:FALSE
+Foot  L: 8357:FALSE P: 14130:TRUE
+
+Polyline: 8357 - Setting of old polyline topology 
+Hand  L: 22730:FALSE P: 14133:FALSE
+Foot  L: 22728:FALSE P: 14196:FALSE
+
+Polyline: 14130 - Setting of old polyline topology 
+Hand  L: 22728:FALSE P: 14196:FALSE
+Foot  L: 402:TRUE P: 25800:TRUE
+
+Polyline: 14196 - Setting of new polyline topology 
+Hand  L: 14136:FALSE P: 14197:FALSE
+Foot  L: 8357:FALSE P: 14130:TRUE
+
+Polyline: 14196 - Setting of first coord., last coord.
+Hand  L: 14136:FALSE P: 14197:FALSE
+Foot  L: 8357:FALSE P: 14130:TRUE
+
+Polyline: 17677 - Setting of old polyline topology 
+Hand  L: 25951:TRUE P: 752:TRUE
+Foot  L: 25970:TRUE P: 25969:FALSE
+
+Polyline: 25965 - Setting of old polyline topology 
+Hand  L: 25970:TRUE P: 25969:FALSE
+Foot  L: 14514:FALSE P: 25967:TRUE
+
+Polyline: 25970 - Setting of new polyline topology 
+Hand  L: 17677:FALSE P: 25965:TRUE
+Foot  L: 14514:TRUE P: 14514:TRUE
+
+Polyline: 14514 - Deleting polyline
+Hand  L: 25970:FALSE P: 25970:FALSE
+Foot  L: 25966:TRUE P: 25965:FALSE
+
+Polyline: 25966 - Setting of old polyline topology 
+Hand  L: 25970:FALSE P: 25967:TRUE
+Foot  L: 14524:TRUE P: 14523:FALSE
+
+Polyline: 25965 - Setting of old polyline topology 
+Hand  L: 25970:TRUE P: 25969:FALSE
+Foot  L: 25970:FALSE P: 25967:TRUE
+
+Polyline: 25970 - Setting of new polyline topology 
+Hand  L: 17677:FALSE P: 25965:TRUE
+Foot  L: 25966:TRUE P: 25965:FALSE
+
+Polyline: 25970 - Setting of first coord., last coord.
+Hand  L: 17677:FALSE P: 25965:TRUE
+Foot  L: 25966:TRUE P: 25965:FALSE
+
+Polyline: 11964 - Setting of old polyline topology 
+Hand  L: 11962:FALSE P: 15099:TRUE
+Foot  L: 15097:TRUE P: 15098:FALSE
+
+Polyline: 15063 - Setting of old polyline topology 
+Hand  L: 11965:FALSE P: 15074:FALSE
+Foot  L: 11962:FALSE P: 15099:TRUE
+
+Polyline: 15099 - Setting of new polyline topology 
+Hand  L: 11964:TRUE P: 15063:FALSE
+Foot  L: 15098:TRUE P: 15098:TRUE
+
+Polyline: 15098 - Deleting polyline
+Hand  L: 15099:FALSE P: 15099:FALSE
+Foot  L: 11964:FALSE P: 15097:TRUE
+
+Polyline: 11964 - Setting of old polyline topology 
+Hand  L: 11962:FALSE P: 15099:TRUE
+Foot  L: 15097:TRUE P: 15099:FALSE
+
+Polyline: 15097 - Setting of old polyline topology 
+Hand  L: 11964:FALSE P: 15099:FALSE
+Foot  L: 11960:FALSE P: 11961:TRUE
+
+Polyline: 15099 - Setting of new polyline topology 
+Hand  L: 11964:TRUE P: 15063:FALSE
+Foot  L: 11964:FALSE P: 15097:TRUE
+
+Polyline: 15099 - Setting of first coord., last coord.
+Hand  L: 11964:TRUE P: 15063:FALSE
+Foot  L: 11964:FALSE P: 15097:TRUE
+
+Polyline: 23724 - Setting of old polyline topology 
+Hand  L: 9723:FALSE P: 9732:TRUE
+Foot  L: 17666:TRUE P: 23741:FALSE
+
+Polyline: 17669 - Setting of old polyline topology 
+Hand  L: 17666:TRUE P: 23741:FALSE
+Foot  L: 9711:FALSE P: 23708:TRUE
+
+Polyline: 17666 - Setting of new polyline topology 
+Hand  L: 23724:FALSE P: 17669:TRUE
+Foot  L: 23706:FALSE P: 23706:FALSE
+
+Polyline: 23706 - Deleting polyline
+Hand  L: 9712:TRUE P: 9720:FALSE
+Foot  L: 17666:FALSE P: 17666:FALSE
+
+Polyline: 9712 - Setting of old polyline topology 
+Hand  L: 9710:TRUE P: 17666:FALSE
+Foot  L: 9710:FALSE P: 9711:TRUE
+
+Polyline: 9720 - Setting of old polyline topology 
+Hand  L: 9719:FALSE P: 9722:TRUE
+Foot  L: 17366:FALSE P: 17666:FALSE
+
+Polyline: 17666 - Setting of new polyline topology 
+Hand  L: 23724:FALSE P: 17669:TRUE
+Foot  L: 9720:FALSE P: 9712:TRUE
+
+Polyline: 17666 - Setting of first coord., last coord.
+Hand  L: 23724:FALSE P: 17669:TRUE
+Foot  L: 9720:FALSE P: 9712:TRUE
+

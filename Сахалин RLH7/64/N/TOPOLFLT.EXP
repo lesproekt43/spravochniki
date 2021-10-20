@@ -1,0 +1,18 @@
+{$EXPR Половина точек }
+%NUMBER <= 984
+
+{$EXPR Исправили символ плана }
+@SYM_PL:N < 1000
+
+{$EXPR >Выражение 1< }
+STRDELETE(@KL:C,1,1) <> STRDELETE(@NNN_A,1,1)
+{$EXPR Неграница полигонов }
+(%LAREA =-1) and (%RAREA =-1)
+{$EXPR Короткие линии }
+%LENGTH <= 8.0
+
+{$EXPR линии без топологии }
+%TOPOLOGICAL = FALSE 
+{$EXPR Длина < 1м }
+%AREA <= 0.1
+

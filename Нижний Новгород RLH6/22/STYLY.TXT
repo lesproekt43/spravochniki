@@ -1,0 +1,140 @@
+
+[Styl]
+   Druh = 1
+   Nazev = Формула
+   Rezim = D
+   Font = 6
+   Vyska =    32.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  9.99999999999446E-0004
+[End]
+
+[Styl]
+   Druh = 8
+   Nazev = Формула мал.
+   Rezim = M
+   Font = 5
+   Vyska =     1.92
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 2
+   Nazev = Точки геохода
+   Rezim = M
+   Font = 5
+   Vyska =     2.40
+   Sirka =     1.00
+   Sklon =     1.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 4
+   Nazev = Площадь квартала
+   Rezim = D
+   Font = 9
+   Vyska =    64.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = 13
+   DruhCary = 0
+   SilaPera =  3.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 3
+   Nazev = Номер квартала
+   Rezim = D
+   Font = 9
+   Vyska =    80.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  3.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 5
+   Nazev = Смежества
+   Rezim = M
+   Font = 6
+   Vyska =     4.00
+   Sirka =     1.50
+   Sklon =    10.00
+   Rozestupy =     0.80
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 9
+   Nazev = Ручьи
+   Rezim = D
+   Font = 9
+   Vyska =    29.00
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = 8
+   DruhCary = 0
+   SilaPera =  1.00000000000023E-0001
+[End]
+
+[Styl]
+   Druh = 10
+   Nazev = Реки мал.
+   Rezim = D
+   Font = 9
+   Vyska =    32.00
+   Sirka =     1.00
+   Sklon =    10.00
+   Rozestupy =     0.00
+   Barva = 8
+   DruhCary = 0
+   SilaPera =  1.80000000000064E-0001
+[End]
+
+[Styl]
+   Druh = 11
+   Nazev = Реки
+   Rezim = M
+   Font = 9
+   Vyska =     4.60
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = -667
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 12
+   Nazev = Нас. пункт
+   Rezim = D
+   Font = 6
+   Vyska =    50.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  9.99999999999446E-0004
+[End]

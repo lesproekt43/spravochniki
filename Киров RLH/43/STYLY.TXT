@@ -1,0 +1,224 @@
+
+[Styl]
+   Druh = 1
+   Nazev = Формула
+   Rezim = D
+   Font = 6
+   Vyska =    35.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  0.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 3
+   Nazev = Номер квартала
+   Rezim = D
+   Font = 6
+   Vyska =   100.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000023E-0001
+[End]
+
+[Styl]
+   Druh = 4
+   Nazev = Площадь квартала
+   Rezim = D
+   Font = 6
+   Vyska =    65.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = 13
+   DruhCary = 0
+   SilaPera =  1.00000000000023E-0001
+[End]
+
+[Styl]
+   Druh = 5
+   Nazev = Смежества
+   Rezim = D
+   Font = 9
+   Vyska =    40.00
+   Sirka =     1.50
+   Sklon =    10.00
+   Rozestupy =     0.80
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  3.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 7
+   Nazev = Населенные пункты
+   Rezim = D
+   Font = 7
+   Vyska =    50.00
+   Sirka =     1.00
+   Sklon =    10.00
+   Rozestupy =     0.00
+   Barva = -12684
+   DruhCary = 0
+   SilaPera =  3.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 9
+   Nazev = Ручьи
+   Rezim = D
+   Font = 9
+   Vyska =    30.00
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = 8
+   DruhCary = 0
+   SilaPera =  1.80000000000064E-0001
+[End]
+
+[Styl]
+   Druh = 10
+   Nazev = Мал реки
+   Rezim = D
+   Font = 6
+   Vyska =    32.00
+   Sirka =     1.00
+   Sklon =    10.00
+   Rozestupy =     0.00
+   Barva = 8
+   DruhCary = 0
+   SilaPera =  1.00000000000023E-0001
+[End]
+
+[Styl]
+   Druh = 11
+   Nazev = Реки
+   Rezim = D
+   Font = 9
+   Vyska =    46.00
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = 8
+   DruhCary = 0
+   SilaPera =  1.00000000000023E-0001
+[End]
+
+[Styl]
+   Druh = 14
+   Nazev = НомКв25
+   Rezim = D
+   Font = 7
+   Vyska =   250.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = 13
+   DruhCary = 0
+   SilaPera =  1.00000000000023E-0001
+[End]
+
+[Styl]
+   Druh = 15
+   Nazev = ПлощКв25
+   Rezim = D
+   Font = 7
+   Vyska =   160.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = 13
+   DruhCary = 0
+   SilaPera =  9.99999999999446E-0004
+[End]
+
+[Styl]
+   Druh = 16
+   Nazev = Формула25
+   Rezim = D
+   Font = 6
+   Vyska =    49.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = 13
+   DruhCary = 0
+   SilaPera =  0.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 17
+   Nazev = Река25
+   Rezim = D
+   Font = 7
+   Vyska =    80.00
+   Sirka =     1.00
+   Sklon =    10.00
+   Rozestupy =     0.00
+   Barva = 8
+   DruhCary = 0
+   SilaPera =  1.00000000000023E-0001
+[End]
+
+[Styl]
+   Druh = 18
+   Nazev = Смежества25
+   Rezim = D
+   Font = 9
+   Vyska =   150.00
+   Sirka =     1.00
+   Sklon =    10.00
+   Rozestupy =     0.00
+   Barva = 13
+   DruhCary = 0
+   SilaPera =  1.80000000000064E-0001
+[End]
+
+[Styl]
+   Druh = 2
+   Nazev = ФормПлан
+   Rezim = D
+   Font = 6
+   Vyska =    40.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  0.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 6
+   Nazev = руч25
+   Rezim = D
+   Font = 9
+   Vyska =    50.00
+   Sirka =     1.00
+   Sklon =    10.00
+   Rozestupy =     0.00
+   Barva = 8
+   DruhCary = 0
+   SilaPera =  0.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 8
+   Nazev = Формула50
+   Rezim = D
+   Font = 6
+   Vyska =   100.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = 13
+   DruhCary = 0
+   SilaPera =  3.00000000000000E+0000
+[End]

@@ -1,0 +1,25 @@
+
+ 1 Cz_CLP.zvf  M 0.8 0.1
+ 2 Cz_CLP.zvf  M 1.0 0.2
+ 3 Cz_CLP.zvf  M 1.4 0.2
+ 4 Cz_CLP.zvf  M 1.9 0.2
+ 5 Cz_CLP.zvf  M 2.5 0.2
+ 6 Cz_CLP.zvf  M 3.3 0.2
+ 7 Cz_CLP.zvf  M 4.4 0.2
+ 8 Cz_CLP.zvf  M 5.9 0.2
+ 9 Cz_CLP.zvf  M 7.8 0.3
+10 Cz_CLP.zvf  M 10.4 0.3
+11 Cz_CLP.zvf  M 13.8 0.3
+12 Cz_CLP.zvf  M 1.2 0.3
+13 Cz_CLP.zvf  M 1.6 0.3
+14 Cz_CLP.zvf  M 2.1 0.3
+15 Cz_CLP.zvf  M 2.8 0.3
+16 Cz_CLP.zvf  M 3.8 0.4
+17 Cz_CLP.zvf  M 5.0 0.4
+18 Cz_CLP.zvf  M 6.6 0.5
+19 Cz_CLP.zvf  M 8.8 0.6
+20 Cz_CLP.zvf  M 11.8 0.8
+21 Cz_CLP.zvf  M 15.7 1.0
+22 Cz_CLP.zvf  M 21.0 1.5
+23 Cz_CLP.zvf  M 28.0 2.0
+24 Cz_CLP.zvf  M 37.5 3.0

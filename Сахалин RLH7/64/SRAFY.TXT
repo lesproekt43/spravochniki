@@ -1,0 +1,1670 @@
+[PLOSNAZNACKA]
+   KOD = 1000
+   NAZEV = œ”—“Œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 15
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 1100
+   NAZEV = À≈—
+   NAHRADNIZNACKA = 0
+   PODKLAD = -17392
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = -20467
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 2102
+   NAZEV = —≈ÕŒ Œ—
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.0
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  0.1
+         DELKAVZORU =  0.8
+         D2 =  0.1
+      [END]
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST =  0.1
+         D1 =  1.0
+         DELKAVZORU =  0.5
+         D2 =  3.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST =  0.4
+         D1 =  1.0
+         DELKAVZORU =  0.5
+         D2 =  3.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST =  1.2
+         D1 =  3.2
+         DELKAVZORU =  0.5
+         D2 =  0.8
+      [END]
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST =  0.4
+         D1 =  3.2
+         DELKAVZORU =  0.5
+         D2 =  0.8
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 1509
+   NAZEV = ¬€–”¡ ¿
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  4.5
+         D1 =  2.0
+         DELKAVZORU =  2.0
+         D2 =  6.0
+      [END]
+      [SRAFA]
+         SIRKA =  1.3
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  3.8
+         DELKAVZORU =  0.2
+         D2 =  6.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  4.5
+         D1 =  7.0
+         DELKAVZORU =  2.0
+         D2 =  1.0
+      [END]
+      [SRAFA]
+         SIRKA =  1.3
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  8.8
+         DELKAVZORU =  0.2
+         D2 =  1.0
+      [END]
+   [END]
+[END]
+
+[PLOSNAZNACKA]
+   KOD = 1503
+   NAZEV = √¿–»
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  3.7
+         D1 =  2.2
+         DELKAVZORU =  0.2
+         D2 =  7.6
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  2.4
+         DELKAVZORU =  0.2
+         D2 =  7.4
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  2.6
+         DELKAVZORU =  0.2
+         D2 =  7.2
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  2.8
+         DELKAVZORU =  0.2
+         D2 =  7.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  2.0
+         DELKAVZORU =  2.0
+         D2 =  6.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  3.2
+         DELKAVZORU =  0.2
+         D2 =  6.6
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  3.0
+         DELKAVZORU =  0.2
+         D2 =  6.8
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  2.8
+         DELKAVZORU =  0.2
+         D2 =  7.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.7
+         BARVA = 13
+         VZDALENOST = -0.0
+         D1 =  3.8
+         DELKAVZORU =  0.2
+         D2 =  6.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  3.7
+         D1 =  7.2
+         DELKAVZORU =  0.2
+         D2 =  2.6
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  7.4
+         DELKAVZORU =  0.2
+         D2 =  2.4
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  7.6
+         DELKAVZORU =  0.2
+         D2 =  2.2
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  7.8
+         DELKAVZORU =  0.2
+         D2 =  2.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  7.0
+         DELKAVZORU =  2.0
+         D2 =  1.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  8.2
+         DELKAVZORU =  0.2
+         D2 =  1.6
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  8.0
+         DELKAVZORU =  0.2
+         D2 =  1.8
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  7.8
+         DELKAVZORU =  0.2
+         D2 =  2.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.7
+         BARVA = 13
+         VZDALENOST =  0.0
+         D1 =  8.8
+         DELKAVZORU =  0.2
+         D2 =  1.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 2108
+   NAZEV = ¬Œƒ€
+   NAHRADNIZNACKA = 1
+   PODKLAD = -27645
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = -27645
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 2507
+   NAZEV = ¡ŒÀŒ“Œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -30714
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  2.1
+         DELKAVZORU =  1.7
+         D2 =  3.4
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  1.3
+         DELKAVZORU =  3.0
+         D2 =  2.8
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  0.7
+         DELKAVZORU =  3.6
+         D2 =  2.6
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  1.0
+         DELKAVZORU =  4.2
+         D2 =  1.4
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  1.5
+         DELKAVZORU =  5.2
+         D2 = -0.3
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  2.2
+         DELKAVZORU =  2.6
+         D2 =  1.8
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST = -0.2
+         D1 =  5.1
+         DELKAVZORU =  1.6
+         D2 =  0.0
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  2.8
+         DELKAVZORU =  3.6
+         D2 =  0.4
+      [END]
+      [SRAFA]
+         SIRKA =  0.2
+         BARVA = -512
+         VZDALENOST =  0.6
+         D1 =  2.6
+         DELKAVZORU =  2.6
+         D2 =  1.8
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10101
+   NAZEV = —Œ—Õ¿_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32698
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10102
+   NAZEV = —Œ—Õ¿_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32596
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10103
+   NAZEV = —Œ—Õ¿_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32358
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10104
+   NAZEV = —Œ—Õ¿_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -27040
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10105
+   NAZEV = —Œ—Õ¿_ ”À_Õ
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -24576
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10106
+   NAZEV = —Œ—Õ¿_ ”À_—_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32698
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -32358
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10107
+   NAZEV = —Œ—Õ¿_ ”À_–≈ 
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -24576
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10108
+   NAZEV = —Œ—Õ¿_45
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 135.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -32332
+         VZDALENOST =  0.8
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10201
+   NAZEV = ≈À‹_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32415
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10202
+   NAZEV = ≈À‹_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32031
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10203
+   NAZEV = ≈À‹_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -28700
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10204
+   NAZEV = ≈À‹_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -18450
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10205
+   NAZEV = ≈À‹_ ”À_Õ
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -18450
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10206
+   NAZEV = ≈À‹_ ”À_—
+   NAHRADNIZNACKA = 0
+   PODKLAD = -30364
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -28700
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10207
+   NAZEV = ≈À‹_ ”À_–≈ 
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -18450
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10208
+   NAZEV = ≈À‹_45
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 135.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -27033
+         VZDALENOST =  0.8
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10401
+   NAZEV = À»—“¬_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -28438
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10402
+   NAZEV = À»—“¬_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -25167
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10403
+   NAZEV = À»—“¬_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -21896
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10404
+   NAZEV = À»—“¬_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -16578
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10405
+   NAZEV = À»—“¬_ ”À_Õ
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -16578
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10406
+   NAZEV = À»—“¬_ ”À_—
+   NAHRADNIZNACKA = 0
+   PODKLAD = -28438
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -21896
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10407
+   NAZEV = À»—“¬_ ”À_–≈ 
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -16578
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10408
+   NAZEV = À»—“¬_45
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 135.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -22957
+         VZDALENOST =  0.8
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30201
+   NAZEV = ¡≈–≈«¿_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -27615
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30202
+   NAZEV = ¡≈–≈«¿_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -21407
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30203
+   NAZEV = ¡≈–≈«¿_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -8991
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30204
+   NAZEV = ¡≈–≈«¿_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -536
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30205
+   NAZEV = ¡≈–≈«¿_ ”À_Õ
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -536
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30206
+   NAZEV = ¡≈–≈«¿_ ”À_—
+   NAHRADNIZNACKA = 0
+   PODKLAD = -23423
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -3679
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30207
+   NAZEV = ¡≈–≈«¿_ ”À_–≈ 
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -536
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30208
+   NAZEV = ¡≈–≈«¿_45
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 135.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -17215
+         VZDALENOST =  0.8
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30401
+   NAZEV = Œ—»Õ¿_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -27643
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30402
+   NAZEV = Œ—»Õ¿_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -21492
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30403
+   NAZEV = Œ—»Õ¿_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -832
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30404
+   NAZEV = Œ—»Õ¿_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -512
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30405
+   NAZEV = Œ—»Õ¿_ ”À_Õ
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -512
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30406
+   NAZEV = Œ—»Õ¿_ ”À_—
+   NAHRADNIZNACKA = 0
+   PODKLAD = -24441
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -554
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30407
+   NAZEV = Œ—»Õ¿_ ”À_–≈ 
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 90.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -512
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30408
+   NAZEV = Œ—»Õ¿_45
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 135.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -18228
+         VZDALENOST =  0.8
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 31401
+   NAZEV = ŒÀ‹’¿_—_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32694
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 31402
+   NAZEV = ŒÀ‹’¿_—_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32622
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 31403
+   NAZEV = ŒÀ‹’¿_—_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32584
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 31404
+   NAZEV = ŒÀ‹’¿_—_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32512
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 32401
+   NAZEV = À»œ¿_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -29686
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 32402
+   NAZEV = À»œ¿_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -26608
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 32403
+   NAZEV = À»œ¿_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -23528
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 32404
+   NAZEV = À»œ¿_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -19392
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30441
+   NAZEV = »¬¿_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -23551
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30442
+   NAZEV = »¬¿_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -15359
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30443
+   NAZEV = »¬¿_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -858
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 30444
+   NAZEV = »¬¿_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -528
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.01
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 2110
+   NAZEV = œ≈— »
+   NAHRADNIZNACKA = 0
+   PODKLAD = 15
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = -28896
+         VZDALENOST =  0.3
+         D1 =  0.2
+         DELKAVZORU =  0.1
+         D2 =  0.4
+      [END]
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = -28896
+         VZDALENOST =  0.1
+         D1 =  0.3
+         DELKAVZORU =  0.1
+         D2 =  0.6
+      [END]
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = -28896
+         VZDALENOST =  0.3
+         D1 =  0.3
+         DELKAVZORU =  0.1
+         D2 =  0.2
+      [END]
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = -28896
+         VZDALENOST =  0.2
+         D1 =  0.4
+         DELKAVZORU =  0.1
+         D2 =  0.3
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10109
+   NAZEV = —Œ—Õ¿_ ”À_—_—–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32596
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -24576
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10110
+   NAZEV = —Œ—Õ¿_ ”À_—_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32358
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -32698
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10111
+   NAZEV = —Œ—Õ¿_ ”À_—_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -27040
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -32596
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10209
+   NAZEV = ≈À‹_ ”À_—_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32031
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -18450
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10210
+   NAZEV = ≈À‹_ ”À_—_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -28700
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -32415
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10211
+   NAZEV = ≈À‹_ ”À_—_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -18450
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -32031
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10409
+   NAZEV = À»—“¬_ ”À_—_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -25167
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -16578
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10410
+   NAZEV = À»—“¬_ ”À_—_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -21896
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -28438
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10411
+   NAZEV = À»—“¬_ ”À_—_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -16578
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.4
+         BARVA = -25167
+         VZDALENOST =  1.6
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+
+[PLOSNAZNACKA]
+   KOD = 7001
+   NAZEV =  ≈ƒ–_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32602
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 7002
+   NAZEV =  ≈ƒ–_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32404
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 7003
+   NAZEV =  ≈ƒ–_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -32074
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 7004
+   NAZEV =  ≈ƒ–_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -24576
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+
+
+
+
+
+
+
+
+[PLOSNAZNACKA]
+   KOD = 20281
+   NAZEV = ¡≈–≈«¿_ ¿Ã_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -14815
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 20282
+   NAZEV = ¡≈–≈«¿_ ¿Ã_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -6367
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 20283
+   NAZEV = ¡≈–≈«¿_ ¿Ã_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -26
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 20284
+   NAZEV = ¡≈–≈«¿_ ¿Ã_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -16
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+
+
+[PLOSNAZNACKA]
+   KOD = 10301
+   NAZEV = œ»’“¿_ÃŒÀ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -30559
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10302
+   NAZEV = œ»’“¿_—–¬
+   NAHRADNIZNACKA = 0
+   PODKLAD = -28383
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10303
+   NAZEV = œ»’“¿_œ–
+   NAHRADNIZNACKA = 0
+   PODKLAD = -25119
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+[PLOSNAZNACKA]
+   KOD = 10304
+   NAZEV = œ»’“¿_—œ
+   NAHRADNIZNACKA = 0
+   PODKLAD = -20767
+   [VRSTVASRAF]
+      UHEL = 0.00
+      [SRAFA]
+         SIRKA =  0.1
+         BARVA = 13
+         VZDALENOST = 1000.0
+         D1 =  0.0
+         DELKAVZORU =  0.0
+         D2 =  0.0
+      [END]
+   [END]
+[END]
+

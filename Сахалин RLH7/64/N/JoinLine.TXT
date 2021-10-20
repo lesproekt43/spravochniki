@@ -1,0 +1,2209 @@
+
+******************* Slucovani linii *******************
+.................. Vytvareni seznamu ..................
+
+
+************* Srovnani retezu ***************
+    1: Dr:7560, FALSE,FALSE;  109,  373 Kr:FALSE; L:   427TRUE,   110TRUE,   108TRUE,     2TRUE,     1TRUE,     9FALSE,    10FALSE,    16TRUE,   376TRUE,   377TRUE,   421TRUE, 
+    1: Dr:7560, FALSE,FALSE;    3,    8 Kr:TRUE; L:     8TRUE,     7TRUE,     3TRUE, 
+    1: Dr:7560, FALSE,FALSE;    4,    6 Kr:TRUE; L:     6FALSE,     5TRUE,     4TRUE, 
+    1: Dr:7560, FALSE,FALSE;  244,  106 Kr:FALSE; L:   245TRUE,   243TRUE,   237TRUE,    11TRUE,   236TRUE, 
+    1: Dr:7560, FALSE,FALSE;  239,   26 Kr:FALSE; L:   240TRUE,    12TRUE,    13TRUE,    14TRUE,   365TRUE, 
+    1: Dr:7560, FALSE,TRUE;  258,   -2 Kr:FALSE; L:   259TRUE,    27TRUE, 
+    1: Dr:7560, FALSE,FALSE;   46,   54 Kr:FALSE; L:    47TRUE,    28TRUE,    55TRUE,   410TRUE, 
+    1: Dr:7560, FALSE,FALSE;   65,   69 Kr:TRUE; L:    69FALSE,    68TRUE,    67FALSE,    65TRUE, 
+    1: Dr:7560, FALSE,FALSE;  460,  431 Kr:FALSE; L:   466TRUE,    72TRUE,    71TRUE,    70TRUE,    75TRUE,   432FALSE, 
+    1: Dr:7560, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:    77TRUE,    83TRUE, 
+    1: Dr:7560, FALSE,FALSE;  252,  268 Kr:FALSE; L:   447TRUE,    86TRUE,   482TRUE, 
+    1: Dr:7560, FALSE,FALSE;  211,  266 Kr:TRUE; L:   266TRUE,   107TRUE,   179TRUE,   211TRUE, 
+    1: Dr:7560, FALSE,FALSE;  261,  262 Kr:FALSE; L:   419TRUE,   175TRUE,   416TRUE, 
+    1: Dr:7560, FALSE,FALSE;  192,  477 Kr:FALSE; L:   480TRUE,   476TRUE,   468TRUE,   191TRUE,   474FALSE,   478FALSE, 
+    1: Dr:7560, FALSE,FALSE;  198,  199 Kr:TRUE; L:   199TRUE,   198TRUE, 
+    1: Dr:7560, FALSE,FALSE;  200,  487 Kr:TRUE; L:   487TRUE,   200TRUE, 
+    1: Dr:7560, FALSE,FALSE;  204,  210 Kr:TRUE; L:   210FALSE,   209TRUE,   204TRUE, 
+    1: Dr:7560, FALSE,FALSE;  280,  293 Kr:FALSE; L:   436TRUE,   269TRUE,   281FALSE,   303FALSE, 
+    1: Dr:7560, FALSE,FALSE;  292,  298 Kr:TRUE; L:   298FALSE,   295FALSE,   285FALSE,   284TRUE,   286TRUE,   288FALSE,   292FALSE, 
+    1: Dr:7560, FALSE,FALSE;  299,  300 Kr:TRUE; L:   300TRUE,   299TRUE, 
+    1: Dr:7560, FALSE,FALSE;  301,  302 Kr:TRUE; L:   302TRUE,   301TRUE, 
+    1: Dr:7560, FALSE,FALSE;  306,  308 Kr:TRUE; L:   308FALSE,   307FALSE,   306TRUE, 
+    1: Dr:7560, FALSE,FALSE;  316,  319 Kr:TRUE; L:   319FALSE,   318TRUE,   316TRUE, 
+    1: Dr:7560, FALSE,FALSE;  339,  458 Kr:TRUE; L:   458TRUE,   340FALSE,   339TRUE, 
+    1: Dr:7560, FALSE,FALSE;  341,  342 Kr:TRUE; L:   342FALSE,   341TRUE, 
+    1: Dr:7560, FALSE,FALSE;  395,  399 Kr:TRUE; L:   399FALSE,   395TRUE, 
+    1: Dr:7560, FALSE,FALSE;  396,  398 Kr:TRUE; L:   398FALSE,   397TRUE,   396TRUE, 
+    1: Dr:7560, FALSE,FALSE;  400,  401 Kr:TRUE; L:   401FALSE,   400TRUE, 
+    1: Dr:7560, FALSE,FALSE;  412,  414 Kr:TRUE; L:   414TRUE,   412TRUE, 
+    1: Dr:7560, FALSE,FALSE;  434,  463 Kr:TRUE; L:   463TRUE,   462TRUE,   433TRUE,   434TRUE, 
+************* Konec srovnani retezu ***************
+
+
+********** Seznam nehotovych retezcu **********
+********** konec seznamu nehotovych retezcu ***********
+Polyline: 378 - Deleting polyline
+Hand  L: 373:FALSE P: 373:FALSE
+Foot  L: 366:TRUE P: 366:TRUE
+
+Polyline: 366 - Deleting polyline
+Hand  L: 378:FALSE P: 378:FALSE
+Foot  L: 429:TRUE P: 429:TRUE
+
+Polyline: 429 - Deleting polyline
+Hand  L: 366:FALSE P: 366:FALSE
+Foot  L: 375:FALSE P: 375:FALSE
+
+Polyline: 375 - Deleting polyline
+Hand  L: 374:TRUE P: 374:TRUE
+Foot  L: 429:FALSE P: 429:FALSE
+
+Polyline: 374 - Deleting polyline
+Hand  L: 375:TRUE P: 375:TRUE
+Foot  L: 426:TRUE P: 426:TRUE
+
+Polyline: 426 - Deleting polyline
+Hand  L: 374:FALSE P: 374:FALSE
+Foot  L: 379:TRUE P: 379:TRUE
+
+Polyline: 379 - Deleting polyline
+Hand  L: 426:FALSE P: 426:FALSE
+Foot  L: 367:TRUE P: 367:TRUE
+
+Polyline: 367 - Deleting polyline
+Hand  L: 379:FALSE P: 379:FALSE
+Foot  L: 368:TRUE P: 368:TRUE
+
+Polyline: 368 - Deleting polyline
+Hand  L: 367:FALSE P: 367:FALSE
+Foot  L: 369:TRUE P: 369:TRUE
+
+Polyline: 369 - Deleting polyline
+Hand  L: 368:FALSE P: 368:FALSE
+Foot  L: 370:TRUE P: 370:TRUE
+
+Polyline: 370 - Deleting polyline
+Hand  L: 369:FALSE P: 369:FALSE
+Foot  L: 371:FALSE P: 371:FALSE
+
+Polyline: 371 - Deleting polyline
+Hand  L: 392:FALSE P: 392:FALSE
+Foot  L: 370:FALSE P: 370:FALSE
+
+Polyline: 392 - Deleting polyline
+Hand  L: 382:FALSE P: 382:FALSE
+Foot  L: 371:TRUE P: 371:TRUE
+
+Polyline: 382 - Deleting polyline
+Hand  L: 372:FALSE P: 372:FALSE
+Foot  L: 392:TRUE P: 392:TRUE
+
+Polyline: 372 - Deleting polyline
+Hand  L: 380:FALSE P: 380:FALSE
+Foot  L: 382:TRUE P: 382:TRUE
+
+Polyline: 380 - Deleting polyline
+Hand  L: 381:TRUE P: 381:TRUE
+Foot  L: 372:TRUE P: 372:TRUE
+
+Polyline: 381 - Deleting polyline
+Hand  L: 380:TRUE P: 380:TRUE
+Foot  L: 420:TRUE P: 420:TRUE
+
+Polyline: 420 - Deleting polyline
+Hand  L: 381:FALSE P: 381:FALSE
+Foot  L: 167:TRUE P: 167:TRUE
+
+Polyline: 167 - Deleting polyline
+Hand  L: 420:FALSE P: 420:FALSE
+Foot  L: 166:TRUE P: 166:TRUE
+
+Polyline: 166 - Deleting polyline
+Hand  L: 167:FALSE P: 167:FALSE
+Foot  L: 165:TRUE P: 165:TRUE
+
+Polyline: 165 - Deleting polyline
+Hand  L: 166:FALSE P: 166:FALSE
+Foot  L: 164:TRUE P: 164:TRUE
+
+Polyline: 164 - Deleting polyline
+Hand  L: 165:FALSE P: 165:FALSE
+Foot  L: 169:TRUE P: 169:TRUE
+
+Polyline: 169 - Deleting polyline
+Hand  L: 164:FALSE P: 164:FALSE
+Foot  L: 170:TRUE P: 170:TRUE
+
+Polyline: 170 - Deleting polyline
+Hand  L: 169:FALSE P: 169:FALSE
+Foot  L: 171:TRUE P: 171:TRUE
+
+Polyline: 171 - Deleting polyline
+Hand  L: 170:FALSE P: 170:FALSE
+Foot  L: 168:TRUE P: 168:TRUE
+
+Polyline: 168 - Deleting polyline
+Hand  L: 171:FALSE P: 171:FALSE
+Foot  L: 413:TRUE P: 413:TRUE
+
+Polyline: 413 - Deleting polyline
+Hand  L: 168:FALSE P: 168:FALSE
+Foot  L: 172:TRUE P: 172:TRUE
+
+Polyline: 172 - Deleting polyline
+Hand  L: 413:FALSE P: 413:FALSE
+Foot  L: 112:FALSE P: 112:FALSE
+
+Polyline: 112 - Deleting polyline
+Hand  L: 264:TRUE P: 264:TRUE
+Foot  L: 172:FALSE P: 172:FALSE
+
+Polyline: 264 - Deleting polyline
+Hand  L: 112:TRUE P: 112:TRUE
+Foot  L: 265:TRUE P: 265:TRUE
+
+Polyline: 265 - Deleting polyline
+Hand  L: 264:FALSE P: 264:FALSE
+Foot  L: 173:TRUE P: 173:TRUE
+
+Polyline: 173 - Deleting polyline
+Hand  L: 265:FALSE P: 265:FALSE
+Foot  L: 415:TRUE P: 415:TRUE
+
+Polyline: 415 - Deleting polyline
+Hand  L: 173:FALSE P: 173:FALSE
+Foot  L: 207:TRUE P: 207:TRUE
+
+Polyline: 207 - Deleting polyline
+Hand  L: 415:FALSE P: 415:FALSE
+Foot  L: 208:TRUE P: 208:TRUE
+
+Polyline: 208 - Deleting polyline
+Hand  L: 207:FALSE P: 207:FALSE
+Foot  L: 206:TRUE P: 206:TRUE
+
+Polyline: 206 - Deleting polyline
+Hand  L: 208:FALSE P: 208:FALSE
+Foot  L: 205:TRUE P: 205:TRUE
+
+Polyline: 205 - Deleting polyline
+Hand  L: 206:FALSE P: 206:FALSE
+Foot  L: 202:TRUE P: 202:TRUE
+
+Polyline: 202 - Deleting polyline
+Hand  L: 205:FALSE P: 205:FALSE
+Foot  L: 203:TRUE P: 203:TRUE
+
+Polyline: 203 - Deleting polyline
+Hand  L: 202:FALSE P: 202:FALSE
+Foot  L: 201:TRUE P: 201:TRUE
+
+Polyline: 201 - Deleting polyline
+Hand  L: 203:FALSE P: 203:FALSE
+Foot  L: 486:TRUE P: 486:TRUE
+
+Polyline: 486 - Deleting polyline
+Hand  L: 201:FALSE P: 201:FALSE
+Foot  L: 180:TRUE P: 180:TRUE
+
+Polyline: 180 - Deleting polyline
+Hand  L: 486:FALSE P: 486:FALSE
+Foot  L: 305:TRUE P: 305:TRUE
+
+Polyline: 305 - Deleting polyline
+Hand  L: 180:FALSE P: 180:FALSE
+Foot  L: 422:FALSE P: 422:FALSE
+
+Polyline: 422 - Deleting polyline
+Hand  L: 197:FALSE P: 197:FALSE
+Foot  L: 305:FALSE P: 305:FALSE
+
+Polyline: 197 - Deleting polyline
+Hand  L: 195:FALSE P: 195:FALSE
+Foot  L: 422:TRUE P: 422:TRUE
+
+Polyline: 195 - Deleting polyline
+Hand  L: 196:FALSE P: 196:FALSE
+Foot  L: 197:TRUE P: 197:TRUE
+
+Polyline: 196 - Deleting polyline
+Hand  L: 430:FALSE P: 430:FALSE
+Foot  L: 195:TRUE P: 195:TRUE
+
+Polyline: 430 - Deleting polyline
+Hand  L: 425:FALSE P: 425:FALSE
+Foot  L: 196:TRUE P: 196:TRUE
+
+Polyline: 425 - Deleting polyline
+Hand  L: 193:FALSE P: 193:FALSE
+Foot  L: 430:TRUE P: 430:TRUE
+
+Polyline: 193 - Deleting polyline
+Hand  L: 189:FALSE P: 189:FALSE
+Foot  L: 425:TRUE P: 425:TRUE
+
+Polyline: 189 - Deleting polyline
+Hand  L: 470:FALSE P: 470:FALSE
+Foot  L: 193:TRUE P: 193:TRUE
+
+Polyline: 470 - Deleting polyline
+Hand  L: 472:FALSE P: 472:FALSE
+Foot  L: 189:TRUE P: 189:TRUE
+
+Polyline: 472 - Deleting polyline
+Hand  L: 471:FALSE P: 471:FALSE
+Foot  L: 470:TRUE P: 470:TRUE
+
+Polyline: 471 - Deleting polyline
+Hand  L: 424:FALSE P: 424:FALSE
+Foot  L: 472:TRUE P: 472:TRUE
+
+Polyline: 424 - Deleting polyline
+Hand  L: 423:FALSE P: 423:FALSE
+Foot  L: 471:TRUE P: 471:TRUE
+
+Polyline: 423 - Deleting polyline
+Hand  L: 194:FALSE P: 194:FALSE
+Foot  L: 424:TRUE P: 424:TRUE
+
+Polyline: 194 - Deleting polyline
+Hand  L: 188:FALSE P: 188:FALSE
+Foot  L: 423:TRUE P: 423:TRUE
+
+Polyline: 188 - Deleting polyline
+Hand  L: 187:FALSE P: 187:FALSE
+Foot  L: 194:TRUE P: 194:TRUE
+
+Polyline: 187 - Deleting polyline
+Hand  L: 186:FALSE P: 186:FALSE
+Foot  L: 188:TRUE P: 188:TRUE
+
+Polyline: 186 - Deleting polyline
+Hand  L: 185:FALSE P: 185:FALSE
+Foot  L: 187:TRUE P: 187:TRUE
+
+Polyline: 185 - Deleting polyline
+Hand  L: 184:FALSE P: 184:FALSE
+Foot  L: 186:TRUE P: 186:TRUE
+
+Polyline: 184 - Deleting polyline
+Hand  L: 183:TRUE P: 183:TRUE
+Foot  L: 185:TRUE P: 185:TRUE
+
+Polyline: 183 - Deleting polyline
+Hand  L: 184:TRUE P: 184:TRUE
+Foot  L: 182:TRUE P: 182:TRUE
+
+Polyline: 182 - Deleting polyline
+Hand  L: 183:FALSE P: 183:FALSE
+Foot  L: 111:TRUE P: 111:TRUE
+
+Polyline: 111 - Deleting polyline
+Hand  L: 182:FALSE P: 182:FALSE
+Foot  L: 428:TRUE P: 428:TRUE
+
+Polyline: 428 - Deleting polyline
+Hand  L: 111:FALSE P: 111:FALSE
+Foot  L: 181:FALSE P: 181:FALSE
+
+Polyline: 181 - Deleting polyline
+Hand  L: 109:TRUE P: 109:TRUE
+Foot  L: 428:FALSE P: 428:FALSE
+
+Polyline: 109 - Deleting polyline
+Hand  L: 181:TRUE P: 181:TRUE
+Foot  L: 427:TRUE P: 427:TRUE
+
+Polyline: 427 - Deleting polyline
+Hand  L: 109:FALSE P: 109:FALSE
+Foot  L: 110:TRUE P: 110:TRUE
+
+Polyline: 110 - Deleting polyline
+Hand  L: 427:FALSE P: 427:FALSE
+Foot  L: 108:TRUE P: 108:TRUE
+
+Polyline: 108 - Deleting polyline
+Hand  L: 110:FALSE P: 110:FALSE
+Foot  L: 2:TRUE P: 2:TRUE
+
+Polyline: 2 - Deleting polyline
+Hand  L: 108:FALSE P: 108:FALSE
+Foot  L: 1:TRUE P: 1:TRUE
+
+Polyline: 1 - Deleting polyline
+Hand  L: 2:FALSE P: 2:FALSE
+Foot  L: 9:FALSE P: 9:FALSE
+
+Polyline: 9 - Deleting polyline
+Hand  L: 10:FALSE P: 10:FALSE
+Foot  L: 1:FALSE P: 1:FALSE
+
+Polyline: 10 - Deleting polyline
+Hand  L: 16:TRUE P: 16:TRUE
+Foot  L: 9:TRUE P: 9:TRUE
+
+Polyline: 16 - Deleting polyline
+Hand  L: 10:TRUE P: 10:TRUE
+Foot  L: 376:TRUE P: 376:TRUE
+
+Polyline: 376 - Deleting polyline
+Hand  L: 16:FALSE P: 16:FALSE
+Foot  L: 377:TRUE P: 377:TRUE
+
+Polyline: 377 - Deleting polyline
+Hand  L: 376:FALSE P: 376:FALSE
+Foot  L: 421:TRUE P: 421:TRUE
+
+Polyline: 421 - Deleting polyline
+Hand  L: 377:FALSE P: 377:FALSE
+Foot  L: 373:TRUE P: 373:TRUE
+
+Polyline: 373 - Setting of new polyline topology 
+Hand  L: 373:FALSE P: 373:FALSE
+Foot  L: 378:TRUE P: 378:TRUE
+
+Polyline: 373 - Setting of new polyline topology 
+Hand  L: 373:FALSE P: 373:FALSE
+Foot  L: 373:TRUE P: 373:TRUE
+
+Polyline: 373 - Setting of first coord., last coord.
+Hand  L: 373:FALSE P: 373:FALSE
+Foot  L: 373:TRUE P: 373:TRUE
+
+Polyline: 7 - Deleting polyline
+Hand  L: 8:FALSE P: 8:FALSE
+Foot  L: 3:TRUE P: 3:TRUE
+
+Polyline: 3 - Deleting polyline
+Hand  L: 7:FALSE P: 7:FALSE
+Foot  L: 8:TRUE P: 8:TRUE
+
+Polyline: 8 - Setting of new polyline topology 
+Hand  L: 8:FALSE P: 8:FALSE
+Foot  L: 7:TRUE P: 7:TRUE
+
+Polyline: 8 - Setting of new polyline topology 
+Hand  L: 8:FALSE P: 8:FALSE
+Foot  L: 8:TRUE P: 8:TRUE
+
+Polyline: 8 - Setting of first coord., last coord.
+Hand  L: 8:FALSE P: 8:FALSE
+Foot  L: 8:TRUE P: 8:TRUE
+
+Polyline: 5 - Deleting polyline
+Hand  L: 6:TRUE P: 6:TRUE
+Foot  L: 4:TRUE P: 4:TRUE
+
+Polyline: 4 - Deleting polyline
+Hand  L: 5:FALSE P: 5:FALSE
+Foot  L: 6:FALSE P: 6:FALSE
+
+Polyline: 6 - Setting of new polyline topology 
+Hand  L: 6:FALSE P: 6:FALSE
+Foot  L: 4:FALSE P: 4:FALSE
+
+Polyline: 6 - Setting of new polyline topology 
+Hand  L: 6:FALSE P: 6:FALSE
+Foot  L: 6:TRUE P: 6:TRUE
+
+Polyline: 6 - Setting of first coord., last coord.
+Hand  L: 6:FALSE P: 6:FALSE
+Foot  L: 6:TRUE P: 6:TRUE
+
+Polyline: 235 - Deleting polyline
+Hand  L: 106:FALSE P: 106:FALSE
+Foot  L: 241:TRUE P: 241:TRUE
+
+Polyline: 241 - Deleting polyline
+Hand  L: 235:FALSE P: 235:FALSE
+Foot  L: 242:TRUE P: 242:TRUE
+
+Polyline: 242 - Deleting polyline
+Hand  L: 241:FALSE P: 241:FALSE
+Foot  L: 227:TRUE P: 227:TRUE
+
+Polyline: 227 - Deleting polyline
+Hand  L: 242:FALSE P: 242:FALSE
+Foot  L: 228:TRUE P: 228:TRUE
+
+Polyline: 228 - Deleting polyline
+Hand  L: 227:FALSE P: 227:FALSE
+Foot  L: 234:TRUE P: 234:TRUE
+
+Polyline: 234 - Deleting polyline
+Hand  L: 228:FALSE P: 228:FALSE
+Foot  L: 459:TRUE P: 459:TRUE
+
+Polyline: 459 - Deleting polyline
+Hand  L: 234:FALSE P: 234:FALSE
+Foot  L: 230:TRUE P: 230:TRUE
+
+Polyline: 230 - Deleting polyline
+Hand  L: 459:FALSE P: 459:FALSE
+Foot  L: 229:TRUE P: 229:TRUE
+
+Polyline: 229 - Deleting polyline
+Hand  L: 230:FALSE P: 230:FALSE
+Foot  L: 225:TRUE P: 225:TRUE
+
+Polyline: 225 - Deleting polyline
+Hand  L: 229:FALSE P: 229:FALSE
+Foot  L: 92:TRUE P: 92:TRUE
+
+Polyline: 92 - Deleting polyline
+Hand  L: 225:FALSE P: 225:FALSE
+Foot  L: 219:TRUE P: 219:TRUE
+
+Polyline: 219 - Deleting polyline
+Hand  L: 92:FALSE P: 92:FALSE
+Foot  L: 246:TRUE P: 246:TRUE
+
+Polyline: 246 - Deleting polyline
+Hand  L: 219:FALSE P: 219:FALSE
+Foot  L: 452:TRUE P: 452:TRUE
+
+Polyline: 452 - Deleting polyline
+Hand  L: 246:FALSE P: 246:FALSE
+Foot  L: 454:TRUE P: 454:TRUE
+
+Polyline: 454 - Deleting polyline
+Hand  L: 452:FALSE P: 452:FALSE
+Foot  L: 455:TRUE P: 455:TRUE
+
+Polyline: 455 - Deleting polyline
+Hand  L: 454:FALSE P: 454:FALSE
+Foot  L: 453:TRUE P: 453:TRUE
+
+Polyline: 453 - Deleting polyline
+Hand  L: 455:FALSE P: 455:FALSE
+Foot  L: 91:TRUE P: 91:TRUE
+
+Polyline: 91 - Deleting polyline
+Hand  L: 453:FALSE P: 453:FALSE
+Foot  L: 390:TRUE P: 390:TRUE
+
+Polyline: 390 - Deleting polyline
+Hand  L: 91:FALSE P: 91:FALSE
+Foot  L: 104:TRUE P: 104:TRUE
+
+Polyline: 104 - Deleting polyline
+Hand  L: 390:FALSE P: 390:FALSE
+Foot  L: 222:TRUE P: 222:TRUE
+
+Polyline: 222 - Deleting polyline
+Hand  L: 104:FALSE P: 104:FALSE
+Foot  L: 224:TRUE P: 224:TRUE
+
+Polyline: 224 - Deleting polyline
+Hand  L: 222:FALSE P: 222:FALSE
+Foot  L: 223:TRUE P: 223:TRUE
+
+Polyline: 223 - Deleting polyline
+Hand  L: 224:FALSE P: 224:FALSE
+Foot  L: 333:FALSE P: 333:FALSE
+
+Polyline: 333 - Deleting polyline
+Hand  L: 220:FALSE P: 220:FALSE
+Foot  L: 223:FALSE P: 223:FALSE
+
+Polyline: 220 - Deleting polyline
+Hand  L: 217:FALSE P: 217:FALSE
+Foot  L: 333:TRUE P: 333:TRUE
+
+Polyline: 217 - Deleting polyline
+Hand  L: 216:FALSE P: 216:FALSE
+Foot  L: 220:TRUE P: 220:TRUE
+
+Polyline: 216 - Deleting polyline
+Hand  L: 215:FALSE P: 215:FALSE
+Foot  L: 217:TRUE P: 217:TRUE
+
+Polyline: 215 - Deleting polyline
+Hand  L: 389:FALSE P: 389:FALSE
+Foot  L: 216:TRUE P: 216:TRUE
+
+Polyline: 389 - Deleting polyline
+Hand  L: 388:FALSE P: 388:FALSE
+Foot  L: 215:TRUE P: 215:TRUE
+
+Polyline: 388 - Deleting polyline
+Hand  L: 214:FALSE P: 214:FALSE
+Foot  L: 389:TRUE P: 389:TRUE
+
+Polyline: 214 - Deleting polyline
+Hand  L: 218:FALSE P: 218:FALSE
+Foot  L: 388:TRUE P: 388:TRUE
+
+Polyline: 218 - Deleting polyline
+Hand  L: 450:FALSE P: 450:FALSE
+Foot  L: 214:TRUE P: 214:TRUE
+
+Polyline: 450 - Deleting polyline
+Hand  L: 213:FALSE P: 213:FALSE
+Foot  L: 218:TRUE P: 218:TRUE
+
+Polyline: 213 - Deleting polyline
+Hand  L: 103:FALSE P: 103:FALSE
+Foot  L: 450:TRUE P: 450:TRUE
+
+Polyline: 103 - Deleting polyline
+Hand  L: 105:TRUE P: 105:TRUE
+Foot  L: 213:TRUE P: 213:TRUE
+
+Polyline: 105 - Deleting polyline
+Hand  L: 103:TRUE P: 103:TRUE
+Foot  L: 231:TRUE P: 231:TRUE
+
+Polyline: 231 - Deleting polyline
+Hand  L: 105:FALSE P: 105:FALSE
+Foot  L: 232:TRUE P: 232:TRUE
+
+Polyline: 232 - Deleting polyline
+Hand  L: 231:FALSE P: 231:FALSE
+Foot  L: 233:TRUE P: 233:TRUE
+
+Polyline: 233 - Deleting polyline
+Hand  L: 232:FALSE P: 232:FALSE
+Foot  L: 383:TRUE P: 383:TRUE
+
+Polyline: 383 - Deleting polyline
+Hand  L: 233:FALSE P: 233:FALSE
+Foot  L: 384:TRUE P: 384:TRUE
+
+Polyline: 384 - Deleting polyline
+Hand  L: 383:FALSE P: 383:FALSE
+Foot  L: 391:TRUE P: 391:TRUE
+
+Polyline: 391 - Deleting polyline
+Hand  L: 384:FALSE P: 384:FALSE
+Foot  L: 226:TRUE P: 226:TRUE
+
+Polyline: 226 - Deleting polyline
+Hand  L: 391:FALSE P: 391:FALSE
+Foot  L: 95:TRUE P: 95:TRUE
+
+Polyline: 95 - Deleting polyline
+Hand  L: 226:FALSE P: 226:FALSE
+Foot  L: 445:TRUE P: 445:TRUE
+
+Polyline: 445 - Deleting polyline
+Hand  L: 95:FALSE P: 95:FALSE
+Foot  L: 94:TRUE P: 94:TRUE
+
+Polyline: 94 - Deleting polyline
+Hand  L: 445:FALSE P: 445:FALSE
+Foot  L: 483:TRUE P: 483:TRUE
+
+Polyline: 483 - Deleting polyline
+Hand  L: 94:FALSE P: 94:FALSE
+Foot  L: 385:TRUE P: 385:TRUE
+
+Polyline: 385 - Deleting polyline
+Hand  L: 483:FALSE P: 483:FALSE
+Foot  L: 387:TRUE P: 387:TRUE
+
+Polyline: 387 - Deleting polyline
+Hand  L: 385:FALSE P: 385:FALSE
+Foot  L: 386:TRUE P: 386:TRUE
+
+Polyline: 386 - Deleting polyline
+Hand  L: 387:FALSE P: 387:FALSE
+Foot  L: 484:TRUE P: 484:TRUE
+
+Polyline: 484 - Deleting polyline
+Hand  L: 386:FALSE P: 386:FALSE
+Foot  L: 444:TRUE P: 444:TRUE
+
+Polyline: 444 - Deleting polyline
+Hand  L: 484:FALSE P: 484:FALSE
+Foot  L: 443:TRUE P: 443:TRUE
+
+Polyline: 443 - Deleting polyline
+Hand  L: 444:FALSE P: 444:FALSE
+Foot  L: 449:TRUE P: 449:TRUE
+
+Polyline: 449 - Deleting polyline
+Hand  L: 443:FALSE P: 443:FALSE
+Foot  L: 244:TRUE P: 244:TRUE
+
+Polyline: 244 - Deleting polyline
+Hand  L: 449:FALSE P: 449:FALSE
+Foot  L: 245:TRUE P: 245:TRUE
+
+Polyline: 245 - Deleting polyline
+Hand  L: 244:FALSE P: 244:FALSE
+Foot  L: 243:TRUE P: 243:TRUE
+
+Polyline: 243 - Deleting polyline
+Hand  L: 245:FALSE P: 245:FALSE
+Foot  L: 237:TRUE P: 237:TRUE
+
+Polyline: 237 - Deleting polyline
+Hand  L: 243:FALSE P: 243:FALSE
+Foot  L: 11:TRUE P: 11:TRUE
+
+Polyline: 11 - Deleting polyline
+Hand  L: 237:FALSE P: 237:FALSE
+Foot  L: 236:TRUE P: 236:TRUE
+
+Polyline: 236 - Deleting polyline
+Hand  L: 11:FALSE P: 11:FALSE
+Foot  L: 106:TRUE P: 106:TRUE
+
+Polyline: 106 - Setting of new polyline topology 
+Hand  L: 106:FALSE P: 106:FALSE
+Foot  L: 235:TRUE P: 235:TRUE
+
+Polyline: 106 - Setting of new polyline topology 
+Hand  L: 106:FALSE P: 106:FALSE
+Foot  L: 106:TRUE P: 106:TRUE
+
+Polyline: 106 - Setting of first coord., last coord.
+Hand  L: 106:FALSE P: 106:FALSE
+Foot  L: 106:TRUE P: 106:TRUE
+
+Polyline: 18 - Deleting polyline
+Hand  L: 26:FALSE P: 26:FALSE
+Foot  L: 334:TRUE P: 334:TRUE
+
+Polyline: 334 - Deleting polyline
+Hand  L: 18:FALSE P: 18:FALSE
+Foot  L: 25:TRUE P: 25:TRUE
+
+Polyline: 25 - Deleting polyline
+Hand  L: 334:FALSE P: 334:FALSE
+Foot  L: 335:TRUE P: 335:TRUE
+
+Polyline: 335 - Deleting polyline
+Hand  L: 25:FALSE P: 25:FALSE
+Foot  L: 336:TRUE P: 336:TRUE
+
+Polyline: 336 - Deleting polyline
+Hand  L: 335:FALSE P: 335:FALSE
+Foot  L: 19:TRUE P: 19:TRUE
+
+Polyline: 19 - Deleting polyline
+Hand  L: 336:FALSE P: 336:FALSE
+Foot  L: 24:TRUE P: 24:TRUE
+
+Polyline: 24 - Deleting polyline
+Hand  L: 19:FALSE P: 19:FALSE
+Foot  L: 337:TRUE P: 337:TRUE
+
+Polyline: 337 - Deleting polyline
+Hand  L: 24:FALSE P: 24:FALSE
+Foot  L: 21:TRUE P: 21:TRUE
+
+Polyline: 21 - Deleting polyline
+Hand  L: 337:FALSE P: 337:FALSE
+Foot  L: 338:TRUE P: 338:TRUE
+
+Polyline: 338 - Deleting polyline
+Hand  L: 21:FALSE P: 21:FALSE
+Foot  L: 20:TRUE P: 20:TRUE
+
+Polyline: 20 - Deleting polyline
+Hand  L: 338:FALSE P: 338:FALSE
+Foot  L: 96:TRUE P: 96:TRUE
+
+Polyline: 96 - Deleting polyline
+Hand  L: 20:FALSE P: 20:FALSE
+Foot  L: 97:TRUE P: 97:TRUE
+
+Polyline: 97 - Deleting polyline
+Hand  L: 96:FALSE P: 96:FALSE
+Foot  L: 98:TRUE P: 98:TRUE
+
+Polyline: 98 - Deleting polyline
+Hand  L: 97:FALSE P: 97:FALSE
+Foot  L: 99:TRUE P: 99:TRUE
+
+Polyline: 99 - Deleting polyline
+Hand  L: 98:FALSE P: 98:FALSE
+Foot  L: 101:TRUE P: 101:TRUE
+
+Polyline: 101 - Deleting polyline
+Hand  L: 99:FALSE P: 99:FALSE
+Foot  L: 102:TRUE P: 102:TRUE
+
+Polyline: 102 - Deleting polyline
+Hand  L: 101:FALSE P: 101:FALSE
+Foot  L: 100:TRUE P: 100:TRUE
+
+Polyline: 100 - Deleting polyline
+Hand  L: 102:FALSE P: 102:FALSE
+Foot  L: 221:TRUE P: 221:TRUE
+
+Polyline: 221 - Deleting polyline
+Hand  L: 100:FALSE P: 100:FALSE
+Foot  L: 93:TRUE P: 93:TRUE
+
+Polyline: 93 - Deleting polyline
+Hand  L: 221:FALSE P: 221:FALSE
+Foot  L: 22:TRUE P: 22:TRUE
+
+Polyline: 22 - Deleting polyline
+Hand  L: 93:FALSE P: 93:FALSE
+Foot  L: 23:TRUE P: 23:TRUE
+
+Polyline: 23 - Deleting polyline
+Hand  L: 22:FALSE P: 22:FALSE
+Foot  L: 17:TRUE P: 17:TRUE
+
+Polyline: 17 - Deleting polyline
+Hand  L: 23:FALSE P: 23:FALSE
+Foot  L: 238:FALSE P: 238:FALSE
+
+Polyline: 238 - Deleting polyline
+Hand  L: 15:FALSE P: 15:FALSE
+Foot  L: 17:FALSE P: 17:FALSE
+
+Polyline: 15 - Deleting polyline
+Hand  L: 239:FALSE P: 239:FALSE
+Foot  L: 238:TRUE P: 238:TRUE
+
+Polyline: 239 - Deleting polyline
+Hand  L: 240:TRUE P: 240:TRUE
+Foot  L: 15:TRUE P: 15:TRUE
+
+Polyline: 240 - Deleting polyline
+Hand  L: 239:TRUE P: 239:TRUE
+Foot  L: 12:TRUE P: 12:TRUE
+
+Polyline: 12 - Deleting polyline
+Hand  L: 240:FALSE P: 240:FALSE
+Foot  L: 13:TRUE P: 13:TRUE
+
+Polyline: 13 - Deleting polyline
+Hand  L: 12:FALSE P: 12:FALSE
+Foot  L: 14:TRUE P: 14:TRUE
+
+Polyline: 14 - Deleting polyline
+Hand  L: 13:FALSE P: 13:FALSE
+Foot  L: 365:TRUE P: 365:TRUE
+
+Polyline: 365 - Deleting polyline
+Hand  L: 14:FALSE P: 14:FALSE
+Foot  L: 26:TRUE P: 26:TRUE
+
+Polyline: 26 - Setting of new polyline topology 
+Hand  L: 26:FALSE P: 26:FALSE
+Foot  L: 18:TRUE P: 18:TRUE
+
+Polyline: 26 - Setting of new polyline topology 
+Hand  L: 26:FALSE P: 26:FALSE
+Foot  L: 26:TRUE P: 26:TRUE
+
+Polyline: 26 - Setting of first coord., last coord.
+Hand  L: 26:FALSE P: 26:FALSE
+Foot  L: 26:TRUE P: 26:TRUE
+
+Polyline: 83 - Setting of old polyline topology 
+Hand  L: 77:FALSE P: 77:FALSE
+Foot  L: 32:TRUE P: 258:TRUE
+
+Polyline: 27 - Setting of old polyline topology 
+Hand  L: 259:FALSE P: 259:FALSE
+Foot  L: 258:TRUE P: 32:TRUE
+
+Polyline: 258 - Setting of new polyline topology 
+Hand  L: 27:FALSE P: 83:FALSE
+Foot  L: 83:FALSE P: 27:FALSE
+
+Polyline: 259 - Deleting polyline
+Hand  L: 258:TRUE P: 258:TRUE
+Foot  L: 27:TRUE P: 27:TRUE
+
+Polyline: 27 - Deleting polyline
+Hand  L: 259:FALSE P: 259:FALSE
+Foot  L: 258:TRUE P: 32:TRUE
+
+Polyline: 258 - Setting of old polyline topology 
+Hand  L: 258:FALSE P: 83:FALSE
+Foot  L: 83:FALSE P: 27:FALSE
+
+Polyline: 32 - Setting of old polyline topology 
+Hand  L: 83:FALSE P: 258:FALSE
+Foot  L: 32:FALSE P: 32:FALSE
+
+Polyline: 258 - Setting of new polyline topology 
+Hand  L: 258:FALSE P: 83:FALSE
+Foot  L: 258:TRUE P: 32:TRUE
+
+Polyline: 258 - Setting of first coord., last coord.
+Hand  L: 258:FALSE P: 83:FALSE
+Foot  L: 258:TRUE P: 32:TRUE
+
+Polyline: 143 - Deleting polyline
+Hand  L: 54:FALSE P: 54:FALSE
+Foot  L: 118:TRUE P: 118:TRUE
+
+Polyline: 118 - Deleting polyline
+Hand  L: 143:FALSE P: 143:FALSE
+Foot  L: 144:TRUE P: 144:TRUE
+
+Polyline: 144 - Deleting polyline
+Hand  L: 118:FALSE P: 118:FALSE
+Foot  L: 136:TRUE P: 136:TRUE
+
+Polyline: 136 - Deleting polyline
+Hand  L: 144:FALSE P: 144:FALSE
+Foot  L: 137:TRUE P: 137:TRUE
+
+Polyline: 137 - Deleting polyline
+Hand  L: 136:FALSE P: 136:FALSE
+Foot  L: 393:TRUE P: 393:TRUE
+
+Polyline: 393 - Deleting polyline
+Hand  L: 137:FALSE P: 137:FALSE
+Foot  L: 138:TRUE P: 138:TRUE
+
+Polyline: 138 - Deleting polyline
+Hand  L: 393:FALSE P: 393:FALSE
+Foot  L: 139:TRUE P: 139:TRUE
+
+Polyline: 139 - Deleting polyline
+Hand  L: 138:FALSE P: 138:FALSE
+Foot  L: 119:TRUE P: 119:TRUE
+
+Polyline: 119 - Deleting polyline
+Hand  L: 139:FALSE P: 139:FALSE
+Foot  L: 123:FALSE P: 123:FALSE
+
+Polyline: 123 - Deleting polyline
+Hand  L: 141:FALSE P: 141:FALSE
+Foot  L: 119:FALSE P: 119:FALSE
+
+Polyline: 141 - Deleting polyline
+Hand  L: 122:FALSE P: 122:FALSE
+Foot  L: 123:TRUE P: 123:TRUE
+
+Polyline: 122 - Deleting polyline
+Hand  L: 146:FALSE P: 146:FALSE
+Foot  L: 141:TRUE P: 141:TRUE
+
+Polyline: 146 - Deleting polyline
+Hand  L: 140:FALSE P: 140:FALSE
+Foot  L: 122:TRUE P: 122:TRUE
+
+Polyline: 140 - Deleting polyline
+Hand  L: 121:FALSE P: 121:FALSE
+Foot  L: 146:TRUE P: 146:TRUE
+
+Polyline: 121 - Deleting polyline
+Hand  L: 120:FALSE P: 120:FALSE
+Foot  L: 140:TRUE P: 140:TRUE
+
+Polyline: 120 - Deleting polyline
+Hand  L: 125:FALSE P: 125:FALSE
+Foot  L: 121:TRUE P: 121:TRUE
+
+Polyline: 125 - Deleting polyline
+Hand  L: 159:FALSE P: 159:FALSE
+Foot  L: 120:TRUE P: 120:TRUE
+
+Polyline: 159 - Deleting polyline
+Hand  L: 124:FALSE P: 124:FALSE
+Foot  L: 125:TRUE P: 125:TRUE
+
+Polyline: 124 - Deleting polyline
+Hand  L: 113:FALSE P: 113:FALSE
+Foot  L: 159:TRUE P: 159:TRUE
+
+Polyline: 113 - Deleting polyline
+Hand  L: 64:FALSE P: 64:FALSE
+Foot  L: 124:TRUE P: 124:TRUE
+
+Polyline: 64 - Deleting polyline
+Hand  L: 60:FALSE P: 60:FALSE
+Foot  L: 113:TRUE P: 113:TRUE
+
+Polyline: 60 - Deleting polyline
+Hand  L: 489:FALSE P: 489:FALSE
+Foot  L: 64:TRUE P: 64:TRUE
+
+Polyline: 489 - Deleting polyline
+Hand  L: 158:FALSE P: 158:FALSE
+Foot  L: 60:TRUE P: 60:TRUE
+
+Polyline: 158 - Deleting polyline
+Hand  L: 59:FALSE P: 59:FALSE
+Foot  L: 489:TRUE P: 489:TRUE
+
+Polyline: 59 - Deleting polyline
+Hand  L: 160:FALSE P: 160:FALSE
+Foot  L: 158:TRUE P: 158:TRUE
+
+Polyline: 160 - Deleting polyline
+Hand  L: 58:FALSE P: 58:FALSE
+Foot  L: 59:TRUE P: 59:TRUE
+
+Polyline: 58 - Deleting polyline
+Hand  L: 57:FALSE P: 57:FALSE
+Foot  L: 160:TRUE P: 160:TRUE
+
+Polyline: 57 - Deleting polyline
+Hand  L: 161:FALSE P: 161:FALSE
+Foot  L: 58:TRUE P: 58:TRUE
+
+Polyline: 161 - Deleting polyline
+Hand  L: 409:FALSE P: 409:FALSE
+Foot  L: 57:TRUE P: 57:TRUE
+
+Polyline: 409 - Deleting polyline
+Hand  L: 61:FALSE P: 61:FALSE
+Foot  L: 161:TRUE P: 161:TRUE
+
+Polyline: 61 - Deleting polyline
+Hand  L: 63:FALSE P: 63:FALSE
+Foot  L: 409:TRUE P: 409:TRUE
+
+Polyline: 63 - Deleting polyline
+Hand  L: 156:FALSE P: 156:FALSE
+Foot  L: 61:TRUE P: 61:TRUE
+
+Polyline: 156 - Deleting polyline
+Hand  L: 155:FALSE P: 155:FALSE
+Foot  L: 63:TRUE P: 63:TRUE
+
+Polyline: 155 - Deleting polyline
+Hand  L: 346:FALSE P: 346:FALSE
+Foot  L: 156:TRUE P: 156:TRUE
+
+Polyline: 346 - Deleting polyline
+Hand  L: 62:FALSE P: 62:FALSE
+Foot  L: 155:TRUE P: 155:TRUE
+
+Polyline: 62 - Deleting polyline
+Hand  L: 154:FALSE P: 154:FALSE
+Foot  L: 346:TRUE P: 346:TRUE
+
+Polyline: 154 - Deleting polyline
+Hand  L: 76:FALSE P: 76:FALSE
+Foot  L: 62:TRUE P: 62:TRUE
+
+Polyline: 76 - Deleting polyline
+Hand  L: 345:FALSE P: 345:FALSE
+Foot  L: 154:TRUE P: 154:TRUE
+
+Polyline: 345 - Deleting polyline
+Hand  L: 56:FALSE P: 56:FALSE
+Foot  L: 76:TRUE P: 76:TRUE
+
+Polyline: 56 - Deleting polyline
+Hand  L: 114:TRUE P: 114:TRUE
+Foot  L: 345:TRUE P: 345:TRUE
+
+Polyline: 114 - Deleting polyline
+Hand  L: 56:TRUE P: 56:TRUE
+Foot  L: 344:TRUE P: 344:TRUE
+
+Polyline: 344 - Deleting polyline
+Hand  L: 114:FALSE P: 114:FALSE
+Foot  L: 153:TRUE P: 153:TRUE
+
+Polyline: 153 - Deleting polyline
+Hand  L: 344:FALSE P: 344:FALSE
+Foot  L: 152:TRUE P: 152:TRUE
+
+Polyline: 152 - Deleting polyline
+Hand  L: 153:FALSE P: 153:FALSE
+Foot  L: 149:TRUE P: 149:TRUE
+
+Polyline: 149 - Deleting polyline
+Hand  L: 152:FALSE P: 152:FALSE
+Foot  L: 147:TRUE P: 147:TRUE
+
+Polyline: 147 - Deleting polyline
+Hand  L: 149:FALSE P: 149:FALSE
+Foot  L: 148:FALSE P: 148:FALSE
+
+Polyline: 148 - Deleting polyline
+Hand  L: 129:FALSE P: 129:FALSE
+Foot  L: 147:FALSE P: 147:FALSE
+
+Polyline: 129 - Deleting polyline
+Hand  L: 150:FALSE P: 150:FALSE
+Foot  L: 148:TRUE P: 148:TRUE
+
+Polyline: 150 - Deleting polyline
+Hand  L: 406:FALSE P: 406:FALSE
+Foot  L: 129:TRUE P: 129:TRUE
+
+Polyline: 406 - Deleting polyline
+Hand  L: 151:FALSE P: 151:FALSE
+Foot  L: 150:TRUE P: 150:TRUE
+
+Polyline: 151 - Deleting polyline
+Hand  L: 157:FALSE P: 157:FALSE
+Foot  L: 406:TRUE P: 406:TRUE
+
+Polyline: 157 - Deleting polyline
+Hand  L: 134:FALSE P: 134:FALSE
+Foot  L: 151:TRUE P: 151:TRUE
+
+Polyline: 134 - Deleting polyline
+Hand  L: 116:FALSE P: 116:FALSE
+Foot  L: 157:TRUE P: 157:TRUE
+
+Polyline: 116 - Deleting polyline
+Hand  L: 142:FALSE P: 142:FALSE
+Foot  L: 134:TRUE P: 134:TRUE
+
+Polyline: 142 - Deleting polyline
+Hand  L: 135:FALSE P: 135:FALSE
+Foot  L: 116:TRUE P: 116:TRUE
+
+Polyline: 135 - Deleting polyline
+Hand  L: 130:FALSE P: 130:FALSE
+Foot  L: 142:TRUE P: 142:TRUE
+
+Polyline: 130 - Deleting polyline
+Hand  L: 131:FALSE P: 131:FALSE
+Foot  L: 135:TRUE P: 135:TRUE
+
+Polyline: 131 - Deleting polyline
+Hand  L: 163:FALSE P: 163:FALSE
+Foot  L: 130:TRUE P: 130:TRUE
+
+Polyline: 163 - Deleting polyline
+Hand  L: 403:FALSE P: 403:FALSE
+Foot  L: 131:TRUE P: 131:TRUE
+
+Polyline: 403 - Deleting polyline
+Hand  L: 402:FALSE P: 402:FALSE
+Foot  L: 163:TRUE P: 163:TRUE
+
+Polyline: 402 - Deleting polyline
+Hand  L: 145:FALSE P: 145:FALSE
+Foot  L: 403:TRUE P: 403:TRUE
+
+Polyline: 145 - Deleting polyline
+Hand  L: 133:FALSE P: 133:FALSE
+Foot  L: 402:TRUE P: 402:TRUE
+
+Polyline: 133 - Deleting polyline
+Hand  L: 394:FALSE P: 394:FALSE
+Foot  L: 145:TRUE P: 145:TRUE
+
+Polyline: 394 - Deleting polyline
+Hand  L: 117:FALSE P: 117:FALSE
+Foot  L: 133:TRUE P: 133:TRUE
+
+Polyline: 117 - Deleting polyline
+Hand  L: 115:TRUE P: 115:TRUE
+Foot  L: 394:TRUE P: 394:TRUE
+
+Polyline: 115 - Deleting polyline
+Hand  L: 117:TRUE P: 117:TRUE
+Foot  L: 330:TRUE P: 330:TRUE
+
+Polyline: 330 - Deleting polyline
+Hand  L: 115:FALSE P: 115:FALSE
+Foot  L: 132:TRUE P: 132:TRUE
+
+Polyline: 132 - Deleting polyline
+Hand  L: 330:FALSE P: 330:FALSE
+Foot  L: 78:TRUE P: 78:TRUE
+
+Polyline: 78 - Deleting polyline
+Hand  L: 132:FALSE P: 132:FALSE
+Foot  L: 85:TRUE P: 85:TRUE
+
+Polyline: 85 - Deleting polyline
+Hand  L: 78:FALSE P: 78:FALSE
+Foot  L: 80:FALSE P: 80:FALSE
+
+Polyline: 80 - Deleting polyline
+Hand  L: 79:TRUE P: 79:TRUE
+Foot  L: 85:FALSE P: 85:FALSE
+
+Polyline: 79 - Deleting polyline
+Hand  L: 80:TRUE P: 80:TRUE
+Foot  L: 326:TRUE P: 326:TRUE
+
+Polyline: 326 - Deleting polyline
+Hand  L: 79:FALSE P: 79:FALSE
+Foot  L: 327:TRUE P: 327:TRUE
+
+Polyline: 327 - Deleting polyline
+Hand  L: 326:FALSE P: 326:FALSE
+Foot  L: 128:TRUE P: 128:TRUE
+
+Polyline: 128 - Deleting polyline
+Hand  L: 327:FALSE P: 327:FALSE
+Foot  L: 324:TRUE P: 324:TRUE
+
+Polyline: 324 - Deleting polyline
+Hand  L: 128:FALSE P: 128:FALSE
+Foot  L: 325:TRUE P: 325:TRUE
+
+Polyline: 325 - Deleting polyline
+Hand  L: 324:FALSE P: 324:FALSE
+Foot  L: 52:TRUE P: 52:TRUE
+
+Polyline: 52 - Deleting polyline
+Hand  L: 325:FALSE P: 325:FALSE
+Foot  L: 404:TRUE P: 404:TRUE
+
+Polyline: 404 - Deleting polyline
+Hand  L: 52:FALSE P: 52:FALSE
+Foot  L: 53:TRUE P: 53:TRUE
+
+Polyline: 53 - Deleting polyline
+Hand  L: 404:FALSE P: 404:FALSE
+Foot  L: 127:TRUE P: 127:TRUE
+
+Polyline: 127 - Deleting polyline
+Hand  L: 53:FALSE P: 53:FALSE
+Foot  L: 328:TRUE P: 328:TRUE
+
+Polyline: 328 - Deleting polyline
+Hand  L: 127:FALSE P: 127:FALSE
+Foot  L: 329:TRUE P: 329:TRUE
+
+Polyline: 329 - Deleting polyline
+Hand  L: 328:FALSE P: 328:FALSE
+Foot  L: 81:TRUE P: 81:TRUE
+
+Polyline: 81 - Deleting polyline
+Hand  L: 329:FALSE P: 329:FALSE
+Foot  L: 331:TRUE P: 331:TRUE
+
+Polyline: 331 - Deleting polyline
+Hand  L: 81:FALSE P: 81:FALSE
+Foot  L: 82:TRUE P: 82:TRUE
+
+Polyline: 82 - Deleting polyline
+Hand  L: 331:FALSE P: 331:FALSE
+Foot  L: 50:TRUE P: 50:TRUE
+
+Polyline: 50 - Deleting polyline
+Hand  L: 82:FALSE P: 82:FALSE
+Foot  L: 126:TRUE P: 126:TRUE
+
+Polyline: 126 - Deleting polyline
+Hand  L: 50:FALSE P: 50:FALSE
+Foot  L: 51:TRUE P: 51:TRUE
+
+Polyline: 51 - Deleting polyline
+Hand  L: 126:FALSE P: 126:FALSE
+Foot  L: 405:TRUE P: 405:TRUE
+
+Polyline: 405 - Deleting polyline
+Hand  L: 51:FALSE P: 51:FALSE
+Foot  L: 84:TRUE P: 84:TRUE
+
+Polyline: 84 - Deleting polyline
+Hand  L: 405:FALSE P: 405:FALSE
+Foot  L: 162:TRUE P: 162:TRUE
+
+Polyline: 162 - Deleting polyline
+Hand  L: 84:FALSE P: 84:FALSE
+Foot  L: 315:TRUE P: 315:TRUE
+
+Polyline: 315 - Deleting polyline
+Hand  L: 162:FALSE P: 162:FALSE
+Foot  L: 49:TRUE P: 49:TRUE
+
+Polyline: 49 - Deleting polyline
+Hand  L: 315:FALSE P: 315:FALSE
+Foot  L: 48:TRUE P: 48:TRUE
+
+Polyline: 48 - Deleting polyline
+Hand  L: 49:FALSE P: 49:FALSE
+Foot  L: 309:TRUE P: 309:TRUE
+
+Polyline: 309 - Deleting polyline
+Hand  L: 48:FALSE P: 48:FALSE
+Foot  L: 312:TRUE P: 312:TRUE
+
+Polyline: 312 - Deleting polyline
+Hand  L: 309:FALSE P: 309:FALSE
+Foot  L: 360:TRUE P: 360:TRUE
+
+Polyline: 360 - Deleting polyline
+Hand  L: 312:FALSE P: 312:FALSE
+Foot  L: 361:TRUE P: 361:TRUE
+
+Polyline: 361 - Deleting polyline
+Hand  L: 360:FALSE P: 360:FALSE
+Foot  L: 364:TRUE P: 364:TRUE
+
+Polyline: 364 - Deleting polyline
+Hand  L: 361:FALSE P: 361:FALSE
+Foot  L: 363:TRUE P: 363:TRUE
+
+Polyline: 363 - Deleting polyline
+Hand  L: 364:FALSE P: 364:FALSE
+Foot  L: 362:TRUE P: 362:TRUE
+
+Polyline: 362 - Deleting polyline
+Hand  L: 363:FALSE P: 363:FALSE
+Foot  L: 310:TRUE P: 310:TRUE
+
+Polyline: 310 - Deleting polyline
+Hand  L: 362:FALSE P: 362:FALSE
+Foot  L: 311:TRUE P: 311:TRUE
+
+Polyline: 311 - Deleting polyline
+Hand  L: 310:FALSE P: 310:FALSE
+Foot  L: 314:TRUE P: 314:TRUE
+
+Polyline: 314 - Deleting polyline
+Hand  L: 311:FALSE P: 311:FALSE
+Foot  L: 313:TRUE P: 313:TRUE
+
+Polyline: 313 - Deleting polyline
+Hand  L: 314:FALSE P: 314:FALSE
+Foot  L: 354:TRUE P: 354:TRUE
+
+Polyline: 354 - Deleting polyline
+Hand  L: 313:FALSE P: 313:FALSE
+Foot  L: 355:TRUE P: 355:TRUE
+
+Polyline: 355 - Deleting polyline
+Hand  L: 354:FALSE P: 354:FALSE
+Foot  L: 359:TRUE P: 359:TRUE
+
+Polyline: 359 - Deleting polyline
+Hand  L: 355:FALSE P: 355:FALSE
+Foot  L: 358:TRUE P: 358:TRUE
+
+Polyline: 358 - Deleting polyline
+Hand  L: 359:FALSE P: 359:FALSE
+Foot  L: 357:TRUE P: 357:TRUE
+
+Polyline: 357 - Deleting polyline
+Hand  L: 358:FALSE P: 358:FALSE
+Foot  L: 356:TRUE P: 356:TRUE
+
+Polyline: 356 - Deleting polyline
+Hand  L: 357:FALSE P: 357:FALSE
+Foot  L: 332:TRUE P: 332:TRUE
+
+Polyline: 332 - Deleting polyline
+Hand  L: 356:FALSE P: 356:FALSE
+Foot  L: 348:TRUE P: 348:TRUE
+
+Polyline: 348 - Deleting polyline
+Hand  L: 332:FALSE P: 332:FALSE
+Foot  L: 347:TRUE P: 347:TRUE
+
+Polyline: 347 - Deleting polyline
+Hand  L: 348:FALSE P: 348:FALSE
+Foot  L: 353:TRUE P: 353:TRUE
+
+Polyline: 353 - Deleting polyline
+Hand  L: 347:FALSE P: 347:FALSE
+Foot  L: 352:TRUE P: 352:TRUE
+
+Polyline: 352 - Deleting polyline
+Hand  L: 353:FALSE P: 353:FALSE
+Foot  L: 351:TRUE P: 351:TRUE
+
+Polyline: 351 - Deleting polyline
+Hand  L: 352:FALSE P: 352:FALSE
+Foot  L: 350:TRUE P: 350:TRUE
+
+Polyline: 350 - Deleting polyline
+Hand  L: 351:FALSE P: 351:FALSE
+Foot  L: 349:TRUE P: 349:TRUE
+
+Polyline: 349 - Deleting polyline
+Hand  L: 350:FALSE P: 350:FALSE
+Foot  L: 317:TRUE P: 317:TRUE
+
+Polyline: 317 - Deleting polyline
+Hand  L: 349:FALSE P: 349:FALSE
+Foot  L: 33:FALSE P: 33:FALSE
+
+Polyline: 33 - Deleting polyline
+Hand  L: 320:FALSE P: 320:FALSE
+Foot  L: 317:FALSE P: 317:FALSE
+
+Polyline: 320 - Deleting polyline
+Hand  L: 42:FALSE P: 42:FALSE
+Foot  L: 33:TRUE P: 33:TRUE
+
+Polyline: 42 - Deleting polyline
+Hand  L: 408:FALSE P: 408:FALSE
+Foot  L: 320:TRUE P: 320:TRUE
+
+Polyline: 408 - Deleting polyline
+Hand  L: 407:FALSE P: 407:FALSE
+Foot  L: 42:TRUE P: 42:TRUE
+
+Polyline: 407 - Deleting polyline
+Hand  L: 45:FALSE P: 45:FALSE
+Foot  L: 408:TRUE P: 408:TRUE
+
+Polyline: 45 - Deleting polyline
+Hand  L: 43:FALSE P: 43:FALSE
+Foot  L: 407:TRUE P: 407:TRUE
+
+Polyline: 43 - Deleting polyline
+Hand  L: 44:FALSE P: 44:FALSE
+Foot  L: 45:TRUE P: 45:TRUE
+
+Polyline: 44 - Deleting polyline
+Hand  L: 30:FALSE P: 30:FALSE
+Foot  L: 43:TRUE P: 43:TRUE
+
+Polyline: 30 - Deleting polyline
+Hand  L: 31:TRUE P: 31:TRUE
+Foot  L: 44:TRUE P: 44:TRUE
+
+Polyline: 31 - Deleting polyline
+Hand  L: 30:TRUE P: 30:TRUE
+Foot  L: 41:TRUE P: 41:TRUE
+
+Polyline: 41 - Deleting polyline
+Hand  L: 31:FALSE P: 31:FALSE
+Foot  L: 323:TRUE P: 323:TRUE
+
+Polyline: 323 - Deleting polyline
+Hand  L: 41:FALSE P: 41:FALSE
+Foot  L: 38:TRUE P: 38:TRUE
+
+Polyline: 38 - Deleting polyline
+Hand  L: 323:FALSE P: 323:FALSE
+Foot  L: 39:TRUE P: 39:TRUE
+
+Polyline: 39 - Deleting polyline
+Hand  L: 38:FALSE P: 38:FALSE
+Foot  L: 321:TRUE P: 321:TRUE
+
+Polyline: 321 - Deleting polyline
+Hand  L: 39:FALSE P: 39:FALSE
+Foot  L: 411:TRUE P: 411:TRUE
+
+Polyline: 411 - Deleting polyline
+Hand  L: 321:FALSE P: 321:FALSE
+Foot  L: 40:TRUE P: 40:TRUE
+
+Polyline: 40 - Deleting polyline
+Hand  L: 411:FALSE P: 411:FALSE
+Foot  L: 29:TRUE P: 29:TRUE
+
+Polyline: 29 - Deleting polyline
+Hand  L: 40:FALSE P: 40:FALSE
+Foot  L: 322:TRUE P: 322:TRUE
+
+Polyline: 322 - Deleting polyline
+Hand  L: 29:FALSE P: 29:FALSE
+Foot  L: 36:TRUE P: 36:TRUE
+
+Polyline: 36 - Deleting polyline
+Hand  L: 322:FALSE P: 322:FALSE
+Foot  L: 437:TRUE P: 437:TRUE
+
+Polyline: 437 - Deleting polyline
+Hand  L: 36:FALSE P: 36:FALSE
+Foot  L: 456:TRUE P: 456:TRUE
+
+Polyline: 456 - Deleting polyline
+Hand  L: 437:FALSE P: 437:FALSE
+Foot  L: 37:TRUE P: 37:TRUE
+
+Polyline: 37 - Deleting polyline
+Hand  L: 456:FALSE P: 456:FALSE
+Foot  L: 34:TRUE P: 34:TRUE
+
+Polyline: 34 - Deleting polyline
+Hand  L: 37:FALSE P: 37:FALSE
+Foot  L: 438:TRUE P: 438:TRUE
+
+Polyline: 438 - Deleting polyline
+Hand  L: 34:FALSE P: 34:FALSE
+Foot  L: 35:TRUE P: 35:TRUE
+
+Polyline: 35 - Deleting polyline
+Hand  L: 438:FALSE P: 438:FALSE
+Foot  L: 46:TRUE P: 46:TRUE
+
+Polyline: 46 - Deleting polyline
+Hand  L: 35:FALSE P: 35:FALSE
+Foot  L: 47:TRUE P: 47:TRUE
+
+Polyline: 47 - Deleting polyline
+Hand  L: 46:FALSE P: 46:FALSE
+Foot  L: 28:TRUE P: 28:TRUE
+
+Polyline: 28 - Deleting polyline
+Hand  L: 47:FALSE P: 47:FALSE
+Foot  L: 55:TRUE P: 55:TRUE
+
+Polyline: 55 - Deleting polyline
+Hand  L: 28:FALSE P: 28:FALSE
+Foot  L: 410:TRUE P: 410:TRUE
+
+Polyline: 410 - Deleting polyline
+Hand  L: 55:FALSE P: 55:FALSE
+Foot  L: 54:TRUE P: 54:TRUE
+
+Polyline: 54 - Setting of new polyline topology 
+Hand  L: 54:FALSE P: 54:FALSE
+Foot  L: 143:TRUE P: 143:TRUE
+
+Polyline: 54 - Setting of new polyline topology 
+Hand  L: 54:FALSE P: 54:FALSE
+Foot  L: 54:TRUE P: 54:TRUE
+
+Polyline: 54 - Setting of first coord., last coord.
+Hand  L: 54:FALSE P: 54:FALSE
+Foot  L: 54:TRUE P: 54:TRUE
+
+Polyline: 68 - Deleting polyline
+Hand  L: 69:TRUE P: 69:TRUE
+Foot  L: 67:FALSE P: 67:FALSE
+
+Polyline: 67 - Deleting polyline
+Hand  L: 65:TRUE P: 65:TRUE
+Foot  L: 68:FALSE P: 68:FALSE
+
+Polyline: 65 - Deleting polyline
+Hand  L: 67:TRUE P: 67:TRUE
+Foot  L: 69:FALSE P: 69:FALSE
+
+Polyline: 69 - Setting of new polyline topology 
+Hand  L: 69:FALSE P: 69:FALSE
+Foot  L: 65:FALSE P: 65:FALSE
+
+Polyline: 69 - Setting of new polyline topology 
+Hand  L: 69:FALSE P: 69:FALSE
+Foot  L: 69:TRUE P: 69:TRUE
+
+Polyline: 69 - Setting of first coord., last coord.
+Hand  L: 69:FALSE P: 69:FALSE
+Foot  L: 69:TRUE P: 69:TRUE
+
+Polyline: 74 - Deleting polyline
+Hand  L: 73:FALSE P: 73:FALSE
+Foot  L: 431:TRUE P: 431:TRUE
+
+Polyline: 73 - Deleting polyline
+Hand  L: 467:TRUE P: 467:TRUE
+Foot  L: 74:TRUE P: 74:TRUE
+
+Polyline: 467 - Deleting polyline
+Hand  L: 73:TRUE P: 73:TRUE
+Foot  L: 464:TRUE P: 464:TRUE
+
+Polyline: 464 - Deleting polyline
+Hand  L: 467:FALSE P: 467:FALSE
+Foot  L: 465:TRUE P: 465:TRUE
+
+Polyline: 465 - Deleting polyline
+Hand  L: 464:FALSE P: 464:FALSE
+Foot  L: 460:TRUE P: 460:TRUE
+
+Polyline: 460 - Deleting polyline
+Hand  L: 465:FALSE P: 465:FALSE
+Foot  L: 466:TRUE P: 466:TRUE
+
+Polyline: 466 - Deleting polyline
+Hand  L: 460:FALSE P: 460:FALSE
+Foot  L: 72:TRUE P: 72:TRUE
+
+Polyline: 72 - Deleting polyline
+Hand  L: 466:FALSE P: 466:FALSE
+Foot  L: 71:TRUE P: 71:TRUE
+
+Polyline: 71 - Deleting polyline
+Hand  L: 72:FALSE P: 72:FALSE
+Foot  L: 70:TRUE P: 70:TRUE
+
+Polyline: 70 - Deleting polyline
+Hand  L: 71:FALSE P: 71:FALSE
+Foot  L: 75:TRUE P: 75:TRUE
+
+Polyline: 75 - Deleting polyline
+Hand  L: 70:FALSE P: 70:FALSE
+Foot  L: 432:FALSE P: 432:FALSE
+
+Polyline: 432 - Deleting polyline
+Hand  L: 431:FALSE P: 431:FALSE
+Foot  L: 75:FALSE P: 75:FALSE
+
+Polyline: 431 - Setting of new polyline topology 
+Hand  L: 431:FALSE P: 431:FALSE
+Foot  L: 432:TRUE P: 432:TRUE
+
+Polyline: 431 - Setting of new polyline topology 
+Hand  L: 431:FALSE P: 431:FALSE
+Foot  L: 431:TRUE P: 431:TRUE
+
+Polyline: 431 - Setting of first coord., last coord.
+Hand  L: 431:FALSE P: 431:FALSE
+Foot  L: 431:TRUE P: 431:TRUE
+
+Polyline: 77 - Setting of new polyline topology 
+Hand  L: 77:TRUE P: 77:TRUE
+Foot  L: 83:TRUE P: 83:TRUE
+
+Polyline: 83 - Deleting polyline
+Hand  L: 77:FALSE P: 77:FALSE
+Foot  L: 32:TRUE P: 258:TRUE
+
+Polyline: 32 - Setting of old polyline topology 
+Hand  L: 77:FALSE P: 258:FALSE
+Foot  L: 32:FALSE P: 32:FALSE
+
+Polyline: 258 - Setting of old polyline topology 
+Hand  L: 258:FALSE P: 77:FALSE
+Foot  L: 258:TRUE P: 32:TRUE
+
+Polyline: 77 - Setting of new polyline topology 
+Hand  L: 77:TRUE P: 77:TRUE
+Foot  L: 32:TRUE P: 258:TRUE
+
+Polyline: 77 - Setting of first coord., last coord.
+Hand  L: 77:TRUE P: 77:TRUE
+Foot  L: 32:TRUE P: 258:TRUE
+
+Polyline: 267 - Deleting polyline
+Hand  L: 268:FALSE P: 268:FALSE
+Foot  L: 257:TRUE P: 257:TRUE
+
+Polyline: 257 - Deleting polyline
+Hand  L: 267:FALSE P: 267:FALSE
+Foot  L: 247:TRUE P: 247:TRUE
+
+Polyline: 247 - Deleting polyline
+Hand  L: 257:FALSE P: 257:FALSE
+Foot  L: 90:TRUE P: 90:TRUE
+
+Polyline: 90 - Deleting polyline
+Hand  L: 247:FALSE P: 247:FALSE
+Foot  L: 446:TRUE P: 446:TRUE
+
+Polyline: 446 - Deleting polyline
+Hand  L: 90:FALSE P: 90:FALSE
+Foot  L: 249:TRUE P: 249:TRUE
+
+Polyline: 249 - Deleting polyline
+Hand  L: 446:FALSE P: 446:FALSE
+Foot  L: 481:TRUE P: 481:TRUE
+
+Polyline: 481 - Deleting polyline
+Hand  L: 249:FALSE P: 249:FALSE
+Foot  L: 251:TRUE P: 251:TRUE
+
+Polyline: 251 - Deleting polyline
+Hand  L: 481:FALSE P: 481:FALSE
+Foot  L: 250:TRUE P: 250:TRUE
+
+Polyline: 250 - Deleting polyline
+Hand  L: 251:FALSE P: 251:FALSE
+Foot  L: 248:TRUE P: 248:TRUE
+
+Polyline: 248 - Deleting polyline
+Hand  L: 250:FALSE P: 250:FALSE
+Foot  L: 256:TRUE P: 256:TRUE
+
+Polyline: 256 - Deleting polyline
+Hand  L: 248:FALSE P: 248:FALSE
+Foot  L: 451:TRUE P: 451:TRUE
+
+Polyline: 451 - Deleting polyline
+Hand  L: 256:FALSE P: 256:FALSE
+Foot  L: 254:TRUE P: 254:TRUE
+
+Polyline: 254 - Deleting polyline
+Hand  L: 451:FALSE P: 451:FALSE
+Foot  L: 255:TRUE P: 255:TRUE
+
+Polyline: 255 - Deleting polyline
+Hand  L: 254:FALSE P: 254:FALSE
+Foot  L: 253:TRUE P: 253:TRUE
+
+Polyline: 253 - Deleting polyline
+Hand  L: 255:FALSE P: 255:FALSE
+Foot  L: 442:TRUE P: 442:TRUE
+
+Polyline: 442 - Deleting polyline
+Hand  L: 253:FALSE P: 253:FALSE
+Foot  L: 441:TRUE P: 441:TRUE
+
+Polyline: 441 - Deleting polyline
+Hand  L: 442:FALSE P: 442:FALSE
+Foot  L: 457:TRUE P: 457:TRUE
+
+Polyline: 457 - Deleting polyline
+Hand  L: 441:FALSE P: 441:FALSE
+Foot  L: 88:TRUE P: 88:TRUE
+
+Polyline: 88 - Deleting polyline
+Hand  L: 457:FALSE P: 457:FALSE
+Foot  L: 440:TRUE P: 440:TRUE
+
+Polyline: 440 - Deleting polyline
+Hand  L: 88:FALSE P: 88:FALSE
+Foot  L: 439:TRUE P: 439:TRUE
+
+Polyline: 439 - Deleting polyline
+Hand  L: 440:FALSE P: 440:FALSE
+Foot  L: 87:TRUE P: 87:TRUE
+
+Polyline: 87 - Deleting polyline
+Hand  L: 439:FALSE P: 439:FALSE
+Foot  L: 89:TRUE P: 89:TRUE
+
+Polyline: 89 - Deleting polyline
+Hand  L: 87:FALSE P: 87:FALSE
+Foot  L: 485:TRUE P: 485:TRUE
+
+Polyline: 485 - Deleting polyline
+Hand  L: 89:FALSE P: 89:FALSE
+Foot  L: 448:TRUE P: 448:TRUE
+
+Polyline: 448 - Deleting polyline
+Hand  L: 485:FALSE P: 485:FALSE
+Foot  L: 252:TRUE P: 252:TRUE
+
+Polyline: 252 - Deleting polyline
+Hand  L: 448:FALSE P: 448:FALSE
+Foot  L: 447:TRUE P: 447:TRUE
+
+Polyline: 447 - Deleting polyline
+Hand  L: 252:FALSE P: 252:FALSE
+Foot  L: 86:TRUE P: 86:TRUE
+
+Polyline: 86 - Deleting polyline
+Hand  L: 447:FALSE P: 447:FALSE
+Foot  L: 482:TRUE P: 482:TRUE
+
+Polyline: 482 - Deleting polyline
+Hand  L: 86:FALSE P: 86:FALSE
+Foot  L: 268:TRUE P: 268:TRUE
+
+Polyline: 268 - Setting of new polyline topology 
+Hand  L: 268:FALSE P: 268:FALSE
+Foot  L: 267:TRUE P: 267:TRUE
+
+Polyline: 268 - Setting of new polyline topology 
+Hand  L: 268:FALSE P: 268:FALSE
+Foot  L: 268:TRUE P: 268:TRUE
+
+Polyline: 268 - Setting of first coord., last coord.
+Hand  L: 268:FALSE P: 268:FALSE
+Foot  L: 268:TRUE P: 268:TRUE
+
+Polyline: 107 - Deleting polyline
+Hand  L: 266:FALSE P: 266:FALSE
+Foot  L: 179:TRUE P: 179:TRUE
+
+Polyline: 179 - Deleting polyline
+Hand  L: 107:FALSE P: 107:FALSE
+Foot  L: 211:TRUE P: 211:TRUE
+
+Polyline: 211 - Deleting polyline
+Hand  L: 179:FALSE P: 179:FALSE
+Foot  L: 266:TRUE P: 266:TRUE
+
+Polyline: 266 - Setting of new polyline topology 
+Hand  L: 266:FALSE P: 266:FALSE
+Foot  L: 107:TRUE P: 107:TRUE
+
+Polyline: 266 - Setting of new polyline topology 
+Hand  L: 266:FALSE P: 266:FALSE
+Foot  L: 266:TRUE P: 266:TRUE
+
+Polyline: 266 - Setting of first coord., last coord.
+Hand  L: 266:FALSE P: 266:FALSE
+Foot  L: 266:TRUE P: 266:TRUE
+
+Polyline: 260 - Deleting polyline
+Hand  L: 262:TRUE P: 262:TRUE
+Foot  L: 417:TRUE P: 417:TRUE
+
+Polyline: 417 - Deleting polyline
+Hand  L: 260:FALSE P: 260:FALSE
+Foot  L: 176:TRUE P: 176:TRUE
+
+Polyline: 176 - Deleting polyline
+Hand  L: 417:FALSE P: 417:FALSE
+Foot  L: 418:TRUE P: 418:TRUE
+
+Polyline: 418 - Deleting polyline
+Hand  L: 176:FALSE P: 176:FALSE
+Foot  L: 263:FALSE P: 263:FALSE
+
+Polyline: 263 - Deleting polyline
+Hand  L: 261:TRUE P: 261:TRUE
+Foot  L: 418:FALSE P: 418:FALSE
+
+Polyline: 261 - Deleting polyline
+Hand  L: 263:TRUE P: 263:TRUE
+Foot  L: 419:TRUE P: 419:TRUE
+
+Polyline: 419 - Deleting polyline
+Hand  L: 261:FALSE P: 261:FALSE
+Foot  L: 175:TRUE P: 175:TRUE
+
+Polyline: 175 - Deleting polyline
+Hand  L: 419:FALSE P: 419:FALSE
+Foot  L: 416:TRUE P: 416:TRUE
+
+Polyline: 416 - Deleting polyline
+Hand  L: 175:FALSE P: 175:FALSE
+Foot  L: 262:FALSE P: 262:FALSE
+
+Polyline: 262 - Setting of new polyline topology 
+Hand  L: 262:FALSE P: 262:FALSE
+Foot  L: 416:FALSE P: 416:FALSE
+
+Polyline: 262 - Setting of new polyline topology 
+Hand  L: 262:FALSE P: 262:FALSE
+Foot  L: 262:TRUE P: 262:TRUE
+
+Polyline: 262 - Setting of first coord., last coord.
+Hand  L: 262:FALSE P: 262:FALSE
+Foot  L: 262:TRUE P: 262:TRUE
+
+Polyline: 473 - Deleting polyline
+Hand  L: 469:FALSE P: 469:FALSE
+Foot  L: 477:TRUE P: 477:TRUE
+
+Polyline: 469 - Deleting polyline
+Hand  L: 475:FALSE P: 475:FALSE
+Foot  L: 473:TRUE P: 473:TRUE
+
+Polyline: 475 - Deleting polyline
+Hand  L: 479:FALSE P: 479:FALSE
+Foot  L: 469:TRUE P: 469:TRUE
+
+Polyline: 479 - Deleting polyline
+Hand  L: 192:FALSE P: 192:FALSE
+Foot  L: 475:TRUE P: 475:TRUE
+
+Polyline: 192 - Deleting polyline
+Hand  L: 480:TRUE P: 480:TRUE
+Foot  L: 479:TRUE P: 479:TRUE
+
+Polyline: 480 - Deleting polyline
+Hand  L: 192:TRUE P: 192:TRUE
+Foot  L: 476:TRUE P: 476:TRUE
+
+Polyline: 476 - Deleting polyline
+Hand  L: 480:FALSE P: 480:FALSE
+Foot  L: 468:TRUE P: 468:TRUE
+
+Polyline: 468 - Deleting polyline
+Hand  L: 476:FALSE P: 476:FALSE
+Foot  L: 191:TRUE P: 191:TRUE
+
+Polyline: 191 - Deleting polyline
+Hand  L: 468:FALSE P: 468:FALSE
+Foot  L: 474:FALSE P: 474:FALSE
+
+Polyline: 474 - Deleting polyline
+Hand  L: 478:FALSE P: 478:FALSE
+Foot  L: 191:FALSE P: 191:FALSE
+
+Polyline: 478 - Deleting polyline
+Hand  L: 477:FALSE P: 477:FALSE
+Foot  L: 474:TRUE P: 474:TRUE
+
+Polyline: 477 - Setting of new polyline topology 
+Hand  L: 477:FALSE P: 477:FALSE
+Foot  L: 478:TRUE P: 478:TRUE
+
+Polyline: 477 - Setting of new polyline topology 
+Hand  L: 477:FALSE P: 477:FALSE
+Foot  L: 477:TRUE P: 477:TRUE
+
+Polyline: 477 - Setting of first coord., last coord.
+Hand  L: 477:FALSE P: 477:FALSE
+Foot  L: 477:TRUE P: 477:TRUE
+
+Polyline: 198 - Deleting polyline
+Hand  L: 199:FALSE P: 199:FALSE
+Foot  L: 199:TRUE P: 199:TRUE
+
+Polyline: 199 - Setting of new polyline topology 
+Hand  L: 199:FALSE P: 199:FALSE
+Foot  L: 198:TRUE P: 198:TRUE
+
+Polyline: 199 - Setting of new polyline topology 
+Hand  L: 199:FALSE P: 199:FALSE
+Foot  L: 199:TRUE P: 199:TRUE
+
+Polyline: 199 - Setting of first coord., last coord.
+Hand  L: 199:FALSE P: 199:FALSE
+Foot  L: 199:TRUE P: 199:TRUE
+
+Polyline: 200 - Deleting polyline
+Hand  L: 487:FALSE P: 487:FALSE
+Foot  L: 487:TRUE P: 487:TRUE
+
+Polyline: 487 - Setting of new polyline topology 
+Hand  L: 487:FALSE P: 487:FALSE
+Foot  L: 200:TRUE P: 200:TRUE
+
+Polyline: 487 - Setting of new polyline topology 
+Hand  L: 487:FALSE P: 487:FALSE
+Foot  L: 487:TRUE P: 487:TRUE
+
+Polyline: 487 - Setting of first coord., last coord.
+Hand  L: 487:FALSE P: 487:FALSE
+Foot  L: 487:TRUE P: 487:TRUE
+
+Polyline: 209 - Deleting polyline
+Hand  L: 210:TRUE P: 210:TRUE
+Foot  L: 204:TRUE P: 204:TRUE
+
+Polyline: 204 - Deleting polyline
+Hand  L: 209:FALSE P: 209:FALSE
+Foot  L: 210:FALSE P: 210:FALSE
+
+Polyline: 210 - Setting of new polyline topology 
+Hand  L: 210:FALSE P: 210:FALSE
+Foot  L: 204:FALSE P: 204:FALSE
+
+Polyline: 210 - Setting of new polyline topology 
+Hand  L: 210:FALSE P: 210:FALSE
+Foot  L: 210:TRUE P: 210:TRUE
+
+Polyline: 210 - Setting of first coord., last coord.
+Hand  L: 210:FALSE P: 210:FALSE
+Foot  L: 210:TRUE P: 210:TRUE
+
+Polyline: 282 - Deleting polyline
+Hand  L: 291:FALSE P: 291:FALSE
+Foot  L: 293:TRUE P: 293:TRUE
+
+Polyline: 291 - Deleting polyline
+Hand  L: 290:FALSE P: 290:FALSE
+Foot  L: 282:TRUE P: 282:TRUE
+
+Polyline: 290 - Deleting polyline
+Hand  L: 343:FALSE P: 343:FALSE
+Foot  L: 291:TRUE P: 291:TRUE
+
+Polyline: 343 - Deleting polyline
+Hand  L: 461:FALSE P: 461:FALSE
+Foot  L: 290:TRUE P: 290:TRUE
+
+Polyline: 461 - Deleting polyline
+Hand  L: 435:FALSE P: 435:FALSE
+Foot  L: 343:TRUE P: 343:TRUE
+
+Polyline: 435 - Deleting polyline
+Hand  L: 304:FALSE P: 304:FALSE
+Foot  L: 461:TRUE P: 461:TRUE
+
+Polyline: 304 - Deleting polyline
+Hand  L: 287:FALSE P: 287:FALSE
+Foot  L: 435:TRUE P: 435:TRUE
+
+Polyline: 287 - Deleting polyline
+Hand  L: 289:FALSE P: 289:FALSE
+Foot  L: 304:TRUE P: 304:TRUE
+
+Polyline: 289 - Deleting polyline
+Hand  L: 283:FALSE P: 283:FALSE
+Foot  L: 287:TRUE P: 287:TRUE
+
+Polyline: 283 - Deleting polyline
+Hand  L: 294:FALSE P: 294:FALSE
+Foot  L: 289:TRUE P: 289:TRUE
+
+Polyline: 294 - Deleting polyline
+Hand  L: 296:FALSE P: 296:FALSE
+Foot  L: 283:TRUE P: 283:TRUE
+
+Polyline: 296 - Deleting polyline
+Hand  L: 297:FALSE P: 297:FALSE
+Foot  L: 294:TRUE P: 294:TRUE
+
+Polyline: 297 - Deleting polyline
+Hand  L: 279:FALSE P: 279:FALSE
+Foot  L: 296:TRUE P: 296:TRUE
+
+Polyline: 279 - Deleting polyline
+Hand  L: 277:FALSE P: 277:FALSE
+Foot  L: 297:TRUE P: 297:TRUE
+
+Polyline: 277 - Deleting polyline
+Hand  L: 276:FALSE P: 276:FALSE
+Foot  L: 279:TRUE P: 279:TRUE
+
+Polyline: 276 - Deleting polyline
+Hand  L: 271:FALSE P: 271:FALSE
+Foot  L: 277:TRUE P: 277:TRUE
+
+Polyline: 271 - Deleting polyline
+Hand  L: 278:TRUE P: 278:TRUE
+Foot  L: 276:TRUE P: 276:TRUE
+
+Polyline: 278 - Deleting polyline
+Hand  L: 271:TRUE P: 271:TRUE
+Foot  L: 280:TRUE P: 280:TRUE
+
+Polyline: 280 - Deleting polyline
+Hand  L: 278:FALSE P: 278:FALSE
+Foot  L: 436:TRUE P: 436:TRUE
+
+Polyline: 436 - Deleting polyline
+Hand  L: 280:FALSE P: 280:FALSE
+Foot  L: 269:TRUE P: 269:TRUE
+
+Polyline: 269 - Deleting polyline
+Hand  L: 436:FALSE P: 436:FALSE
+Foot  L: 281:FALSE P: 281:FALSE
+
+Polyline: 281 - Deleting polyline
+Hand  L: 303:FALSE P: 303:FALSE
+Foot  L: 269:FALSE P: 269:FALSE
+
+Polyline: 303 - Deleting polyline
+Hand  L: 293:FALSE P: 293:FALSE
+Foot  L: 281:TRUE P: 281:TRUE
+
+Polyline: 293 - Setting of new polyline topology 
+Hand  L: 293:FALSE P: 293:FALSE
+Foot  L: 303:TRUE P: 303:TRUE
+
+Polyline: 293 - Setting of new polyline topology 
+Hand  L: 293:FALSE P: 293:FALSE
+Foot  L: 293:TRUE P: 293:TRUE
+
+Polyline: 293 - Setting of first coord., last coord.
+Hand  L: 293:FALSE P: 293:FALSE
+Foot  L: 293:TRUE P: 293:TRUE
+
+Polyline: 295 - Deleting polyline
+Hand  L: 285:FALSE P: 285:FALSE
+Foot  L: 298:TRUE P: 298:TRUE
+
+Polyline: 285 - Deleting polyline
+Hand  L: 284:TRUE P: 284:TRUE
+Foot  L: 295:TRUE P: 295:TRUE
+
+Polyline: 284 - Deleting polyline
+Hand  L: 285:TRUE P: 285:TRUE
+Foot  L: 286:TRUE P: 286:TRUE
+
+Polyline: 286 - Deleting polyline
+Hand  L: 284:FALSE P: 284:FALSE
+Foot  L: 288:FALSE P: 288:FALSE
+
+Polyline: 288 - Deleting polyline
+Hand  L: 292:FALSE P: 292:FALSE
+Foot  L: 286:FALSE P: 286:FALSE
+
+Polyline: 292 - Deleting polyline
+Hand  L: 298:FALSE P: 298:FALSE
+Foot  L: 288:TRUE P: 288:TRUE
+
+Polyline: 298 - Setting of new polyline topology 
+Hand  L: 298:FALSE P: 298:FALSE
+Foot  L: 292:TRUE P: 292:TRUE
+
+Polyline: 298 - Setting of new polyline topology 
+Hand  L: 298:FALSE P: 298:FALSE
+Foot  L: 298:TRUE P: 298:TRUE
+
+Polyline: 298 - Setting of first coord., last coord.
+Hand  L: 298:FALSE P: 298:FALSE
+Foot  L: 298:TRUE P: 298:TRUE
+
+Polyline: 299 - Deleting polyline
+Hand  L: 300:FALSE P: 300:FALSE
+Foot  L: 300:TRUE P: 300:TRUE
+
+Polyline: 300 - Setting of new polyline topology 
+Hand  L: 300:FALSE P: 300:FALSE
+Foot  L: 299:TRUE P: 299:TRUE
+
+Polyline: 300 - Setting of new polyline topology 
+Hand  L: 300:FALSE P: 300:FALSE
+Foot  L: 300:TRUE P: 300:TRUE
+
+Polyline: 300 - Setting of first coord., last coord.
+Hand  L: 300:FALSE P: 300:FALSE
+Foot  L: 300:TRUE P: 300:TRUE
+
+Polyline: 301 - Deleting polyline
+Hand  L: 302:FALSE P: 302:FALSE
+Foot  L: 302:TRUE P: 302:TRUE
+
+Polyline: 302 - Setting of new polyline topology 
+Hand  L: 302:FALSE P: 302:FALSE
+Foot  L: 301:TRUE P: 301:TRUE
+
+Polyline: 302 - Setting of new polyline topology 
+Hand  L: 302:FALSE P: 302:FALSE
+Foot  L: 302:TRUE P: 302:TRUE
+
+Polyline: 302 - Setting of first coord., last coord.
+Hand  L: 302:FALSE P: 302:FALSE
+Foot  L: 302:TRUE P: 302:TRUE
+
+Polyline: 307 - Deleting polyline
+Hand  L: 306:TRUE P: 306:TRUE
+Foot  L: 308:TRUE P: 308:TRUE
+
+Polyline: 306 - Deleting polyline
+Hand  L: 307:TRUE P: 307:TRUE
+Foot  L: 308:FALSE P: 308:FALSE
+
+Polyline: 308 - Setting of new polyline topology 
+Hand  L: 308:FALSE P: 308:FALSE
+Foot  L: 306:FALSE P: 306:FALSE
+
+Polyline: 308 - Setting of new polyline topology 
+Hand  L: 308:FALSE P: 308:FALSE
+Foot  L: 308:TRUE P: 308:TRUE
+
+Polyline: 308 - Setting of first coord., last coord.
+Hand  L: 308:FALSE P: 308:FALSE
+Foot  L: 308:TRUE P: 308:TRUE
+
+Polyline: 318 - Deleting polyline
+Hand  L: 319:TRUE P: 319:TRUE
+Foot  L: 316:TRUE P: 316:TRUE
+
+Polyline: 316 - Deleting polyline
+Hand  L: 318:FALSE P: 318:FALSE
+Foot  L: 319:FALSE P: 319:FALSE
+
+Polyline: 319 - Setting of new polyline topology 
+Hand  L: 319:FALSE P: 319:FALSE
+Foot  L: 316:FALSE P: 316:FALSE
+
+Polyline: 319 - Setting of new polyline topology 
+Hand  L: 319:FALSE P: 319:FALSE
+Foot  L: 319:TRUE P: 319:TRUE
+
+Polyline: 319 - Setting of first coord., last coord.
+Hand  L: 319:FALSE P: 319:FALSE
+Foot  L: 319:TRUE P: 319:TRUE
+
+Polyline: 340 - Deleting polyline
+Hand  L: 339:TRUE P: 339:TRUE
+Foot  L: 458:FALSE P: 458:FALSE
+
+Polyline: 339 - Deleting polyline
+Hand  L: 340:TRUE P: 340:TRUE
+Foot  L: 458:TRUE P: 458:TRUE
+
+Polyline: 458 - Setting of new polyline topology 
+Hand  L: 458:FALSE P: 458:FALSE
+Foot  L: 340:FALSE P: 340:FALSE
+
+Polyline: 458 - Setting of new polyline topology 
+Hand  L: 458:FALSE P: 458:FALSE
+Foot  L: 458:TRUE P: 458:TRUE
+
+Polyline: 458 - Setting of first coord., last coord.
+Hand  L: 458:FALSE P: 458:FALSE
+Foot  L: 458:TRUE P: 458:TRUE
+
+Polyline: 341 - Deleting polyline
+Hand  L: 342:TRUE P: 342:TRUE
+Foot  L: 342:FALSE P: 342:FALSE
+
+Polyline: 342 - Setting of new polyline topology 
+Hand  L: 342:FALSE P: 342:FALSE
+Foot  L: 341:FALSE P: 341:FALSE
+
+Polyline: 342 - Setting of new polyline topology 
+Hand  L: 342:FALSE P: 342:FALSE
+Foot  L: 342:TRUE P: 342:TRUE
+
+Polyline: 342 - Setting of first coord., last coord.
+Hand  L: 342:FALSE P: 342:FALSE
+Foot  L: 342:TRUE P: 342:TRUE
+
+Polyline: 395 - Deleting polyline
+Hand  L: 399:TRUE P: 399:TRUE
+Foot  L: 399:FALSE P: 399:FALSE
+
+Polyline: 399 - Setting of new polyline topology 
+Hand  L: 399:FALSE P: 399:FALSE
+Foot  L: 395:FALSE P: 395:FALSE
+
+Polyline: 399 - Setting of new polyline topology 
+Hand  L: 399:FALSE P: 399:FALSE
+Foot  L: 399:TRUE P: 399:TRUE
+
+Polyline: 399 - Setting of first coord., last coord.
+Hand  L: 399:FALSE P: 399:FALSE
+Foot  L: 399:TRUE P: 399:TRUE
+
+Polyline: 397 - Deleting polyline
+Hand  L: 398:TRUE P: 398:TRUE
+Foot  L: 396:TRUE P: 396:TRUE
+
+Polyline: 396 - Deleting polyline
+Hand  L: 397:FALSE P: 397:FALSE
+Foot  L: 398:FALSE P: 398:FALSE
+
+Polyline: 398 - Setting of new polyline topology 
+Hand  L: 398:FALSE P: 398:FALSE
+Foot  L: 396:FALSE P: 396:FALSE
+
+Polyline: 398 - Setting of new polyline topology 
+Hand  L: 398:FALSE P: 398:FALSE
+Foot  L: 398:TRUE P: 398:TRUE
+
+Polyline: 398 - Setting of first coord., last coord.
+Hand  L: 398:FALSE P: 398:FALSE
+Foot  L: 398:TRUE P: 398:TRUE
+
+Polyline: 400 - Deleting polyline
+Hand  L: 401:TRUE P: 401:TRUE
+Foot  L: 401:FALSE P: 401:FALSE
+
+Polyline: 401 - Setting of new polyline topology 
+Hand  L: 401:FALSE P: 401:FALSE
+Foot  L: 400:FALSE P: 400:FALSE
+
+Polyline: 401 - Setting of new polyline topology 
+Hand  L: 401:FALSE P: 401:FALSE
+Foot  L: 401:TRUE P: 401:TRUE
+
+Polyline: 401 - Setting of first coord., last coord.
+Hand  L: 401:FALSE P: 401:FALSE
+Foot  L: 401:TRUE P: 401:TRUE
+
+Polyline: 412 - Deleting polyline
+Hand  L: 414:FALSE P: 414:FALSE
+Foot  L: 414:TRUE P: 414:TRUE
+
+Polyline: 414 - Setting of new polyline topology 
+Hand  L: 414:FALSE P: 414:FALSE
+Foot  L: 412:TRUE P: 412:TRUE
+
+Polyline: 414 - Setting of new polyline topology 
+Hand  L: 414:FALSE P: 414:FALSE
+Foot  L: 414:TRUE P: 414:TRUE
+
+Polyline: 414 - Setting of first coord., last coord.
+Hand  L: 414:FALSE P: 414:FALSE
+Foot  L: 414:TRUE P: 414:TRUE
+
+Polyline: 462 - Deleting polyline
+Hand  L: 463:FALSE P: 463:FALSE
+Foot  L: 433:TRUE P: 433:TRUE
+
+Polyline: 433 - Deleting polyline
+Hand  L: 462:FALSE P: 462:FALSE
+Foot  L: 434:TRUE P: 434:TRUE
+
+Polyline: 434 - Deleting polyline
+Hand  L: 433:FALSE P: 433:FALSE
+Foot  L: 463:TRUE P: 463:TRUE
+
+Polyline: 463 - Setting of new polyline topology 
+Hand  L: 463:FALSE P: 463:FALSE
+Foot  L: 462:TRUE P: 462:TRUE
+
+Polyline: 463 - Setting of new polyline topology 
+Hand  L: 463:FALSE P: 463:FALSE
+Foot  L: 463:TRUE P: 463:TRUE
+
+Polyline: 463 - Setting of first coord., last coord.
+Hand  L: 463:FALSE P: 463:FALSE
+Foot  L: 463:TRUE P: 463:TRUE
+

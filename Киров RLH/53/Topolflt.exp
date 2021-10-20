@@ -1,0 +1,16 @@
+{$EXPR Половина точек }
+%NUMBER <= 984
+
+{$EXPR Исправили символ плана }
+@SYM_PL:N < 1000
+
+{$EXPR Неграница полигонов }
+(%LAREA =-1) and (%RAREA =-1)
+{$EXPR >Выражение 1< }
+%TOPOLOGICAL = FALSE 
+{$EXPR Короткие линии }
+%LENGTH <= 8.0
+
+{$EXPR Длина < 1м }
+%LENGTH <= 1.0
+

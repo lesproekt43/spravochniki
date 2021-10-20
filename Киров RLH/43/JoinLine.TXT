@@ -1,0 +1,32 @@
+
+******************* Slucovani linii *******************
+.................. Vytvareni seznamu ..................
+
+
+************* Srovnani retezu ***************
+    1: Dr:7560, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:     6TRUE,     4TRUE,     5TRUE, 
+************* Konec srovnani retezu ***************
+
+
+********** Seznam nehotovych retezcu **********
+********** konec seznamu nehotovych retezcu ***********
+Polyline: 6 - Setting of new polyline topology 
+Hand  L: 6:TRUE P: 6:TRUE
+Foot  L: 4:TRUE P: 4:TRUE
+
+Polyline: 4 - Deleting polyline
+Hand  L: 6:FALSE P: 6:FALSE
+Foot  L: 5:TRUE P: 5:TRUE
+
+Polyline: 5 - Deleting polyline
+Hand  L: 4:FALSE P: 4:FALSE
+Foot  L: 5:FALSE P: 5:FALSE
+
+Polyline: 6 - Setting of new polyline topology 
+Hand  L: 6:TRUE P: 6:TRUE
+Foot  L: 6:FALSE P: 6:FALSE
+
+Polyline: 6 - Setting of first coord., last coord.
+Hand  L: 6:TRUE P: 6:TRUE
+Foot  L: 6:FALSE P: 6:FALSE
+

@@ -1,0 +1,110 @@
+
+******************* Slucovani linii *******************
+.................. Vytvareni seznamu ..................
+
+
+************* Srovnani retezu ***************
+    1: Dr:1001, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  6561TRUE,  6553TRUE, 
+    1: Dr:1001, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  8079TRUE,  8037TRUE, 
+    1: Dr:1001, TRUE,TRUE;   -2,   -2 Kr:FALSE; L: 13345TRUE, 13344TRUE, 
+************* Konec srovnani retezu ***************
+
+
+********** Seznam nehotovych retezcu **********
+********** konec seznamu nehotovych retezcu ***********
+Polyline: 6604 - Setting of old polyline topology 
+Hand  L: 6560:FALSE P: 6605:TRUE
+Foot  L: 6561:TRUE P: 6558:TRUE
+
+Polyline: 6553 - Setting of old polyline topology 
+Hand  L: 6561:FALSE P: 6561:FALSE
+Foot  L: 6558:TRUE P: 6561:TRUE
+
+Polyline: 6561 - Setting of new polyline topology 
+Hand  L: 6604:FALSE P: 6553:FALSE
+Foot  L: 6553:TRUE P: 6553:TRUE
+
+Polyline: 6553 - Deleting polyline
+Hand  L: 6561:FALSE P: 6561:FALSE
+Foot  L: 6558:TRUE P: 6561:TRUE
+
+Polyline: 6558 - Setting of old polyline topology 
+Hand  L: 6561:FALSE P: 6604:FALSE
+Foot  L: 6603:TRUE P: 6695:FALSE
+
+Polyline: 6561 - Setting of old polyline topology 
+Hand  L: 6604:FALSE P: 6561:FALSE
+Foot  L: 6553:TRUE P: 6553:TRUE
+
+Polyline: 6561 - Setting of new polyline topology 
+Hand  L: 6604:FALSE P: 6561:FALSE
+Foot  L: 6558:TRUE P: 6561:TRUE
+
+Polyline: 6561 - Setting of first coord., last coord.
+Hand  L: 6604:FALSE P: 6561:FALSE
+Foot  L: 6558:TRUE P: 6561:TRUE
+
+Polyline: 8078 - Setting of old polyline topology 
+Hand  L: 8038:FALSE P: 8081:TRUE
+Foot  L: 8079:TRUE P: 8080:FALSE
+
+Polyline: 8080 - Setting of old polyline topology 
+Hand  L: 8076:TRUE P: 8037:FALSE
+Foot  L: 8078:FALSE P: 8079:TRUE
+
+Polyline: 8079 - Setting of new polyline topology 
+Hand  L: 8078:FALSE P: 8080:FALSE
+Foot  L: 8037:TRUE P: 8037:TRUE
+
+Polyline: 8037 - Deleting polyline
+Hand  L: 8079:FALSE P: 8079:FALSE
+Foot  L: 8076:TRUE P: 8080:TRUE
+
+Polyline: 8076 - Setting of old polyline topology 
+Hand  L: 8079:FALSE P: 8080:TRUE
+Foot  L: 8077:TRUE P: 8081:FALSE
+
+Polyline: 8080 - Setting of old polyline topology 
+Hand  L: 8076:TRUE P: 8079:FALSE
+Foot  L: 8078:FALSE P: 8079:TRUE
+
+Polyline: 8079 - Setting of new polyline topology 
+Hand  L: 8078:FALSE P: 8080:FALSE
+Foot  L: 8076:TRUE P: 8080:TRUE
+
+Polyline: 8079 - Setting of first coord., last coord.
+Hand  L: 8078:FALSE P: 8080:FALSE
+Foot  L: 8076:TRUE P: 8080:TRUE
+
+Polyline: 13342 - Setting of old polyline topology 
+Hand  L: 13306:FALSE P: 13345:TRUE
+Foot  L: 13316:TRUE P: 13319:TRUE
+
+Polyline: 13347 - Setting of old polyline topology 
+Hand  L: 13348:FALSE P: 13356:FALSE
+Foot  L: 13306:FALSE P: 13345:TRUE
+
+Polyline: 13345 - Setting of new polyline topology 
+Hand  L: 13342:TRUE P: 13347:FALSE
+Foot  L: 13344:TRUE P: 13344:TRUE
+
+Polyline: 13344 - Deleting polyline
+Hand  L: 13345:FALSE P: 13345:FALSE
+Foot  L: 13354:TRUE P: 13356:TRUE
+
+Polyline: 13354 - Setting of old polyline topology 
+Hand  L: 13345:FALSE P: 13361:FALSE
+Foot  L: 13358:TRUE P: 13363:FALSE
+
+Polyline: 13356 - Setting of old polyline topology 
+Hand  L: 13361:FALSE P: 13345:FALSE
+Foot  L: 13348:FALSE P: 13347:TRUE
+
+Polyline: 13345 - Setting of new polyline topology 
+Hand  L: 13342:TRUE P: 13347:FALSE
+Foot  L: 13354:TRUE P: 13356:TRUE
+
+Polyline: 13345 - Setting of first coord., last coord.
+Hand  L: 13342:TRUE P: 13347:FALSE
+Foot  L: 13354:TRUE P: 13356:TRUE
+

@@ -1,0 +1,105 @@
+[Parameters]
+SourSystem=1
+IniBarvaPlochy=-25592
+VztazneMeritko=10000.0000000000
+VyrezDleVybP=TRUE
+ConvFromTrueC=FALSE
+StartStereo=TRUE
+IniDruhPlochy=7550
+MezPripojeni=4.0000000000
+ChytatBodyLinie=TRUE
+ChytatKonceLinie=TRUE
+PouzivatTTFonty=TRUE
+PouzitLupu=TRUE
+PosunObrazovky=0.8000000000
+PocDesMistSter=2
+ImplJazyk=866
+NovyJazyk=866
+FontColor=0
+ScreenRes=96
+[Tools]
+X=20
+Y=0
+PocetNastroju=12
+1.Bitmap=111
+1.Command=2300
+2.Bitmap=116
+2.Command=2301
+3.Bitmap=101
+3.Command=3410
+4.Bitmap=103
+4.Command=3420
+5.Bitmap=107
+5.Command=3490
+6.Bitmap=105
+6.Command=3510
+7.Bitmap=108
+7.Command=3570
+8.Bitmap=102
+8.Command=3610
+9.Bitmap=104
+9.Command=3620
+10.Bitmap=106
+10.Command=3670
+11.Bitmap=110
+11.Command=3711
+12.Bitmap=115
+12.Command=995
+[ArrowTools]
+X=500
+Y=100
+[Windows]
+Pocet=1
+[Application]
+Flags=0
+X=8
+Y=73
+W=1600
+H=786
+Style=13565952
+ExStyle=0
+[1.Window]
+X=-32768
+Y=0
+W=804
+H=822
+Style=87031808
+ExStyle=0
+ZobrazitVolneKonce=TRUE
+ZobrazitPlochy=TRUE
+c:\rlh\99\09\01\b\vd.pra, Index=3
+c:\rlh\99\09\02\b\vd.pra, Index=4
+c:\rlh\99\09\02\b\vd.pra, TransparentKPlocham=TRUE
+c:\rlh\99\09\02\b\vd_l.pra, Index=5
+c:\rlh\99\09\01\b\vd_l.pra, Index=4
+Rozmer PH.Y=11598216.2567901611
+Rozmer PH.X=6404346.3724670410
+Rozmer LD.Y=11586446.3327941894
+Rozmer LD.X=6397758.4537811279
+[Blocks]
+Pocet=4
+0=c:\rlh\99\09\01\b\vd.blk
+1=c:\rlh\99\09\02\b\vd.blk
+2=c:\rlh\99\09\02\b\vd_l.blk
+3=c:\rlh\99\09\01\b\vd_l.blk
+[DescrFont]
+Height=-12
+Width=0
+Weight=400
+CharSet=204
+Pitch=0
+FaceName=Arial
+[TextWindowFont]
+Height=-9
+Width=0
+Weight=400
+CharSet=0
+Pitch=0
+FaceName=FixedSys
+[PrintFont]
+Height=-20
+Width=0
+Weight=700
+CharSet=204
+Pitch=0
+FaceName=Times New Roman

@@ -1,0 +1,221 @@
+
+******************* Slucovani linii *******************
+.................. Vytvareni seznamu ..................
+
+
+************* Srovnani retezu ***************
+    1: Dr:10000, TRUE,FALSE;   -2,   13 Kr:FALSE; L:    47TRUE,    46TRUE,    11TRUE,     1TRUE,    12TRUE,    14TRUE,    15TRUE, 
+    1: Dr:10000, FALSE,TRUE;   25,   -2 Kr:FALSE; L:    43TRUE,     5TRUE,     4TRUE, 
+************* Konec srovnani retezu ***************
+
+
+********** Seznam nehotovych retezcu **********
+********** konec seznamu nehotovych retezcu ***********
+Polyline: 47 - Setting of new polyline topology 
+Hand  L: 47:TRUE P: 47:TRUE
+Foot  L: 46:TRUE P: 46:TRUE
+
+Polyline: 46 - Deleting polyline
+Hand  L: 47:FALSE P: 47:FALSE
+Foot  L: 11:TRUE P: 11:TRUE
+
+Polyline: 11 - Deleting polyline
+Hand  L: 46:FALSE P: 46:FALSE
+Foot  L: 1:TRUE P: 1:TRUE
+
+Polyline: 1 - Deleting polyline
+Hand  L: 11:FALSE P: 11:FALSE
+Foot  L: 12:TRUE P: 12:TRUE
+
+Polyline: 12 - Deleting polyline
+Hand  L: 1:FALSE P: 1:FALSE
+Foot  L: 14:TRUE P: 14:TRUE
+
+Polyline: 14 - Deleting polyline
+Hand  L: 12:FALSE P: 12:FALSE
+Foot  L: 15:TRUE P: 15:TRUE
+
+Polyline: 15 - Deleting polyline
+Hand  L: 14:FALSE P: 14:FALSE
+Foot  L: 13:TRUE P: 13:TRUE
+
+Polyline: 13 - Deleting polyline
+Hand  L: 15:FALSE P: 15:FALSE
+Foot  L: 3:TRUE P: 3:TRUE
+
+Polyline: 3 - Deleting polyline
+Hand  L: 13:FALSE P: 13:FALSE
+Foot  L: 16:TRUE P: 16:TRUE
+
+Polyline: 16 - Deleting polyline
+Hand  L: 3:FALSE P: 3:FALSE
+Foot  L: 19:TRUE P: 19:TRUE
+
+Polyline: 19 - Deleting polyline
+Hand  L: 16:FALSE P: 16:FALSE
+Foot  L: 20:TRUE P: 20:TRUE
+
+Polyline: 20 - Deleting polyline
+Hand  L: 19:FALSE P: 19:FALSE
+Foot  L: 17:TRUE P: 17:TRUE
+
+Polyline: 17 - Deleting polyline
+Hand  L: 20:FALSE P: 20:FALSE
+Foot  L: 18:TRUE P: 18:TRUE
+
+Polyline: 18 - Deleting polyline
+Hand  L: 17:FALSE P: 17:FALSE
+Foot  L: 2:TRUE P: 2:TRUE
+
+Polyline: 2 - Deleting polyline
+Hand  L: 18:FALSE P: 18:FALSE
+Foot  L: 2:FALSE P: 2:FALSE
+
+Polyline: 47 - Setting of new polyline topology 
+Hand  L: 47:TRUE P: 47:TRUE
+Foot  L: 47:FALSE P: 47:FALSE
+
+Polyline: 47 - Setting of first coord., last coord.
+Hand  L: 47:TRUE P: 47:TRUE
+Foot  L: 47:FALSE P: 47:FALSE
+
+Polyline: 10 - Setting of new polyline topology 
+Hand  L: 10:TRUE P: 10:TRUE
+Foot  L: 42:TRUE P: 42:TRUE
+
+Polyline: 42 - Deleting polyline
+Hand  L: 10:FALSE P: 10:FALSE
+Foot  L: 40:TRUE P: 40:TRUE
+
+Polyline: 40 - Deleting polyline
+Hand  L: 42:FALSE P: 42:FALSE
+Foot  L: 41:TRUE P: 41:TRUE
+
+Polyline: 41 - Deleting polyline
+Hand  L: 40:FALSE P: 40:FALSE
+Foot  L: 9:TRUE P: 9:TRUE
+
+Polyline: 9 - Deleting polyline
+Hand  L: 41:FALSE P: 41:FALSE
+Foot  L: 37:TRUE P: 37:TRUE
+
+Polyline: 37 - Deleting polyline
+Hand  L: 9:FALSE P: 9:FALSE
+Foot  L: 39:TRUE P: 39:TRUE
+
+Polyline: 39 - Deleting polyline
+Hand  L: 37:FALSE P: 37:FALSE
+Foot  L: 8:TRUE P: 8:TRUE
+
+Polyline: 8 - Deleting polyline
+Hand  L: 39:FALSE P: 39:FALSE
+Foot  L: 38:TRUE P: 38:TRUE
+
+Polyline: 38 - Deleting polyline
+Hand  L: 8:FALSE P: 8:FALSE
+Foot  L: 36:TRUE P: 36:TRUE
+
+Polyline: 36 - Deleting polyline
+Hand  L: 38:FALSE P: 38:FALSE
+Foot  L: 35:TRUE P: 35:TRUE
+
+Polyline: 35 - Deleting polyline
+Hand  L: 36:FALSE P: 36:FALSE
+Foot  L: 34:TRUE P: 34:TRUE
+
+Polyline: 34 - Deleting polyline
+Hand  L: 35:FALSE P: 35:FALSE
+Foot  L: 48:TRUE P: 48:TRUE
+
+Polyline: 48 - Deleting polyline
+Hand  L: 34:FALSE P: 34:FALSE
+Foot  L: 33:TRUE P: 33:TRUE
+
+Polyline: 33 - Deleting polyline
+Hand  L: 48:FALSE P: 48:FALSE
+Foot  L: 7:TRUE P: 7:TRUE
+
+Polyline: 7 - Deleting polyline
+Hand  L: 33:FALSE P: 33:FALSE
+Foot  L: 32:TRUE P: 32:TRUE
+
+Polyline: 32 - Deleting polyline
+Hand  L: 7:FALSE P: 7:FALSE
+Foot  L: 31:TRUE P: 31:TRUE
+
+Polyline: 31 - Deleting polyline
+Hand  L: 32:FALSE P: 32:FALSE
+Foot  L: 30:TRUE P: 30:TRUE
+
+Polyline: 30 - Deleting polyline
+Hand  L: 31:FALSE P: 31:FALSE
+Foot  L: 27:TRUE P: 27:TRUE
+
+Polyline: 27 - Deleting polyline
+Hand  L: 30:FALSE P: 30:FALSE
+Foot  L: 28:TRUE P: 28:TRUE
+
+Polyline: 28 - Deleting polyline
+Hand  L: 27:FALSE P: 27:FALSE
+Foot  L: 29:TRUE P: 29:TRUE
+
+Polyline: 29 - Deleting polyline
+Hand  L: 28:FALSE P: 28:FALSE
+Foot  L: 26:TRUE P: 26:TRUE
+
+Polyline: 26 - Deleting polyline
+Hand  L: 29:FALSE P: 29:FALSE
+Foot  L: 22:TRUE P: 22:TRUE
+
+Polyline: 22 - Deleting polyline
+Hand  L: 26:FALSE P: 26:FALSE
+Foot  L: 44:TRUE P: 44:TRUE
+
+Polyline: 44 - Deleting polyline
+Hand  L: 22:FALSE P: 22:FALSE
+Foot  L: 45:TRUE P: 45:TRUE
+
+Polyline: 45 - Deleting polyline
+Hand  L: 44:FALSE P: 44:FALSE
+Foot  L: 21:TRUE P: 21:TRUE
+
+Polyline: 21 - Deleting polyline
+Hand  L: 45:FALSE P: 45:FALSE
+Foot  L: 6:TRUE P: 6:TRUE
+
+Polyline: 6 - Deleting polyline
+Hand  L: 21:FALSE P: 21:FALSE
+Foot  L: 24:TRUE P: 24:TRUE
+
+Polyline: 24 - Deleting polyline
+Hand  L: 6:FALSE P: 6:FALSE
+Foot  L: 23:TRUE P: 23:TRUE
+
+Polyline: 23 - Deleting polyline
+Hand  L: 24:FALSE P: 24:FALSE
+Foot  L: 25:TRUE P: 25:TRUE
+
+Polyline: 25 - Deleting polyline
+Hand  L: 23:FALSE P: 23:FALSE
+Foot  L: 43:TRUE P: 43:TRUE
+
+Polyline: 43 - Deleting polyline
+Hand  L: 25:FALSE P: 25:FALSE
+Foot  L: 5:TRUE P: 5:TRUE
+
+Polyline: 5 - Deleting polyline
+Hand  L: 43:FALSE P: 43:FALSE
+Foot  L: 4:TRUE P: 4:TRUE
+
+Polyline: 4 - Deleting polyline
+Hand  L: 5:FALSE P: 5:FALSE
+Foot  L: 4:FALSE P: 4:FALSE
+
+Polyline: 10 - Setting of new polyline topology 
+Hand  L: 10:TRUE P: 10:TRUE
+Foot  L: 10:FALSE P: 10:FALSE
+
+Polyline: 10 - Setting of first coord., last coord.
+Hand  L: 10:TRUE P: 10:TRUE
+Foot  L: 10:FALSE P: 10:FALSE
+

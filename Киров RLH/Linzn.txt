@@ -1,0 +1,3458 @@
+****************************************************
+*                                                  *
+*        Условные знаки TopoL для лесных           *
+*   тематических карт 1 : 10 000 - 1 : 100 000     *
+*     (С) 2002-2006 ЛесИС, Старостенко Д.А.        *
+*                                                  *
+****************************************************
+
+[LiniovaZnacka]
+kod = 10000
+nazev = nevidimaja
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.1
+    [Clanek]
+      uhel = 0
+      velikost = 0.1
+      vzdalenost = 1000.0
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10001
+nazev = spl_tonk_1
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.1
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10002
+nazev = spl_tonk_2
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.2
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10003
+nazev = spl_tonk_3
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10004
+nazev = spl_sred_4
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.4
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10006
+nazev = kvartal / spl_tolst_6
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.6
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10008
+nazev = spl_tolst_8
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.8
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10010
+nazev = spl_tolst_10
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 1.0
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10012
+nazev = spl_tolst_12
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 1.2
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10015
+nazev = spl_tolst_15
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 1.5
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10020
+nazev = spl_tolst_20
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 2.0
+  [end]
+[end]
+
+
+
+[LINIOVAZNACKA]
+   KOD = 7010
+   NAZEV = leshoz / 2 strih punktir
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.5
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  2.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.0
+         VZDALENOST =  1.40
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.60
+         VZDALENOST =  1.40
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17010
+   NAZEV = leshoz_L / 2 strih punktir
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.5
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  2.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.0
+         VZDALENOST =  1.40
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.60
+         VZDALENOST =  1.40
+      [END]
+   [END]
+   [Retez]
+     vzdalenost = 2.1
+     strana = L
+     sila = 4.0
+     barva = 2
+   [end]
+[END]
+
+[LiniovaZnacka]
+kod = 17020
+nazev = lesnich_L
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.4
+  [end]
+  [Retez]
+    vzdalenost = 2.1
+    strana = L
+    sila = 4.0
+    barva = 2
+  [end]
+[end]
+
+[LINIOVAZNACKA]
+   KOD = 7040
+   NAZEV = urochische / 3 strih punktir
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  2.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  2.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.0
+         VZDALENOST =  1.40
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.60
+         VZDALENOST =  1.40
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7050
+   NAZEV = LH_UCHASTKY
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST = 10.00
+         VZDALENOST =  1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  1.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7060
+   NAZEV = OBHOD
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST = 10.00
+         VZDALENOST =  1.60
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.40
+         VZDALENOST =  1.60
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7070
+   NAZEV = LESOPUNKT
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  1.60
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  1.60
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  1.60
+         VZDALENOST =  1.60
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7080
+   NAZEV = ARENDA_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  1.20
+         VZDALENOST = -1.20
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.00
+         VZDALENOST =  2.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17080
+   NAZEV = ARENDA_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL = 90
+         VELIKOST =  1.20
+         VZDALENOST = -1.20
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.00
+         VZDALENOST =  2.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7110
+   NAZEV = PRIOR_PRIRODOPOLZ
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  5.00
+         VZDALENOST =  1.60
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST =  1.10
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST =  1.10
+      [END]
+   [END]
+[END]
+
+[LiniovaZnacka]
+kod = 7120
+nazev = zona_zatoplenija_R
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.5
+  [end]
+  [Retez]
+    vzdalenost = 0.0
+    strana = L
+    sila = 0.4
+    [Clanek]
+      uhel = -90
+      velikost = 1.2
+      vzdalenost = 4.8
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 17120
+nazev = zona_zatoplenija_L
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.5
+  [end]
+  [Retez]
+    vzdalenost = 0.0
+    strana = L
+    sila = 0.4
+    [Clanek]
+      uhel = 90
+      velikost = 1.2
+      vzdalenost = 4.8
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7121
+nazev = zona_zatoplenija_R2
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+  [end]
+  [Retez]
+    vzdalenost = 0.0
+    strana = L
+    sila = 0.2
+    [Clanek]
+      uhel = -90
+      velikost = 1.2
+      vzdalenost = 4.8
+     [end]
+  [end]
+[end]
+
+[LINIOVAZNACKA]
+   KOD = 7130
+   NAZEV = ZAPR_POL_VOD_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 60
+         UHEL =  0.0
+         VELIKOST =  2.0
+         VZDALENOST =  0.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17130
+   NAZEV = ZAPR_POL_VOD_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 60
+         UHEL =  180.0
+         VELIKOST =  2.0
+         VZDALENOST =  0.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7140
+   NAZEV = ZAPRET_NEREST_POLOSA_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  1.30
+         VZDALENOST =  2.20
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  1.30
+         VZDALENOST =  0.40
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17140
+   NAZEV = ZAPRET_NEREST_POLOSA_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.30
+         VZDALENOST =  2.2
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.30
+         VZDALENOST =  0.4
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7150
+   NAZEV = PROTIVOEROZIONNYE_LESA
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.30
+         VZDALENOST =  1.40
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+ KOD = 7160
+ NAZEV = ZASCIT_POLOSA_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  1.50
+         VZDALENOST =  3.00
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST =  3.80
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+ KOD = 17160
+ NAZEV = ZASCIT_POLOSA_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.50
+         VZDALENOST =  3.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST =  3.80
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7170
+   NAZEV = OSOBOCENNYE_LESA_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 85
+         UHEL =  180.0
+         VELIKOST =  2.5
+         VZDALENOST =  4.5
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7180
+   NAZEV = ZELEN_ZONA_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 43
+         UHEL =  0.0
+         VELIKOST =  2.0
+         VZDALENOST =  1.0
+         LAMATZNACKU =  N
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17180
+   NAZEV = ZELEN_ZONA_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 43
+         UHEL =  180.0
+         VELIKOST =  2.0
+         VZDALENOST =  1.0
+         LAMATZNACKU =  N
+      [END]
+   [END]
+[END]
+
+
+[LINIOVAZNACKA]
+   KOD = 7190
+   NAZEV = LESOPARK_CHAST_ZEL_ZON_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 88
+         UHEL =  180.0
+         VELIKOST =  1.8
+         VZDALENOST =  5.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17190
+   NAZEV = LESOPARK_CHAST_ZEL_ZON_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 88
+         UHEL =  0.0
+         VELIKOST =  1.8
+         VZDALENOST =  5.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7195
+   NAZEV = GORODSKIE_LESA_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 88
+         UHEL =  180.0
+         VELIKOST =  1.8
+         VZDALENOST =  1.7
+      [END]
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 71
+         UHEL =  180.0
+         VELIKOST =  1.8
+         VZDALENOST =  2.5
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17195
+   NAZEV = GORODSKIE_LESA_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 88
+         UHEL =  0.0
+         VELIKOST =  1.8
+         VZDALENOST =  1.7
+      [END]
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 71
+         UHEL =  0.0
+         VELIKOST =  1.8
+         VZDALENOST =  2.5
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7200
+   NAZEV = OZU_R
+   [RETEZ]
+      VZDALENOST =  0.5
+      STRANA = R
+      SILA =  0.3
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST =  0.20
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17200
+   NAZEV = OZU_L
+   [RETEZ]
+      VZDALENOST =  0.5
+      strana = L
+      SILA =  0.3
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST =  0.20
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7201
+   NAZEV = OZU_3_R
+   [RETEZ]
+      VZDALENOST =  0.5
+      strana = R
+      SILA =  0.3
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST =  0.20
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST =  0.20
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.00
+         VZDALENOST =  10.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17201
+   NAZEV = OZU_3_L
+   [RETEZ]
+      VZDALENOST =  0.5
+      strana = L
+      SILA =  0.3
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST =  0.20
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST =  0.20
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.00
+         VZDALENOST =  10.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7211
+   NAZEV = OhrIstVod_1_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  1.20
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.40
+         VZDALENOST =  1.20
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17211
+   NAZEV = OhrIstVod_1_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  1.20
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.40
+         VZDALENOST =  1.20
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7212
+   NAZEV = OhrIstVod_2_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  2.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17212
+   NAZEV = OhrIstVod_2_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.50
+         VZDALENOST = -1.50
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  2.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7221
+   NAZEV = SanOhrKur_1
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 122
+         UHEL = 0.0
+         VELIKOST =  1.8
+         VZDALENOST = 3.6
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7222
+   NAZEV = SanOhrKur_2
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 122
+         UHEL = 0.0
+         VELIKOST =  1.8
+         VZDALENOST = 3.6
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  5.40
+         VZDALENOST =  5.40
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7223
+   NAZEV = SanOhrKur_3
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 122
+         UHEL = 0.0
+         VELIKOST =  1.8
+         VZDALENOST = 3.6
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  5.40
+         VZDALENOST =  2.50
+      [END]
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  0.40
+         VZDALENOST =  2.50
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17221
+   NAZEV = SanOhrKur_1_S
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 127
+         UHEL = 0.0
+         VELIKOST =  1.4
+         VZDALENOST = 3.8
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17222
+   NAZEV = SanOhrKur_2_S
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 127
+         UHEL = 0.0
+         VELIKOST =  1.4
+         VZDALENOST = 3.8
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  5.20
+         VZDALENOST =  5.20
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17223
+   NAZEV = SanOhrKur_3_S
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 127
+         UHEL = 0.0
+         VELIKOST =  1.4
+         VZDALENOST = 3.8
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  5.20
+         VZDALENOST =  2.50
+      [END]
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  0.20
+         VZDALENOST =  2.50
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7250
+   NAZEV = Zakazniki   
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  0.80
+         VZDALENOST =  -0.80
+      [END]
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  3.20
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.80
+         VZDALENOST =  -0.80
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  1.20
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7260
+   NAZEV = ZapovLesnUch   
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  270
+         VELIKOST =  0.80
+         VZDALENOST =  -0.80
+      [END]
+      [CLANEK]
+         UHEL =  0
+         VELIKOST =  3.20
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.80
+         VZDALENOST =  -0.80
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  0.70
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.20
+         VZDALENOST =  0.70
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7270
+   NAZEV = Nauch&Istorich_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.20
+         VZDALENOST =  0.40
+      [END]
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 84
+         UHEL = 180.0
+         VELIKOST =  2.0
+         VZDALENOST = -1.6
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.20
+         VZDALENOST =  0.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 17270
+   NAZEV = Nauch&Istorich_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.20
+         VZDALENOST =  0.40
+      [END]
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 84
+         UHEL = 0.0
+         VELIKOST =  2.0
+         VZDALENOST = -1.6
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.20
+         VZDALENOST =  0.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7280
+   NAZEV = Pamatniki_prirody_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 129
+         UHEL = 0.0
+         VELIKOST =  1.20
+         VZDALENOST = 1.50
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.00
+         VZDALENOST =  1.20
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7310
+   NAZEV = Gornye_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   270
+         VELIKOST =  2.00
+         VZDALENOST =  -2.00
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  5.00
+         VZDALENOST =  0.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7320
+   NAZEV = Pritundrovye
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.9
+      [CLANEK]
+         UHEL =   270
+         VELIKOST =  0.80
+         VZDALENOST =  0.40
+      [END]
+      [CLANEK]
+         UHEL =   270
+         VELIKOST =  2.00
+         VZDALENOST =  -0.80
+      [END]
+      [CLANEK]
+         UHEL =   270
+         VELIKOST =  0.80
+         VZDALENOST =  2.60
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7345
+   NAZEV = Bairach_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  6.00
+         VZDALENOST =  1.50
+      [END]
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 92
+         UHEL = 0.0
+         VELIKOST =  2.0
+         VZDALENOST = 0.5
+         KRESLITPOSLEDNI = N
+         KRESLITZBYTEK = A
+         LAMATZNACKU = N
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 7350
+   NAZEV = LES_V_PUSTYNE
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST = 2.40
+         VZDALENOST =  0.80
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST = -0.70
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.80
+         VZDALENOST =  0.80
+      [END]
+   [END]
+[END]
+
+[LiniovaZnacka]
+kod = 7370
+nazev = lesa II gruppy
+  [Retez]
+    vzdalenost =  0.0
+    sila =  0.2
+    [petrklic]
+         soubor = Cz_CLP.zvf
+         kod = 77
+         uhel =  0.0
+         velikost =  2.4
+         vzdalenost =  2.0
+    [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7380
+nazev = lesa III gruppy
+  [Retez]
+    vzdalenost =  0.0
+    sila =  0.2
+    [petrklic]
+         soubor = Cz_CLP.zvf
+         kod = 128
+         uhel =  0.0
+         velikost =  2.4
+         vzdalenost =  1.2
+    [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7390
+nazev = Speczon i specpolos L
+  [retez]
+     vzdalenost =  0.0
+     sila =  0.3
+     [clanek]
+        uhel =   270
+        velikost =  1.50
+        vzdalenost = -1.50
+     [end]
+     [clanek]
+        uhel =   0
+        velikost =  1.70
+        vzdalenost =  0.00
+     [end]
+     [clanek]
+        uhel =   270
+        velikost =  1.50
+        vzdalenost = -1.50
+     [end]
+     [clanek]
+        uhel =   0
+        velikost =  10.00
+        vzdalenost =  0.00
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7500
+nazev = granica kvartala / punktir_tolst_dlinn
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7501
+nazev = granica kvartala - doroga
+  [Retez]
+    vzdalenost = 0.8
+    strana = L
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 10.0
+    [end]
+  [end]
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+    [Clanek]
+      uhel = 0
+      velikost = 4.0
+      vzdalenost = 1.0
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7502
+nazev = granica kvartala - reka
+  [Retez]
+    vzdalenost = 0.8
+    strana = L
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 45.4
+    [end]
+  [end]
+  [Retez]
+    vzdalenost = 0.8
+    strana = R
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 0.0
+      vzdalenost = 35.4
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 10.0
+    [end]
+  [end]
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+    barva = 8
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7503
+nazev = granica kvartala po meliorat. kanave
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.6
+    barva = 13
+    [Clanek]
+      uhel = 0
+      velikost = 7.0
+      vzdalenost = 3.0
+    [end]
+  [end]
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+    barva = 8
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7504
+nazev = granica kvartala - ruch
+  [Retez]
+    vzdalenost = 0.8
+    strana = L
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 45.4
+    [end]
+  [end]
+  [Retez]
+    vzdalenost = 0.8
+    strana = R
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 0.0
+      vzdalenost = 35.4
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 10.0
+    [end]
+  [end]
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.1
+    barva = 8
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7505
+nazev = granica kvartala - po lin. objektam
+  [Retez]
+    vzdalenost = 0.8
+    strana = L
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 45.4
+    [end]
+  [end]
+  [Retez]
+    vzdalenost = 0.8
+    strana = R
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 0.0
+      vzdalenost = 35.4
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 1.6
+    [end]
+    [Clanek]
+      uhel = 0
+      velikost = 7.4
+      vzdalenost = 10.0
+    [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7515
+nazev = granica kletki kvartala
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.4
+    [Clanek]
+      uhel = 0
+      velikost = 3.4
+      vzdalenost = 1.4
+    [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7520
+nazev = granica proseki / punktir_tonk_korotk
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.2
+    [Clanek]
+      uhel = 0
+      velikost = 1.2
+      vzdalenost = 0.8
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7530
+nazev = proseki / punktir_tonk_korotk
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+    [Clanek]
+      uhel = 0
+      velikost = 2.0
+      vzdalenost = 1.0
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7550
+nazev = vydel / tochki
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+    [Clanek]
+      uhel = 0
+      velikost = 0.3
+      vzdalenost = 0.8
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7573
+nazev = zamyk. geohoda / punktir_tonk_dlin
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.2
+    [Clanek]
+      uhel = 0
+      velikost = 3.0
+      vzdalenost = 0.8
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7600
+nazev = doroga lesovoznaja
+  [Retez]
+    vzdalenost = 0.3
+    strana = L
+    sila = 0.15
+    [Clanek]
+      uhel = 0
+      velikost = 2.8
+      vzdalenost = 0.7
+     [end]
+  [end]
+  [Retez]
+    vzdalenost = 0.3
+    strana = R
+    sila = 0.15
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 7710
+nazev = granica deljanok
+  [Retez]
+    vzdalenost = 0.0
+    strana = L
+    sila = 0.15
+    [Clanek]
+      uhel = 0
+      velikost = 1.0
+      vzdalenost = 1.2
+    [end]
+    [Petrklic]
+      soubor = Cz_CLP.zvf
+      Kod = 61
+      uhel = 180
+      velikost = 1.8
+      vzdalenost = -0.6
+    [end]
+  [end]
+[end]
+
+
+
+
+[LINIOVAZNACKA]
+   KOD = 8011
+   NAZEV = prpoz_razryv_mag
+   [RETEZ]
+      vzdalenost =  0.6
+      sila =  0.2
+      strana = L
+   [END]
+   [RETEZ]
+      vzdalenost =  0.6
+      sila =  0.2
+      strana = R
+   [END]
+   [RETEZ]
+      vzdalenost =  0.4
+      sila =  0.4
+      strana = R
+      [CLANEK]
+         uhel = 0
+         velikost =  0.0
+         vzdalenost =  5.00
+      [END]
+      [CLANEK]
+         uhel = 90
+         velikost =  0.80
+         vzdalenost = 0.2
+      [END]
+      [CLANEK]
+         uhel = 90
+         velikost =  0.80
+         vzdalenost = 0.2
+      [END]
+      [CLANEK]
+         uhel = 90
+         velikost =  0.80
+         vzdalenost = 0.2
+      [END]
+      [CLANEK]
+         uhel = 90
+         velikost =  0.80
+         vzdalenost = 0.2
+      [END]
+      [CLANEK]
+         uhel = 90
+         velikost =  0.80
+         vzdalenost = 0.2
+      [END]
+      [CLANEK]
+         uhel = 90
+         velikost =  0.80
+         vzdalenost = 0.2
+      [END]
+   [END]
+[END]
+
+[LiniovaZnacka]
+kod = 8012
+nazev = prpoz_razryv
+   [RETEZ]
+      vzdalenost =  0.5
+      sila =  0.2
+      strana = L
+   [END]
+   [RETEZ]
+      vzdalenost =  0.5
+      sila =  0.2
+      strana = R
+   [END]
+  [Retez]
+    vzdalenost = 0.3
+    strana = L
+    sila = 0.1
+    [Clanek]
+      uhel = -90
+      velikost = 0.6
+      vzdalenost = -0.5
+     [end]
+    [Clanek]
+      uhel = -45
+      velikost = 0.8
+      vzdalenost = 1.2
+     [end]
+  [end]
+[end]
+
+[LINIOVAZNACKA]
+   KOD = 8020
+   NAZEV = MINERAL_POLOSY
+   [RETEZ]
+      vzdalenost =  0.0
+      sila =  0.3
+      [PETRKLIC]
+         SOUBOR = Cz_clp.zvf
+         KOD = 113
+         UHEL =  0.0
+         VELIKOST =  2.1
+         VZDALENOST =  -0.7
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 8030
+   NAZEV = PRPOZ_RAZRYV_LIST
+   [RETEZ]
+      vzdalenost =  1.0
+      sila =  0.2
+      strana = L
+   [END]
+   [RETEZ]
+      vzdalenost =  1.0
+      sila =  0.2
+      strana = R
+   [END]
+   [RETEZ]
+      vzdalenost =  0.0
+      sila =  0.2
+      [PETRKLIC]
+         SOUBOR = Cz_clp.zvf
+         KOD = 76
+         UHEL =  0.0
+         VELIKOST =  0.7
+         VZDALENOST =  5.0
+      [END]
+   [END]
+[END]
+
+[LiniovaZnacka]
+kod = 8040
+nazev = zona_ohrany_lesov_R
+  [Retez]
+    vzdalenost = 0
+    sila = 0.3
+  [end]
+  [Retez]
+    vzdalenost = 0.0
+    sila = 0.3
+    [Clanek]
+      uhel = -90
+      velikost = 0.8
+      vzdalenost = 9.0
+     [end]
+  [end]
+[end]
+
+
+
+
+[LINIOVAZNACKA]
+   KOD = 6080
+   NAZEV = talvegi / punktir_tonk_korot
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.3
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  2.5
+         VZDALENOST =  0.5
+      [END]
+   [END]
+[END]
+
+[LiniovaZnacka]
+kod = 6090
+nazev = ovrag_R
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+  [end]
+  [Retez]
+    vzdalenost = 0.1
+    strana = R
+    sila = 0.2
+    [Petrklic]
+      soubor = Cz_CLP.zvf
+      Kod = 96
+      uhel = 180
+      velikost = 2.2
+      vzdalenost = 1.0
+    [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 16090
+nazev = ovrag_L
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+  [end]
+  [Retez]
+    vzdalenost = 0.1
+    strana = L
+    sila = 0.2
+    [Petrklic]
+      soubor = Cz_CLP.zvf
+      Kod = 96
+      uhel = 0
+      velikost = 2.2
+      vzdalenost = 1.0
+    [end]
+  [end]
+[end]
+
+[LINIOVAZNACKA]
+ KOD = 6105
+ NAZEV = OTKOS_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  1.50
+         VZDALENOST =  -0.70
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST =  0.10
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+ KOD = 16105
+ NAZEV = OTKOS_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  1.50
+         VZDALENOST =  -0.70
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.70
+         VZDALENOST =  0.10
+      [END]
+   [END]
+[END]
+
+
+
+
+[LiniovaZnacka]
+kod = 5045
+nazev = reka per / punktir_tonk_sredn_2
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+    [Clanek]
+      uhel = 0
+      velikost = 3.0
+      vzdalenost = 1.0
+     [end]
+  [end]
+[end]
+
+[LINIOVAZNACKA]
+   KOD = 5047
+   NAZEV = ruchej per / punktir_tonk_korot
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  1.7
+         VZDALENOST =  0.8
+      [END]
+   [END]
+[END]
+
+
+
+
+[LiniovaZnacka]
+  kod = 4071
+  nazev = LEP_malaja
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [CLANEK]
+         UHEL =   45
+         VELIKOST = 1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =  -45
+         VELIKOST =  1.00
+         VZDALENOST = 2.60
+      [END]
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 90
+         UHEL =  0.0
+         VELIKOST =  2.5
+         VZDALENOST =  1.30
+      [END]
+      [CLANEK]
+         UHEL =   135
+         VELIKOST = 1.00
+         VZDALENOST = -1.00
+      [END]
+      [CLANEK]
+         UHEL =  -135
+         VELIKOST =  1.00
+         VZDALENOST = 6.00
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+   [END]
+[END]
+
+[LiniovaZnacka]
+  kod = 4072
+  nazev = LEP_bolshaja
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [CLANEK]
+         UHEL =   45
+         VELIKOST = 1.30
+         VZDALENOST = -1.30
+      [END]
+      [CLANEK]
+         UHEL =  -45
+         VELIKOST =  1.30
+         VZDALENOST = 2.70
+      [END]
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 90
+         UHEL =  0.0
+         VELIKOST =  4.0
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =   135
+         VELIKOST = 1.30
+         VZDALENOST = -1.30
+      [END]
+      [CLANEK]
+         UHEL =  -135
+         VELIKOST =  1.30
+         VZDALENOST = 2.70
+      [END]
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 90
+         UHEL =  0.0
+         VELIKOST =  4.0
+         VZDALENOST =  0.00
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+KOD = 4141
+NAZEV = NEFTEPR_NAZ
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.15
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 51
+         UHEL =  0.0
+         VELIKOST =  0.4
+         VZDALENOST =  15.0
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+KOD = 4142
+NAZEV = NEFTEPR_PODZ
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.15
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 51
+         UHEL =  0.0
+         VELIKOST =  0.4
+         VZDALENOST =  0.7
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.4
+         VZDALENOST =  0.6
+      [END]      
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.4
+         VZDALENOST =  0.6
+      [END]      
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.4
+         VZDALENOST =  1.1
+      [END]      
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+KOD = 4143
+NAZEV = GAZOPR_NAZ
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.15
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 76
+         UHEL =  0.0
+         VELIKOST =  0.4
+         VZDALENOST =  0.1
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  14.5
+         VZDALENOST =  0.5
+      [END]      
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+KOD = 4144
+NAZEV = GAZOPR_PODZ
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.15
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 76
+         UHEL =  0.0
+         VELIKOST =  0.4
+         VZDALENOST =  0.7
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.4
+         VZDALENOST =  0.6
+      [END]      
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.4
+         VZDALENOST =  0.6
+      [END]      
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.4
+         VZDALENOST =  1.1
+      [END]      
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+KOD = 4170
+NAZEV = LINIJA_SVJAZI
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 90
+         UHEL =  0.0
+         VELIKOST =  2.5
+         VZDALENOST =  6.0
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+   [END]
+[END]
+
+
+
+
+[LINIOVAZNACKA]
+   KOD = 3010
+   NAZEV = ZELEZ_DOROGA
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.9
+      BARVA = 13
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  6.0
+         VZDALENOST =  6.0
+      [END]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.5
+      SILA =  0.2
+      BARVA = 13
+      STRANA = R
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.5
+      SILA =  0.2
+      BARVA = 13
+      STRANA = L
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 3060
+   NAZEV = ZEL_DOR_UZKOKOL
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.7
+      SILA =  0.2
+      BARVA = 13
+      STRANA = R
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 71
+         UHEL =  0.0
+         VELIKOST =  2.5
+         VZDALENOST =  3.2
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 3200
+   NAZEV = Automagistral
+   BARVA = -31424
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  1.0
+      SILA =  0.1
+      BARVA = 13
+      STRANA = R
+   [END]
+   [RETEZ]
+      VZDALENOST =  1.0
+      SILA =  0.1
+      BARVA = 13
+      STRANA = L
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  1.9
+      BARVA = -31424
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 3210
+   NAZEV = Shosse uluchsh
+   BARVA = -31424
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [Clanek]
+        uhel = 0
+        velikost = 0.15
+        vzdalenost = 1.7
+      [end]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.65
+      SILA =  0.1
+      BARVA = 13
+      STRANA = R
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.65
+      SILA =  0.1
+      BARVA = 13
+      STRANA = L
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  1.2
+      BARVA = -31424
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 3220
+   NAZEV = Shosse
+   BARVA = -31424
+   [RETEZ]
+      VZDALENOST =  0.5
+      SILA =  0.1
+      BARVA = 13
+      STRANA = R
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.5
+      SILA =  0.1
+      BARVA = 13
+      STRANA = L
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.9
+      BARVA = -31424
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 3230
+   NAZEV = Uluchsh. grunt. doroga
+   BARVA = -31424
+   [RETEZ]
+      VZDALENOST =  0.30
+      SILA =  0.1
+      BARVA = 13
+      STRANA = R
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.30
+      SILA =  0.1
+      BARVA = 13
+      STRANA = L
+      [Clanek]
+        uhel = 0
+        velikost = 1.8
+        vzdalenost = 0.8
+      [end]
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      BARVA = -31424
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 13230
+   NAZEV = Uluchsh. grunt. doroga ch-b
+   [RETEZ]
+      VZDALENOST =  0.30
+      SILA =  0.1
+      STRANA = R
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.30
+      SILA =  0.1
+      STRANA = L
+   [END]
+[END]
+
+[LiniovaZnacka]
+kod = 3250
+nazev = doroga polevaja / punktir_tonk_sredn_1
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.3
+    [Clanek]
+      uhel = 0
+      velikost = 4.0
+      vzdalenost = 1.4
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 3270
+nazev = tropa / punktir_tonk_sredn_3
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.15
+    [Clanek]
+      uhel = 0
+      velikost = 3.0
+      vzdalenost = 2.0
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 3280
+nazev = zimnik
+  [Retez]
+    vzdalenost = 0
+    sila = 0.3
+    barva = 13
+    [Clanek]
+      uhel = 0
+      velikost = 3.0
+      vzdalenost = 5.0
+     [end]
+  [end]
+  [Retez]
+    vzdalenost = 0
+    sila = 0.3
+    barva = -19776
+    [Clanek]
+      uhel = 0
+      velikost = 3.0
+      vzdalenost = 1.0
+     [end]
+  [end]
+[end]
+
+
+
+
+[LINIOVAZNACKA]
+ KOD = 2010
+ NAZEV = GORODSKIE_ZEMLI
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.4
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.50
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.50
+         VZDALENOST = -0.50
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.50
+         VZDALENOST =  0.70
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.20
+         VZDALENOST =  1.20
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.20
+         VZDALENOST =  1.20
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.20
+         VZDALENOST =  1.20
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.50
+         VZDALENOST = -0.50
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.50
+         VZDALENOST = -0.50
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+ KOD = 2611
+ NAZEV = OGRADA_KAM_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.5
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.80
+         VZDALENOST =  2.00
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+ KOD = 2612
+ NAZEV = OGRADA_METAL_R
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.2
+      BARVA = 13
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.70
+         VZDALENOST =  -0.70
+      [END]
+      [PETRKLIC]
+         SOUBOR = Cz_CLP.zvf
+         KOD = 90
+         UHEL =  0.0
+         VELIKOST =  2.5
+         VZDALENOST =  1.5
+      [END]
+   [END]
+[END]
+
+
+[LiniovaZnacka]
+kod = 2720
+nazev = zelenye_nasazdenija
+  [Retez]
+    vzdalenost = 0
+    sila = 0.6
+    [Clanek]
+      uhel = 0
+      velikost = 0.2
+      vzdalenost = 2.2
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 2740
+nazev = linija_zastrojki
+  [Retez]
+    vzdalenost = 0
+    sila = 0.4
+    [Clanek]
+      uhel = 0
+      velikost = 6.0
+      vzdalenost = 2.2
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 2760
+nazev = otvod_zel_dorog
+  [Retez]
+    vzdalenost = 0
+    sila = 0.4
+    [Clanek]
+      uhel = 0
+      velikost = 6.0
+      vzdalenost = 1.6
+     [end]
+    [Clanek]
+      uhel = 0
+      velikost = 0.2
+      vzdalenost = 1.6
+     [end]
+    [Clanek]
+      uhel = 0
+      velikost = 0.2
+      vzdalenost = 1.6
+     [end]
+  [end]
+[end]
+
+[LINIOVAZNACKA]
+   KOD = 2770
+   NAZEV = gr_prom_zon_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.2
+      strana = R
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 60
+         UHEL =  0.0
+         VELIKOST =  1.6
+         VZDALENOST =  16.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2780
+   NAZEV = gr_osohr_prir_terr_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.4
+      strana = R
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 118
+         UHEL =  0.0
+         VELIKOST =  1.6
+         VZDALENOST =  16.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2790
+   NAZEV = gr_terr_pam_ist_i_kult_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.2
+      strana = R
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 112
+         UHEL =  0.0
+         VELIKOST =  1.6
+         VZDALENOST =  16.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2795
+   NAZEV = gr_ohr_zon_pam_ist_i_kult_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.4
+      strana = R
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 119
+         UHEL =  0.0
+         VELIKOST =  1.6
+         VZDALENOST =  16.0
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2800
+   NAZEV = gr_zon_ohran_landsh_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+     [Clanek]
+       uhel = 0
+       velikost = 3.2
+       vzdalenost = 3.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 5.0
+       vzdalenost = 3.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 1.8
+       vzdalenost = 0.0
+     [end]
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.0
+      strana = R
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 117
+         UHEL =  0.0
+         VELIKOST =  1.6
+         VZDALENOST =  14.4
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2851
+   NAZEV = gr_I_pojasa_san_ohr_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+     [Clanek]
+       uhel = 0
+       velikost = 2.8
+       vzdalenost = 3.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 2.2
+       vzdalenost = 0.0
+     [end]
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.0
+      strana = R
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 119
+         UHEL =  0.0
+         VELIKOST =  2.8
+         VZDALENOST =  5.2
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2852
+   NAZEV = gr_II_pojasa_san_ohr_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+     [Clanek]
+       uhel = 0
+       velikost = 2.8
+       vzdalenost = 3.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 2.2
+       vzdalenost = 0.0
+     [end]
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.0
+      strana = R
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 119
+         UHEL =  0.0
+         VELIKOST =  1.6
+         VZDALENOST =  6.4
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2853
+   NAZEV = gr_zzII_pojasa_san_ohr_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+     [Clanek]
+       uhel = 0
+       velikost = 2.8
+       vzdalenost = 2.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 0.3
+       vzdalenost = 2.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 2.2
+       vzdalenost = 0.0
+     [end]
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.0
+      strana = R
+      SILA =  0.2
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 119
+         UHEL =  0.0
+         VELIKOST =  1.6
+         VZDALENOST =  7.7
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2860
+   NAZEV = gr_vodoohr_zon_R
+   [Retez]
+     vzdalenost = 0
+     strana = L
+     sila = 0.4
+     [Clanek]
+       uhel = 0
+       velikost = 3.8
+       vzdalenost = 3.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 5.0
+       vzdalenost = 3.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 1.2
+       vzdalenost = 0.0
+     [end]
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.0
+      strana = R
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 120
+         UHEL =  0.0
+         VELIKOST =  2.2
+         VZDALENOST =  13.8
+         LAMATZNACKU = A
+         KRESLITZBYTEK = N
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 2870
+   NAZEV = gr_pribrez_zon_R
+   [Retez]
+     vzdalenost = 0
+     sila = 0.4
+     [Clanek]
+       uhel = 0
+       velikost = 3.8
+       vzdalenost = 2.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 0.3
+       vzdalenost = 2.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 5.0
+       vzdalenost = 2.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 0.3
+       vzdalenost = 2.0
+     [end]
+     [Clanek]
+       uhel = 0
+       velikost = 1.2
+       vzdalenost = 0.0
+     [end]
+   [end] 
+   [RETEZ]
+      VZDALENOST =  0.0
+      strana = R
+      SILA =  0.3
+      [PETRKLIC]
+         SOUBOR = CZ_CLP.ZVF
+         KOD = 120
+         UHEL =  0.0
+         VELIKOST =  2.2
+         VZDALENOST =  16.4
+         LAMATZNACKU = A
+         KRESLITZBYTEK = N
+      [END]
+   [END]
+[END]
+
+
+
+[LINIOVAZNACKA]
+   KOD = 1010
+   NAZEV = GosGranica
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_clp.zvf
+         KOD = 70
+         UHEL =  0.0
+         VELIKOST =  4.0
+         VZDALENOST =  2.4
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 11010
+   NAZEV = GosGranica_L
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.1
+      BARVA = 13
+      [PETRKLIC]
+         SOUBOR = Cz_clp.zvf
+         KOD = 70
+         UHEL =  0.0
+         VELIKOST =  4.0
+         VZDALENOST =  2.4
+      [END]
+   [END]
+   [Retez]
+     vzdalenost = 2.1
+     strana = L
+     sila = 4.0
+     barva = 11
+   [end]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 1020
+   NAZEV = Subjekt / STRIH_PUNKTIR
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.0
+         VZDALENOST =  1.4
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.6
+         VZDALENOST =  1.4
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.6
+         VZDALENOST =  1.4
+      [END]
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 11020
+   NAZEV = Subjekt_L / STRIH_PUNKTIR
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  4.0
+         VZDALENOST =  1.4
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.6
+         VZDALENOST =  1.4
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  0.6
+         VZDALENOST =  1.4
+      [END]
+   [END]
+   [Retez]
+     vzdalenost = 2.1
+     strana = L
+     sila = 4.0
+     barva = 12
+   [end]
+[END]
+
+[LiniovaZnacka]
+kod = 1030
+nazev = adm. rajon / shtrih punktir
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.5
+    [Clanek]
+      uhel = 0
+      velikost = 6.0
+      vzdalenost = 1.4
+     [end]
+    [Clanek]
+      uhel = 0
+      velikost = 0.6
+      vzdalenost = 1.4
+     [end]
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 11030
+nazev = adm. rajon_L / shtrih punktir
+  [Retez]
+    vzdalenost = 0
+    strana = L
+    sila = 0.5
+    [Clanek]
+      uhel = 0
+      velikost = 6.0
+      vzdalenost = 1.4
+     [end]
+    [Clanek]
+      uhel = 0
+      velikost = 0.6
+      vzdalenost = 1.4
+     [end]
+  [end]
+   [Retez]
+     vzdalenost = 2.1
+     strana = L
+     sila = 4.0
+     barva = 12
+   [end]
+[end]
+
+[LINIOVAZNACKA]
+   KOD = 1240
+   NAZEV = GRANICA_ZAPOVEDNIKA
+   [RETEZ]
+      VZDALENOST =  0.0
+      SILA =  0.6
+      BARVA = 13
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.20
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL =  90
+         VELIKOST =  0.80
+         VZDALENOST = -0.80
+      [END]
+      [CLANEK]
+         UHEL =   0
+         VELIKOST =  3.20
+         VZDALENOST =  0.00
+      [END]
+      [CLANEK]
+         UHEL = 270
+         VELIKOST =  0.80
+         VZDALENOST = -0.80
+      [END]
+   [END]
+[END]
+
+
+
+
+[LINIOVAZNACKA]
+KOD = 10080
+NAZEV = RAMKA_PLANA_R
+   [RETEZ]
+      VZDALENOST = 6.0
+      STRANA = R
+      SILA =  1.2
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 16.0
+      STRANA = R
+      SILA =  0.3
+      BARVA = 13
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+KOD = 10081
+NAZEV = RAMKA_SXEMY_R
+   [RETEZ]
+      VZDALENOST = 10.0
+      STRANA = R
+      SILA =  1.2
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 20.0
+      STRANA = R
+      SILA =  0.3
+      BARVA = 13
+   [END]
+[END]
+
+[LiniovaZnacka]
+kod = 10090
+nazev = belaja_maska
+  [Retez]
+    vzdalenost = 50.0
+    strana = L
+    sila = 100.0
+    barva = 15
+  [end]
+[end]
+
+[LiniovaZnacka]
+kod = 10091
+nazev = lin_masshtab
+  [Retez]
+    vzdalenost = 0.2
+    strana = R
+    sila = 0.3
+    barva = 13
+  [end]
+  [Retez]
+    vzdalenost = 0.5
+    strana = R
+    sila = 0.8
+    barva = 13
+  [end]
+[end]
+
+[LINIOVAZNACKA]
+KOD = 10100
+NAZEV = RAMKA_KARTY_R
+   [RETEZ]
+      VZDALENOST = 1.7
+      STRANA = R
+      SILA =  0.3
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 4.0
+      STRANA = R
+      SILA =  2.0
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 6.5
+      STRANA = R
+      SILA =  0.3
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 7.5
+      STRANA = R
+      SILA =  0.3
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 15.0
+      STRANA = R
+      SILA =  0.3
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 16.0
+      STRANA = R
+      SILA =  0.3
+      BARVA = 13
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+   KOD = 10101
+   NAZEV = DECOR_VST
+   [RETEZ]
+      VZDALENOST =  11.2
+      STRANA = R
+      SILA =  5.2
+   [END]
+[END]
+
+[LINIOVAZNACKA]
+KOD = 10105
+NAZEV = RAMKA_KARTY_L
+   [RETEZ]
+      VZDALENOST = 0
+      STRANA = L
+      SILA =  0.5
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 24.0
+      STRANA = L
+      SILA =  3.0
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 26.7
+      STRANA = L
+      SILA =  1.6
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 28.2
+      STRANA = L
+      SILA =  0.8
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 29.4
+      STRANA = L
+      SILA =  0.5
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 30.6
+      STRANA = L
+      SILA =  0.2
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 31.8
+      STRANA = L
+      SILA =  0.5
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 33.0
+      STRANA = L
+      SILA =  0.8
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 34.5
+      STRANA = L
+      SILA =  1.6
+      BARVA = 13
+   [END]
+   [RETEZ]
+      VZDALENOST = 37.2
+      STRANA = L
+      SILA =  3.0
+      BARVA = 13
+   [END]
+[END]

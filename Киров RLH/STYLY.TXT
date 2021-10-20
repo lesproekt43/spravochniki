@@ -1,0 +1,195 @@
+
+[Styl]
+   Druh = 1
+   Nazev = Formula
+   Rezim = M
+   Font = 5
+   Vyska =     3.80
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 2
+   Nazev = PovorTochki
+   Rezim = M
+   Font = 5
+   Vyska =     2.00
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  2.00000000000045E-0001
+[End]
+
+[Styl]
+   Druh = 3
+   Nazev = N_Kvartala
+   Rezim = M
+   Font = 9
+   Vyska =     9.80
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  3.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 4
+   Nazev = pl_Kvartala
+   Rezim = M
+   Font = 9
+   Vyska =     5.50
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  3.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 5
+   Nazev = Smezestva
+   Rezim = M
+   Font = 6
+   Vyska =     5.00
+   Sirka =     1.50
+   Sklon =    10.00
+   Rozestupy =     0.80
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 6
+   Nazev = Legenda_1
+   Rezim = M
+   Font = 9
+   Vyska =     4.50
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 7
+   Nazev = Legenda_2
+   Rezim = M
+   Font = 9
+   Vyska =     2.80
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+[Styl]
+   Druh = 9
+   Nazev = Ruchji
+   Rezim = M
+   Font = 9
+   Vyska =     4.00
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = -24
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 10
+   Nazev = Reki_m
+   Rezim = M
+   Font = 9
+   Vyska =     4.00
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = -24
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 11
+   Nazev = Reka
+   Rezim = M
+   Font = 9
+   Vyska =     5.70
+   Sirka =     1.00
+   Sklon =    12.00
+   Rozestupy =     0.00
+   Barva = -24
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 12
+   Nazev = Zveno_1
+   Rezim = M
+   Font = 5
+   Vyska =     5.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = 1
+   DruhCary = 0
+   SilaPera =  0.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 13
+   Nazev = Zveno_2
+   Rezim = M
+   Font = 5
+   Vyska =     5.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -25600
+   DruhCary = 0
+   SilaPera =  0.00000000000000E+0000
+[End]
+
+[Styl]
+   Druh = 14
+   Nazev = N_klatki
+   Rezim = M
+   Font = 10
+   Vyska =    11.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]
+
+[Styl]
+   Druh = 15
+   Nazev = LsLegenda
+   Rezim = M
+   Font = 9
+   Vyska =     5.00
+   Sirka =     1.00
+   Sklon =     0.00
+   Rozestupy =     0.00
+   Barva = -1
+   DruhCary = 0
+   SilaPera =  1.00000000000051E-0002
+[End]

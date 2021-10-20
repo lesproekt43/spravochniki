@@ -1,0 +1,188 @@
+
+******************* Slucovani linii *******************
+.................. Vytvareni seznamu ..................
+
+
+************* Srovnani retezu ***************
+    1: Dr:7510, FALSE,TRUE;  186,   -2 Kr:FALSE; L:     6TRUE, 
+    1: Dr:7100, FALSE,TRUE;   20,   -2 Kr:FALSE; L:    12TRUE, 
+    1: Dr:7510, TRUE,FALSE;   -2,   22 Kr:FALSE; L:    17TRUE, 
+    1: Dr:7510, TRUE,FALSE;   -2,   12 Kr:FALSE; L:    20TRUE, 
+    1: Dr:7100, FALSE,TRUE;   17,   -2 Kr:FALSE; L:    22TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:    71TRUE, 
+    1: Dr:7100, TRUE,FALSE;   -2,  864 Kr:FALSE; L:   134TRUE, 
+    1: Dr:7100, TRUE,FALSE;   -2,    6 Kr:FALSE; L:   186TRUE, 
+    1: Dr:7550, TRUE,FALSE;   -2,  469 Kr:FALSE; L:   453TRUE, 
+    1: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   462TRUE, 
+    1: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   463TRUE, 
+    1: Dr:5047, TRUE,FALSE;   -2,  453 Kr:FALSE; L:   469TRUE, 
+    1: Dr:5047, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   470TRUE, 
+    1: Dr:5047, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   471TRUE, 
+    1: Dr:7550, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   481TRUE,   506TRUE, 
+    1: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   484TRUE, 
+    1: Dr:7510, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:   494TRUE,   507TRUE, 
+    1: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   540TRUE, 
+    1: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   542TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   543TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   544TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   546TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   548TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   553TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   566TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   573TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   574TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   585TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   590TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   592TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   593TRUE, 
+    1: Dr:7600, FALSE,TRUE;  598,   -2 Kr:FALSE; L:   597TRUE, 
+    1: Dr:7145, TRUE,FALSE;   -2,  597 Kr:FALSE; L:   598TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   604TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   608TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   614TRUE, 
+    1: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   642TRUE, 
+    1: Dr:5044, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   648TRUE, 
+    1: Dr:10000, FALSE,TRUE;  191,   -2 Kr:FALSE; L:   811TRUE, 
+    1: Dr:10000, FALSE,TRUE;  813,   -2 Kr:FALSE; L:   814TRUE, 
+    1: Dr:7510, FALSE,TRUE;  134,   -2 Kr:FALSE; L:   864TRUE, 
+    1: Dr:7550, TRUE,TRUE;   -2,   -2 Kr:FALSE; L:  1104FALSE,  1103TRUE, 
+************* Konec srovnani retezu ***************
+
+
+********** Seznam nehotovych retezcu **********
+    1: Dr:7510, FALSE,TRUE;  186,   -2 Kr:FALSE; L:     6TRUE, 
+    2: Dr:7100, FALSE,TRUE;   20,   -2 Kr:FALSE; L:    12TRUE, 
+    3: Dr:7510, TRUE,FALSE;   -2,   22 Kr:FALSE; L:    17TRUE, 
+    4: Dr:7510, TRUE,FALSE;   -2,   12 Kr:FALSE; L:    20TRUE, 
+    5: Dr:7100, FALSE,TRUE;   17,   -2 Kr:FALSE; L:    22TRUE, 
+    6: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:    71TRUE, 
+    7: Dr:7100, TRUE,FALSE;   -2,  864 Kr:FALSE; L:   134TRUE, 
+    8: Dr:7100, TRUE,FALSE;   -2,    6 Kr:FALSE; L:   186TRUE, 
+    9: Dr:7550, TRUE,FALSE;   -2,  469 Kr:FALSE; L:   453TRUE, 
+   10: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   462TRUE, 
+   11: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   463TRUE, 
+   12: Dr:5047, TRUE,FALSE;   -2,  453 Kr:FALSE; L:   469TRUE, 
+   13: Dr:5047, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   470TRUE, 
+   14: Dr:5047, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   471TRUE, 
+   15: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   484TRUE, 
+   16: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   540TRUE, 
+   17: Dr:5046, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   542TRUE, 
+   18: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   543TRUE, 
+   19: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   544TRUE, 
+   20: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   546TRUE, 
+   21: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   548TRUE, 
+   22: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   553TRUE, 
+   23: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   566TRUE, 
+   24: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   573TRUE, 
+   25: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   574TRUE, 
+   26: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   585TRUE, 
+   27: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   590TRUE, 
+   28: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   592TRUE, 
+   29: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   593TRUE, 
+   30: Dr:7600, FALSE,TRUE;  598,   -2 Kr:FALSE; L:   597TRUE, 
+   31: Dr:7145, TRUE,FALSE;   -2,  597 Kr:FALSE; L:   598TRUE, 
+   32: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   604TRUE, 
+   33: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   608TRUE, 
+   34: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   614TRUE, 
+   35: Dr:7600, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   642TRUE, 
+   36: Dr:5044, FALSE,FALSE;   -1,   -1 Kr:FALSE; L:   648TRUE, 
+   37: Dr:10000, FALSE,TRUE;  191,   -2 Kr:FALSE; L:   811TRUE, 
+   38: Dr:10000, FALSE,TRUE;  813,   -2 Kr:FALSE; L:   814TRUE, 
+   39: Dr:7510, FALSE,TRUE;  134,   -2 Kr:FALSE; L:   864TRUE, 
+********** konec seznamu nehotovych retezcu ***********
+Polyline: 440 - Setting of old polyline topology 
+Hand  L: 437:TRUE P: 436:FALSE
+Foot  L: 481:TRUE P: 482:FALSE
+
+Polyline: 482 - Setting of old polyline topology 
+Hand  L: 480:TRUE P: 438:FALSE
+Foot  L: 440:FALSE P: 481:TRUE
+
+Polyline: 481 - Setting of new polyline topology 
+Hand  L: 440:FALSE P: 482:FALSE
+Foot  L: 506:TRUE P: 506:TRUE
+
+Polyline: 506 - Deleting polyline
+Hand  L: 481:FALSE P: 481:FALSE
+Foot  L: 1101:TRUE P: 1105:FALSE
+
+Polyline: 1101 - Setting of old polyline topology 
+Hand  L: 481:FALSE P: 1105:FALSE
+Foot  L: 437:FALSE P: 431:TRUE
+
+Polyline: 1105 - Setting of old polyline topology 
+Hand  L: 507:FALSE P: 1102:TRUE
+Foot  L: 481:FALSE P: 1101:TRUE
+
+Polyline: 481 - Setting of new polyline topology 
+Hand  L: 440:FALSE P: 482:FALSE
+Foot  L: 1101:TRUE P: 1105:FALSE
+
+Polyline: 481 - Setting of first coord., last coord.
+Hand  L: 440:FALSE P: 482:FALSE
+Foot  L: 1101:TRUE P: 1105:FALSE
+
+Polyline: 823 - Setting of old polyline topology 
+Hand  L: 919:FALSE P: 825:FALSE
+Foot  L: 494:TRUE P: 495:TRUE
+
+Polyline: 495 - Setting of old polyline topology 
+Hand  L: 494:TRUE P: 823:FALSE
+Foot  L: 1103:FALSE P: 508:TRUE
+
+Polyline: 494 - Setting of new polyline topology 
+Hand  L: 823:FALSE P: 495:TRUE
+Foot  L: 507:TRUE P: 507:TRUE
+
+Polyline: 507 - Deleting polyline
+Hand  L: 494:FALSE P: 494:FALSE
+Foot  L: 1105:TRUE P: 1104:FALSE
+
+Polyline: 1105 - Setting of old polyline topology 
+Hand  L: 494:FALSE P: 1102:TRUE
+Foot  L: 481:FALSE P: 1101:TRUE
+
+Polyline: 1104 - Setting of old polyline topology 
+Hand  L: 1103:TRUE P: 1103:TRUE
+Foot  L: 494:FALSE P: 1102:TRUE
+
+Polyline: 494 - Setting of new polyline topology 
+Hand  L: 823:FALSE P: 495:TRUE
+Foot  L: 1105:TRUE P: 1104:FALSE
+
+Polyline: 494 - Setting of first coord., last coord.
+Hand  L: 823:FALSE P: 495:TRUE
+Foot  L: 1105:TRUE P: 1104:FALSE
+
+Polyline: 494 - Setting of old polyline topology 
+Hand  L: 823:FALSE P: 495:TRUE
+Foot  L: 1105:TRUE P: 1104:TRUE
+
+Polyline: 1102 - Setting of old polyline topology 
+Hand  L: 1105:TRUE P: 1104:TRUE
+Foot  L: 431:FALSE P: 365:TRUE
+
+Polyline: 1104 - Setting of new polyline topology 
+Hand  L: 1102:TRUE P: 494:FALSE
+Foot  L: 494:FALSE P: 1102:TRUE
+
+Polyline: 1103 - Deleting polyline
+Hand  L: 1104:TRUE P: 1104:TRUE
+Foot  L: 508:TRUE P: 495:FALSE
+
+Polyline: 508 - Setting of old polyline topology 
+Hand  L: 1104:FALSE P: 495:FALSE
+Foot  L: 498:TRUE P: 499:FALSE
+
+Polyline: 495 - Setting of old polyline topology 
+Hand  L: 494:TRUE P: 823:FALSE
+Foot  L: 1104:FALSE P: 508:TRUE
+
+Polyline: 1104 - Setting of new polyline topology 
+Hand  L: 1102:TRUE P: 494:FALSE
+Foot  L: 508:TRUE P: 495:FALSE
+
+Polyline: 1104 - Setting of first coord., last coord.
+Hand  L: 1102:TRUE P: 494:FALSE
+Foot  L: 508:TRUE P: 495:FALSE
+

@@ -1,0 +1,29 @@
+Valuemacro  SplVyb2;
+{  Формирует код символа 'Спелые насаждения, пригодные для эксплуатации',
+   
+	Вер. 1.1   © ЛесИС, Старостенко Д.А., 2003 год	}
+
+   {  Имена полей БД  
+	M1.OZU      - ОЗУ
+	M1.PRBPOR	- преобладающая порода
+	M1.GRPVOZ	- группа возраста         }
+
+var
+	ResultValue : string;
+
+begin
+			{  ОЗУ - спелые  }
+  if (@M1.OZU = 0)  and ( @M1.GRPVOZ >= 6)  and ((@M1.HOZKAT=0) or (@M1.HOZKAT >= 5)) then
+    begin			
+	if (@M1.HOZKAT=0) then ResultValue := 'SPL'
+	else ResultValue := 'VYB'
+    end
+  else
+    begin
+      if (@M1.HOZMER1=1431) then ResultValue := 'PRZ'
+      else if (@M1.HOZMER1=1441) then ResultValue := 'PRH'
+             else ResultValue := ''    { прочие категории земель }
+    end
+end.
+
+
